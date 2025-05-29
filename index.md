@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome to the Lightning Path
 layout: home
 ---
 
