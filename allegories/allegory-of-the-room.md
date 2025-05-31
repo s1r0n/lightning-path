@@ -1,3 +1,4 @@
+---
 layout: default
 title: Allegory of the Room
 nav_order: 1
