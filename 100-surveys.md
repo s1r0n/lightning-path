@@ -10,7 +10,9 @@ These surveys are designed to support the ongoing construction of a scientifical
 
 * Book mark this page for results
   
-##📊 **The Big Questions Survey**
+
+## 📊 **The Big Questions Survey**
+
 The Big Questions Survey explores your responses to foundational existential questions—“Who am I?”, “Why am I here?”, and “Where am I going?”—with the aim of better understanding the structure and diversity of spiritual belief systems and internal cosmologies.
 
 🔍 Purpose: Map narrative variation and belief structures across populations.
@@ -19,9 +21,10 @@ The Big Questions Survey explores your responses to foundational existential que
 
 ⏱️ Time: Approx. 5–15 minutes.
 
-👉 Take the Big Questions Survey
+👉 [Take the Big Questions Survey](https://lightningpath.org/limesurvey/index.php?r=survey/index&sid=873288&lang=en)
 
-##🌌 **The Mystical Experience Survey**
+## 🌌 **The Mystical Experience Survey**
+
 The Mystical Experience Survey (MES) collects detailed accounts of Connection Episodes—what mainstream psychology might label mystical, transcendent, or peak experiences. This survey supports the construction of a typology of Connection Experience and contributes data for the development of robust measurement tools.
 
 🔍 Purpose: Document and analyze the phenomenology of mystical Connection.
@@ -30,6 +33,6 @@ The Mystical Experience Survey (MES) collects detailed accounts of Connection Ep
 
 ⏱️ Time: Approx. 20 minutes per entry.
 
-👉 Take the Mystical Experience Survey
+👉 [Take the Mystical Experience Survey](https://lightningpath.org/limesurvey/index.php?r=survey/index&sid=816252&lang=en)
 
 By contributing, you help lay the empirical foundation for a new spiritual science—a science grounded not in superstition or speculation, but in lived experience, systematic inquiry, and the pursuit of full human potential.
