@@ -8,7 +8,7 @@ The Lightning Path Survey Project is an evolving research initiative developed t
 
 These surveys are designed to support the ongoing construction of a scientifically rigorous, decolonized, and healing-centered model of human spirituality and Connection. By participating, you contribute to the development of empirically grounded theory and improve our collective understanding of spiritual development free from ideological distortion, religious mystification, and colonial caricature.
 
-📊 **The Big Questions Survey**
+##📊 **The Big Questions Survey**
 The Big Questions Survey explores your responses to foundational existential questions—“Who am I?”, “Why am I here?”, and “Where am I going?”—with the aim of better understanding the structure and diversity of spiritual belief systems and internal cosmologies.
 
 🔍 Purpose: Map narrative variation and belief structures across populations.
@@ -19,7 +19,7 @@ The Big Questions Survey explores your responses to foundational existential que
 
 👉 Take the Big Questions Survey
 
-🌌 **The Mystical Experience Survey**
+##🌌 **The Mystical Experience Survey**
 The Mystical Experience Survey (MES) collects detailed accounts of Connection Episodes—what mainstream psychology might label mystical, transcendent, or peak experiences. This survey supports the construction of a typology of Connection Experience and contributes data for the development of robust measurement tools.
 
 🔍 Purpose: Document and analyze the phenomenology of mystical Connection.
