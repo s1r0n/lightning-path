@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lightning Path Allegories
-nav_order: 70
+nav_order: 20
 has_children: true
 ---
 
