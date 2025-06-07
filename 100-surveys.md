@@ -8,6 +8,8 @@ The Lightning Path Survey Project is an evolving research initiative developed t
 
 These surveys are designed to support the ongoing construction of a scientifically rigorous, decolonized, and healing-centered model of human spirituality and Connection. By participating, you contribute to the development of empirically grounded theory and improve our collective understanding of spiritual development free from ideological distortion, religious mystification, and colonial caricature.
 
+* Book mark this page for results
+  
 ##📊 **The Big Questions Survey**
 The Big Questions Survey explores your responses to foundational existential questions—“Who am I?”, “Why am I here?”, and “Where am I going?”—with the aim of better understanding the structure and diversity of spiritual belief systems and internal cosmologies.
 
