@@ -27,7 +27,7 @@ The Big Questions Survey explores your responses to foundational existential que
 
 The Mystical Experience Survey (MES) collects detailed accounts of Connection Episodes—what mainstream psychology might label mystical, transcendent, or peak experiences. This survey supports the construction of a typology of Connection Experience and contributes data for the development of robust measurement tools.
 
-🔍 Purpose: Document and analyze the phenomenology of mystical Connection.
+🔍 Purpose: Document and analyze the phenomenology of [Connection Experiences](https://spiritwiki.lightningpath.org/index.php/Connection_Experience).
 
 🔁 Repeatable: Submit as many experiences as you like.
 
