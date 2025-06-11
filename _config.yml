@@ -2,11 +2,11 @@ title: The Lightning Path
 description: Bringing the new world to life
 remote_theme: just-the-docs/just-the-docs
 # Define nav manually
-nav:
-  - title: LP Readings
-    children:
-      - title: Ideological Explorations
-        url: /95-readings/30-ideology/
+#nav:
+#  - title: LP Readings
+#    children:
+#      - title: Ideological Explorations
+#        url: /95-readings/30-ideology/
 # Aux links for the upper right navigation
 aux_links:
   "Avatar.GLOBAL":
