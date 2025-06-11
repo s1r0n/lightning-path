@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Lightning Path
 layout: home
-nav_order:1
+nav_order: 10
 ---
 
 ## Welcome to the Lightning Path GitHub Repository
