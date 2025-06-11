@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LP Survey Project
-nav_order: 100
+nav_order: 90
 ---
 # Lightning Path Survey Project
 The Lightning Path Survey Project is an evolving research initiative developed to advance our empirical understanding of Connection Experience, spiritual narrative, and consciousness development. Rooted in the principles of Authentic Spirituality and framed within the Lightning Path Human Development Framework, this project seeks to systematically collect and analyze data related to spiritual awakening, mystical insight, and personal transformation.
