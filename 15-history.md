@@ -4,6 +4,6 @@ title: LP History
 nav_order: 15
 ---
 
-## History of the LP 
+# History of the LP 
 
 coming soon
