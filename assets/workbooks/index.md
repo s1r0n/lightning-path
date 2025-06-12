@@ -5,4 +5,4 @@ nav_order: 90
 has_children: true
 ---
 
-Coming Sooon
+Coming Soon
