@@ -4,7 +4,7 @@ layout: home
 nav_order: 10
 ---
 
-## Welcome to the Lightning Path GitHub Repository
+# Welcome to the Lightning Path GitHub Repository
 
 Welcome. You've arrived at the digital hub of the **Lightning Path**—a bold, integrative [Knowledge System](https://spiritwiki.lightningpath.org/index.php/Knowledge_System) designed to support human [Healing](https://spiritwiki.lightningpath.org/index.php/Healing), [Connection](https://spiritwiki.lightningpath.org/index.php/Connection), and planetary transformation.
 
