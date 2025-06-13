@@ -15,8 +15,8 @@ jobs:
 
       - name: Copy files to assets/
         run: |
-          cp rocketguides/RSGME/RSGME.pdf assets
-          cp rocketguides/RSGAS/RSGAS.pdf assets
+          cp rocketguides/RSGME/RSGME.pdf assets || echo "File not found"
+          cp rocketguides/RSGAS/RSGAS.pdf assets || echo "File not found"
           # add more as needed
 
       - name: Commit and push changes
