@@ -1,0 +1,125 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SurferShopBTN-Bold
+FamilyName:Surfer Shop BTN
+StyleName:Bold
+MenuName:Surfer Shop BTN
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Surfer Shop BTN Bold
+WritingScript:Roman
+OutlineFileName:\Breaking the Norm - SurferShopBTN-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:33560
+FileModTime:1473302938
+NameArray:0,Mac,4,Surfer Shop BTN Bold
+NameArray:0,Win,1,Surfer Shop BTN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SurferShopBTN
+FamilyName:Surfer Shop BTN
+StyleName:Regular
+MenuName:Surfer Shop BTN
+StyleBits:0
+WeightClass:550
+WidthClass:5
+AngleClass:0
+FullName:Surfer Shop BTN
+WritingScript:Roman
+OutlineFileName:\Breaking the Norm - SurferShopBTN.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:36292
+FileModTime:1473696706
+NameArray:0,Mac,4,Surfer Shop BTN
+NameArray:0,Win,1,Surfer Shop BTN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-Bold
+FamilyName:DIN Pro
+StyleName:Bold
+MenuName:DINPro-Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DINPro-Bold
+WritingScript:Roman
+OutlineFileName:\DINPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:113208
+FileModTime:1439544367
+NameArray:0,Mac,4,DINPro-Bold
+NameArray:0,Win,1,DINPro-Bold
+NameArray:0,Win,16,DIN Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro
+FamilyName:DIN Pro
+StyleName:Regular
+MenuName:DINPro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:DINPro
+WritingScript:Roman
+OutlineFileName:\DINPro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:110156
+FileModTime:1439544367
+NameArray:0,Mac,4,DINPro
+NameArray:0,Win,1,DINPro
+NameArray:0,Win,16,DIN Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FontdinerSwanky
+FamilyName:Fontdiner Swanky
+StyleName:Regular
+MenuName:Fontdiner Swanky
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fontdiner Swanky
+WritingScript:Roman
+OutlineFileName:\FontdinerSwanky.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:45524
+FileModTime:1305616432
+NameArray:0,Mac,18,Fontdiner Swanky
+NameArray:0,Mac,4,Fontdiner Swanky
+NameArray:0,Win,1,Fontdiner Swanky
+NameArray:0,Win,16,Fontdiner Swanky
+%EndFont
+

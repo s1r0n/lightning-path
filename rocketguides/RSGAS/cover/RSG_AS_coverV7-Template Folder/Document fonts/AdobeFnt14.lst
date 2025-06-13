@@ -1,0 +1,106 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SurferShopBTN-Bold
+FamilyName:Surfer Shop BTN
+StyleName:Bold
+FullName:Surfer Shop BTN Bold
+MenuName:Surfer Shop BTN
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\avatarpublications\books\PUBLISHED\core a\RSG-Authentic Spirituality\cover\RSG_AS_coverV7-Template Folder\Document fonts\Breaking the Norm - SurferShopBTN-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:33560
+FileModTime:1473320938
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SurferShopBTN
+FamilyName:Surfer Shop BTN
+StyleName:Regular
+FullName:Surfer Shop BTN
+MenuName:Surfer Shop BTN
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\avatarpublications\books\PUBLISHED\core a\RSG-Authentic Spirituality\cover\RSG_AS_coverV7-Template Folder\Document fonts\Breaking the Norm - SurferShopBTN.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:36292
+FileModTime:1473714706
+WeightClass:550
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-Bold
+FamilyName:DIN Pro
+StyleName:Bold
+FullName:DINPro-Bold
+MenuName:DINPro-Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\avatarpublications\books\PUBLISHED\core a\RSG-Authentic Spirituality\cover\RSG_AS_coverV7-Template Folder\Document fonts\DINPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:113208
+FileModTime:1439562368
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro
+FamilyName:DIN Pro
+StyleName:Regular
+FullName:DINPro
+MenuName:DINPro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\avatarpublications\books\PUBLISHED\core a\RSG-Authentic Spirituality\cover\RSG_AS_coverV7-Template Folder\Document fonts\DINPro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:110156
+FileModTime:1439562368
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FontdinerSwanky
+FamilyName:Fontdiner Swanky
+StyleName:Regular
+FullName:Fontdiner Swanky
+MenuName:Fontdiner Swanky
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\avatarpublications\books\PUBLISHED\core a\RSG-Authentic Spirituality\cover\RSG_AS_coverV7-Template Folder\Document fonts\FontdinerSwanky.ttf
+DataFormat:sfntData
+FileLength:45524
+FileModTime:1305634432
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
