@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Taittiriya Upanishad - Eight Anuvaka (section)
-nav_order: 10
+nav_order: 010
 has_children: true
 parent: Workbook One Readings
 ---
