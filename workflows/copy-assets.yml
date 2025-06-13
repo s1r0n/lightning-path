@@ -1,0 +1,31 @@
+
+name: Copy Files to Assets
+
+on:
+  push:
+    branches:
+      - main  # or your GitHub Pages branch
+  workflow_dispatch:
+
+jobs:
+  copy-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name:Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Copy files to assets/
+        run: |
+          mkdir -p assets
+          cp rocketguides/RSGME/RSGME.pdf assets/ || echo "File not found"
+          cp rocketguides/RSGAS/RSGAS.pdf assets/ || echo "File not found"
+          # add more as neededd
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add assets/
+          git commit -m "Automated copy to assets" || echo "No changes to commit"
+          git push
+
