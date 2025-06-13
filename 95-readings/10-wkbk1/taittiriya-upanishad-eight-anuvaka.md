@@ -3,7 +3,7 @@ layout: default
 title: Taittiriya Upanishad - Eight Anuvaka (section)
 nav_order: 10
 has_children: true
-parent: LP Workbook One - Readings
+parent: Workbook One Readings
 ---
 
 >This excerpt from the Taittiriya Upanishad (Brahmanda Valli, Section Eight) articulates a cosmology of ānanda—bliss—as a fundamental and hierarchical expression of Consciousness itself. Through an ascending scale of joy, from human to divine, the text reveals bliss not as mere emotion or pleasure, but as a core characteristic of [Undifferentiated Consciousness](https://spiritwiki.lightningpath.org/index.php/Undifferentiated_Consciousness). The passage ultimately collapses the distinction between embodied self and cosmic source, pointing to the unitary nature of reality: that the Atman (spiritual ego) within and the radiant source (symbolized by the sun) are one. For the Lightning Path, this teaching aligns directly with the understanding that the [Fabric of Consciousness](https://spiritwiki.lightningpath.org/index.php/Fabric_of_Consciousness) is inherently blissful, and that reconnection involves recovering and stabilizing this native state of being.
