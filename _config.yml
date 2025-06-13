@@ -13,11 +13,11 @@ aux_links:
     - "/coming-soon"
 
 # External navigation links
-#nav_external_links:
-#  - title: The Pathfinder Educational Model (PEM)
-#    url: assets/files/1-pem.pdf
-#    hide_icon: false # set to true to hide the external link icon - defaults to false
-#    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+nav_external_links:
+  - title: The SpiritWiki
+    url: https://spiritwiki.lightningpath.org
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
