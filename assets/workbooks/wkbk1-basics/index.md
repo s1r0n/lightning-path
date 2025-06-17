@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightning Path Workbook one - The Basics
+title: LP-WKBK One - The Basics
 nav_order: 10
 has_children: true
 parent: Lightning Path Workbooks
