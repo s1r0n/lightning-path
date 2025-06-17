@@ -1,3 +1,10 @@
+---
+layout: default
+title: License
+nav_exclude: true
+permalink: /license/
+---
+
 # Lightning Path License 1.0 (LPL-1.0)
 
 **© Lightning Path Press / Avatar.Global**
