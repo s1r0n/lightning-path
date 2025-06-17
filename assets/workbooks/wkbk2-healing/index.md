@@ -33,7 +33,7 @@ This workbook offers an academically grounded and systematically structured guid
 
 If you reference this workbook in academic or professional contexts, please cite as:
 
-> Sosteric, M. (2024). *Lightning Path Workbook One: The Basics* (Version 1.0). Lightning Path Press. Retrieved from https://repo.lightningpath.org/assets/workbooks/wkbk1-basics/lp-book-1.pdf
+> Sosteric, M. (2024). *Lightning Path Workbook Two: HEALING Framework (Version 1.0). Lightning Path Press. Retrieved from https://repo.lightningpath.org/assets/workbooks/wkbk2-healing/lp-book-2.pdf
 
 
 
