@@ -4,7 +4,7 @@ nav_order: 10
 parent: Empirical Underpinnings
 ---
 
-The Power of Visualization
+# The Power of Visualization
 
 Visualization and motor imagery are powerful tools for reshaping neural circuits through neuroplasticity. Research in stroke rehabilitation shows that mental rehearsal alone can enhance motor recovery by reorganizing brain activity. A 2014 meta-analysis of randomized clinical trials demonstrated that stroke survivors using mental imagery, combined with physical therapy, exhibited significant improvements in upper limb function—as measured by the Action Research Arm Test—compared with control groups (Kho, Liu, & Chung, 2014). This suggests that visualizing movements contributes to functional brain rewiring, even without overt practice.
 
