@@ -16,10 +16,10 @@ Collectively, these findings demonstrate that visualization not only evokes psyc
 
 References
 
-Decety, J., & Grèzes, J. (2006). The power of simulation: Imagining one’s own and other’s behavior. Brain Research, 1079(1), 4–14. https://www.ncbi.nlm.nih.gov/books/NBK169304/
+Decety, J., & Grèzes, J. (2006). The power of simulation: Imagining one’s own and other’s behavior. Brain Research, 1079(1), 4–14. [https://www.ncbi.nlm.nih.gov/books/NBK169304/](https://www.ncbi.nlm.nih.gov/books/NBK169304/)
 
-Kho, A. Y., Liu, K. P., & Chung, R. C. (2014). Meta‑analysis on the effect of mental imagery on motor recovery of the hemiplegic upper extremity function. Australian Occupational Therapy Journal, 61(2), 38–48. https://www.ncbi.nlm.nih.gov/books/NBK169304/
+Kho, A. Y., Liu, K. P., & Chung, R. C. (2014). Meta‑analysis on the effect of mental imagery on motor recovery of the hemiplegic upper extremity function. Australian Occupational Therapy Journal, 61(2), 38–48. [https://www.ncbi.nlm.nih.gov/books/NBK169304/](https://www.ncbi.nlm.nih.gov/books/NBK169304/)
 
-Janjigian, K. (2024). Picture perfect: The science behind mental imagery for peak performance & best practices for mental imagery protocols in sport. Journal of Imagery Research in Sport and Physical Activity, 19(1), 20230027. https://www.researchgate.net/publication/378367651_Picture_perfect_the_science_behind_mental_imagery_for_peak_performance_best_practices_for_mental_imagery_protocols_in_sport
+Janjigian, K. (2024). Picture perfect: The science behind mental imagery for peak performance & best practices for mental imagery protocols in sport. Journal of Imagery Research in Sport and Physical Activity, 19(1), 20230027. [https://www.researchgate.net/publication/378367651_Picture_perfect_the_science_behind_mental_imagery_for_peak_performance_best_practices_for_mental_imagery_protocols_in_sport](https://www.researchgate.net/publication/378367651_Picture_perfect_the_science_behind_mental_imagery_for_peak_performance_best_practices_for_mental_imagery_protocols_in_sport)
 
-Motor imagery. (2023, March 30). Wikipedia. https://en.wikipedia.org/wiki/Motor_imagery
+Motor imagery. (2023, March 30). Wikipedia. [https://en.wikipedia.org/wiki/Motor_imagery](https://en.wikipedia.org/wiki/Motor_imagery)
