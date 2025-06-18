@@ -12,3 +12,4 @@ The Rocket Scientists’ Guide to Authentic Spirituality is a foundational work 
 📘 [Read the book](https://repo.lightningpath.org/assets/rocketguides/RSGME/RSGME.pdf) — *Rocket Scientists’ Guide to Money and the Economy*
 
 
+ 
