@@ -23,3 +23,5 @@ Kho, A. Y., Liu, K. P., & Chung, R. C. (2014). Meta‑analysis on the effect of 
 Janjigian, K. (2024). Picture perfect: The science behind mental imagery for peak performance & best practices for mental imagery protocols in sport. Journal of Imagery Research in Sport and Physical Activity, 19(1), 20230027. [https://www.researchgate.net/publication/378367651_Picture_perfect_the_science_behind_mental_imagery_for_peak_performance_best_practices_for_mental_imagery_protocols_in_sport](https://www.researchgate.net/publication/378367651_Picture_perfect_the_science_behind_mental_imagery_for_peak_performance_best_practices_for_mental_imagery_protocols_in_sport)
 
 Motor imagery. (2023, March 30). Wikipedia. [https://en.wikipedia.org/wiki/Motor_imagery](https://en.wikipedia.org/wiki/Motor_imagery)
+
+/pf
