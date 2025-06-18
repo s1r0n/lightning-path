@@ -2,7 +2,6 @@
 layout: default
 title: License
 nav_exclude: true
-permalink: ai-instructions-facilitators-manuals
 ---
 ## AI Instructions - Facilitator’s Handbook Entry Structure (Lightning Path)
 
