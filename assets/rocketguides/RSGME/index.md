@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rocket Scientists Guide to Money and the Economy
+title: Rocket Scientists' Guide to Money and the Economy
 nav_order: 10
 has_children: true
 parent: Rocket Guides
@@ -11,5 +11,6 @@ The Rocket Scientists’ Guide to Authentic Spirituality is a foundational work 
 
 📘 [Read the book](https://repo.lightningpath.org/assets/rocketguides/RSGME/RSGME.pdf) — *Rocket Scientists’ Guide to Money and the Economy*
 
+🛒 [Buy the Book](https://www.amazon.com/Rocket-Scientists-Guide-Money-Economy/dp/1897455119) — *Rocket Scientists’ Guide to Money and the Economy*
 
  
