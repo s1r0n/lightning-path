@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightning Path Workbook Two - HEALING Framework
+title: LP-WKBK TWO - HEALING Framework
 nav_order: 20
 has_children: true
 parent: Lightning Path Workbooks
@@ -19,25 +19,12 @@ This workbook offers an academically grounded and systematically structured guid
   - Environmental Assessment  (toxicity)
 
 ---
-layout: default
-title: Lightning Path Workbook one - The Basics
-nav_order: 10
-has_children: true
-parent: Lightning Path Workbooks
----
-
-## 📘 Lightning Path Workbook One: The Basics
-
-**Workbook One: The Basics** introduces the foundational conceptual framework of the Lightning Path (LP), a psycho-social-spiritual development system grounded in consciousness science, developmental psychology, and critical sociology. This first volume equips readers with essential terminology, including key constructs such as The Fabric of Consciousness, the Dual Ego (Bodily and Spiritual), Connection, and the Five Pillars of Authentic Spirituality. It also outlines the mechanisms of Toxic Socialization and their role in disrupting human development, fostering disconnection, and suppressing consciousness. Designed for both individual study and facilitated learning environments, this workbook serves as an accessible yet rigorous entry point for those seeking to heal, reconnect, and actualize their full potential in alignment with the LP’s decolonial and emancipatory mission.
-
----
 
 ### 📄 Metadata
 
 - **Title:** Lightning Path Workbook Two: HEALING Framework  
 - **Author:** Dr. Michael Sosteric  
-- **Publication Date:** 2024  
-- **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
+- **Publication Date:** Draft  
 - **Most Recent PDF Download:** [lp-book-2.pdf](https://repo.lightningpath.org/assets/workbooks/wkbk2-healing/lp-book-2.pdf)
 
 ---
@@ -46,7 +33,7 @@ parent: Lightning Path Workbooks
 
 If you reference this workbook in academic or professional contexts, please cite as:
 
-> Sosteric, M. (2024). *Lightning Path Workbook One: The Basics* (Version 1.0). Lightning Path Press. Retrieved from https://repo.lightningpath.org/assets/workbooks/wkbk1-basics/lp-book-1.pdf
+> Sosteric, M. (2024). *Lightning Path Workbook Two: HEALING Framework (Version 1.0). Lightning Path Press. Retrieved from https://repo.lightningpath.org/assets/workbooks/wkbk2-healing/lp-book-2.pdf
 
 
 
