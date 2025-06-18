@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LP Readings
-nav_order: 95
+nav_order: 90
 has_children: true
 ---
 ## LP Readings
