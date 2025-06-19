@@ -19,6 +19,7 @@ parent: Lightning Path Workbooks
 - **Version:** 1.0  
 - **Publication Date:** Draft  
 - **Most Recent PDF Download:** [lp-book-1.pdf](https://repo.lightningpath.org/assets/workbooks/wkbk1-basics/lp-book-1.pdf)
+- **Associated Facilitators Handbook:** [lp-book-1-facilitators-handbook.pdf](https://repo.lightningpath.org/assets/workbooks/wkbk1-basics/lp-book-1-facilitators-handbook.pdf)
 
 ---
 
