@@ -24,4 +24,6 @@ Janjigian, K. (2024). Picture perfect: The science behind mental imagery for pea
 
 Motor imagery. (2023, March 30). Wikipedia. [https://en.wikipedia.org/wiki/Motor_imagery](https://en.wikipedia.org/wiki/Motor_imagery)
 
+* If you would like to empirical citations to this document, request access to its [Google Docs source](https://docs.google.com/document/d/1lms-6fxILwnq_wir0F3N6o9XbnGcDESTUPCRZLgNjdE/edit?usp=sharing) and contact mikes@athabascau.ca for permission
+
 /pf
