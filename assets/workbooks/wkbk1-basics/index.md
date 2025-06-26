@@ -10,8 +10,6 @@ parent: Lightning Path Workbooks
  
 **Workbook One: The Basics** introduces the foundational conceptual framework of the Lightning Path (LP), a psycho-social-spiritual development system grounded in consciousness science, developmental psychology, and critical sociology. This first volume equips readers with essential terminology, including key constructs such as The Fabric of Consciousness, the Dual Ego (Bodily and Spiritual), Connection, and the Five Pillars of Authentic Spirituality. It also outlines the mechanisms of Toxic Socialization and their role in disrupting human development, fostering disconnection, and suppressing consciousness. Designed for both individual study and facilitated learning environments, this workbook serves as an accessible yet rigorous entry point for those seeking to heal, reconnect, and actualize their full potential in alignment with the LP’s decolonial and emancipatory mission.
 
----
-
 ### 📄 Metadata
 
 - **Title:** Lightning Path Workbook One: The Basics  
@@ -20,8 +18,6 @@ parent: Lightning Path Workbooks
 - **Publication Date:** Draft  
 - **Most Recent PDF Download:** [lp-book-1.pdf](https://repo.lightningpath.org/assets/workbooks/wkbk1-basics/lp-book-1.pdf)
 - **Associated Facilitators Handbook:** [lp-book-1-facilitators-handbook.pdf](https://repo.lightningpath.org/assets/workbooks/wkbk1-basics/lp-book-1-facilitators-handbook.pdf)
-
----
 
 ### 📚 Citation
 
