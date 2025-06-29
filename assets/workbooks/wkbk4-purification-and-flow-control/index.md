@@ -12,6 +12,9 @@ parent: Lightning Path Workbooks
  - [From Zoroaster to Star Wars, Jesus to Marx: The Art, Science, and Technology of Mass Human Manipulation](https://www.academia.edu/34504691) - This article traces the source of this planet's master narrative.
  - [Working Class Hero - By John Lennon](https://www.youtube.com/watch?v=D77dbv-xNfE)
  - [Star Wars is a Religion that Primes us All for War]()
+Bart D. Ehrman, Misquoting Jesus: The Story Behind Who Changed the Bible and Why (Harper One, 2007); Mike Sosteric, “Editing the Bible for Patriarchy,” Academia.Edu, 2020, https://www.academia.edu/43721896
+
+Rethinking the Origins and Purpose of Religion: Jesus, Constantine, and the Containment of Global Revolution—This article examines the teachings of Jesus Christ and shows how these teachings were co-opted and corrupted by Roman elites. https://www.academia.edu/34970150/  
 
 ## Lightning Path Workbook Four: Archetypes and Flow
 
