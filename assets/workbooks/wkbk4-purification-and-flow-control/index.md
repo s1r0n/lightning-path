@@ -10,11 +10,12 @@ parent: Lightning Path Workbooks
 
  - [A Sociology of Tarot](https://www.academia.edu/25055505/A_Sociology_of_Tarot) - reveals the elite origins of the modern tarot deck, what Decker, Depaulis, and Dummet,called the "…most successful propaganda campaign ever launched: not by a very long way the most important, but the most completely successful. An entire false history, and false interpretation, of the Tarot pack was concocted by the occultists; and it is all but universally believed.”
  - [From Zoroaster to Star Wars, Jesus to Marx: The Art, Science, and Technology of Mass Human Manipulation](https://www.academia.edu/34504691) - This article traces the source of this planet's master narrative.
- - [Working Class Hero - By John Lennon](https://www.youtube.com/watch?v=D77dbv-xNfE)
- - [Star Wars is a Religion that Primes us All for War]()
-Bart D. Ehrman, Misquoting Jesus: The Story Behind Who Changed the Bible and Why (Harper One, 2007); Mike Sosteric, “Editing the Bible for Patriarchy,” Academia.Edu, 2020, https://www.academia.edu/43721896
+ - A Short Sociology of Archetypes – This article examines the Freemason’s Creation Template, who created it, and why. [https://www.academia.edu/25055505/](https://www.academia.edu/25055505/)
+ - [Star Wars is a Religion that Primes us All for War](https://theconversation.com/star-wars-is-a-religion-that-primes-us-for-war-and-violence-89443)
+ - Bart D. Ehrman, Misquoting Jesus: The Story Behind Who Changed the Bible and Why (Harper One, 2007); Mike Sosteric, “Editing the Bible for Patriarchy,” Academia.Edu, 2020, https://www.academia.edu/43721896
  - Mike Sosteric, “Editing the Bible for Patriarchy,” Academia.Edu, 2020, https://www.academia.edu/43721896.
- - althuser ideological state apparatus 
+ - The video series “The System”1 also provides a contextualized discussion of symbol factories and ideological institutions, both of which are involved in the creation and dissemination of old energy archetypes.      https://www.youtube.com/watch?v=yVzVuwOQTNM&list=PLsPYCkCxjrQ05G1DhscDM0HRUM35r4HtI&ab_channel=LightningPath
+ -[Althuser, [Ideological state apparatus](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm) 
 
 Rethinking the Origins and Purpose of Religion: Jesus, Constantine, and the Containment of Global Revolution—This article examines the teachings of Jesus Christ and shows how these teachings were co-opted and corrupted by Roman elites. https://www.academia.edu/34970150/  
 
