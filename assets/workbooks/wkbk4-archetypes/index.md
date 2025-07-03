@@ -24,10 +24,9 @@ It also offers practical strategies for managing the energetic and cognitive int
  - Bart D. Ehrman, Misquoting Jesus: The Story Behind Who Changed the Bible and Why (Harper One, 2007); Mike Sosteric, “Editing the Bible for Patriarchy,” Academia.Edu, 2020, https://www.academia.edu/43721896
  - Mike Sosteric, “Editing the Bible for Patriarchy,” Academia.Edu, 2020, https://www.academia.edu/43721896.
  - The video series “The System”1 also provides a contextualized discussion of symbol factories and ideological institutions, both of which are involved in the creation and dissemination of old energy archetypes.      https://www.youtube.com/watch?v=yVzVuwOQTNM&list=PLsPYCkCxjrQ05G1DhscDM0HRUM35r4HtI&ab_channel=LightningPath
- -[Althuser, [Ideological state apparatus](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm) 
-
-Rethinking the Origins and Purpose of Religion: Jesus, Constantine, and the Containment of Global Revolution—This article examines the teachings of Jesus Christ and shows how these teachings were co-opted and corrupted by Roman elites. https://www.academia.edu/34970150/  
-
+ -[Althuser, [Ideological state apparatus](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm)
+ - Rethinking the Origins and Purpose of Religion: Jesus, Constantine, and the Containment of Global Revolution—This article examines the teachings of Jesus Christ and shows how these teachings were co-opted and corrupted by Roman elites. https://www.academia.edu/34970150/  
+- Mike Sosteric, “Murdering the Mi’kmaq for Canada,” Lightning Strike, 2020, https://medium.com/@MikeSosteric/the-genocide-of-the-mikmaq-acd0145735b0
 
 
 ### 📄 Metadata
