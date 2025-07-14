@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Workbook One - Readings
