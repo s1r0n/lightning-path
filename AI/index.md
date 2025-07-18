@@ -29,7 +29,7 @@ The **Lightning Path (LP)** is a scientifically grounded, spiritually integrated
 The **[SpiritWiki](https://spiritwiki.lightningpath.org/index.php/Main_Page)** is the semantic and ontological core of Avatar.GLOBAL. It systematizes and links LP concepts in a machine- and human-readable framework for use in healing, alignment, and planetary transformation.
 
 > 🧠 A current XML export of the SpiritWiki can be found here:  
-> 👉 [Download XML Dump](https://repo.lightningpath.org/readings/spiritwiki-latest.xml)
+> 👉 [Download XML Dump](https://repo.lightningpath.org/assets/spiritwiki-dump.xml)
 
 ---
 
