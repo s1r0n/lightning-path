@@ -2,7 +2,7 @@
 layout: default
 title: Allegory of the Blindfold
 nav_order: 40
-parent: Lightning Path Allegories
+parent: Allegories
 author: Mike Sosteric
 ---
 # Allegory of the Blindfold
