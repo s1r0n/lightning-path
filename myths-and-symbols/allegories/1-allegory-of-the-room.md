@@ -2,7 +2,7 @@
 layout: default
 title: Allegory of the Room
 nav_order: 1
-parent: Lightning Path Allegories
+parent: Allegories
 author: Mike Sosteric
 ---
 # Allegory of the Room
