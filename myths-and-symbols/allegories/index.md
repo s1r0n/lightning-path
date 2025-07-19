@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightning Path Allegories
+title: Allegories
 nav_order: 20
 has_children: true
 parent: Myths and Symbols
