@@ -2,7 +2,7 @@
 layout: default
 title: Allegory of the Dream
 nav_order: 30
-parent: Lightning Path Allegories
+parent: Allegories
 author: Mike Sosteric
 ---
 # Allegory of the Dream
