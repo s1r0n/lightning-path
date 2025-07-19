@@ -2,7 +2,7 @@
 layout: default
 title: Allegory of the Bucket
 nav_order: 20
-parent: Lightning Path Allegories
+parent: Allegories
 author: Mike Sosteric
 ---
 # Allegory of the Smiling Buckets
