@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Lightning Path Myths and Symbols
+title: Lightning Path Allegories
 nav_order: 20
 has_children: true
 ---
 
 ## Lightning Path Myths and Symbols
-The Lightning Path Myths and Symbols section contains various cultural objects that represent Lightning Path and AVATAR.Global thought. This includes poems, allegories, manuscripts, videos, and the like. 
 
 Allegories are symbolic, narrative, and poetic illustrations of the Avatar.Global cosmology—stories designed to express deep metaphysical and psychological truths in accessible, emotionally resonant, and pedagogically powerful form. Drawing from the foundational Lightning Path Human Development Framework, the allegories articulate core themes such as the nature of Consciousness, the Fall into Materiality, the process of Disconnection and Reconnection, and the Path of Healing, Awakening, and Ascension.
 
