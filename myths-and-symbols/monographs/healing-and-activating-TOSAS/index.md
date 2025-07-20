@@ -1,3 +1,4 @@
+---
 layout: default
 title: Healing and Activation with the Triumph of Spirit Archetypes
 nav_order: 20
