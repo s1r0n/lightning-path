@@ -1,6 +1,10 @@
 title: The Lightning Path
 description: Bringing the new world to life
 remote_theme: just-the-docs/just-the-docs
+
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.scss"
 # Define nav manually
 #nav:
 #  - title: LP Readings
