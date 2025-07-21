@@ -12,10 +12,10 @@ Initial formulations of the Lightning Path drew from my own mystical exploration
 
 Today, the Lightning Path is a living, open-source system of human understanding and development offered as part of a larger vision for planetary healing and emancipation through the construction of a truly grassroots spiritual infrastructure. You can explore more by visiting the following websites. If you have questions, feel free to email me at mikes@athabascau.ca
 
-* https://repo.lightningpath.org
-* https://www.lightningpath.org
-* https://spiritwiiwki.lighttningpath.org
-* https://esosteric.lightningpath.org (my personal github)
+* [https://repo.lightningpath.org](https://repo.lightningpath.org)
+* [https://www.lightningpath.org](https://www.lightningpath.org)
+* [https://spiritwiiwki.lighttningpath.org](https://spiritwiiwki.lighttningpath.org)
+* [https://esosteric.lightningpath.org](https://esosteric.lightningpath.org ) (my personal github)
 
 <center>
 <img src="https://spiritwiki.lightningpath.org/images/a/a4/EMANCIPATION.jpg" alt="img" style="zoom: 33%;" />
