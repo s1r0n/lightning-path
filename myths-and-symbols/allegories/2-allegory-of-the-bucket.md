@@ -9,7 +9,7 @@ author: Mike Sosteric
 
 > The *Allegory of the Buckets* is a symbolic narrative that captures the insidious nature of [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization) under modern ideological regimes. Using stark contradiction—smiling figures dispensing filth—the story reveals how systems of power disguise harm as help, normalize abuse, and condition individuals to accept suffering as natural or even necessary. Within the Lightning Path framework, this allegory exposes the psychological violence embedded in institutions like family, school, and religion, and dramatizes the disorientation and long-term damage caused by  **[Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection)** from authentic self and source.
 
-Imagine for a moment a warm field on a clear summer’s day. Imagine yourself a child, sitting in that field. Imagine yourself surrounded by birds, bunnies, bees, flowers, and all the nice things of nature. You are warm, content, and cradled by the beauty that thrives all around you. 
+Imagine  for a moment a warm field on a clear summer’s day. Imagine yourself a child, sitting in that field. Imagine yourself surrounded by birds, bunnies, bees, flowers, and all the nice things of nature. You are warm, content, and cradled by the beauty that thrives all around you. 
 
 Now imagine you see a figure coming towards you, but still a ways off.  Curious, you turn and watch as the figure comes closer and closer. Initially, you can’t make out any features, but as the figure approaches you notice it is smiling and carrying a bright yellow bucket with a bright smiley face painted on the side. 
 
