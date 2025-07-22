@@ -18,7 +18,7 @@ But dimmed and daily waggled, they ignore prophetic tale.<br/><br/>
 And daily wind and rain and violence grew the rankled snatch.<br/>
 And more the queries, drama grew, as fate imposed the latch.<br/>
 And panic ‘neath the surface began to birth a Beast anew.<br/>
-And Jaberwock came snapping, apocalypse is what we view.<br/>
+And Jaberwock came snapping, apocalypse is what we view.<br/><br/>
 
 And the magazines raise questions, and the profits prowl about,<br/>
 And the pedophiles spin spider’s web, and politicians spout,<br/>
