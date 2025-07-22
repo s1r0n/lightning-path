@@ -6,8 +6,7 @@ has_children: true
 parent: Myths and Symbols
 ---
 
-
-## Lightning Path Allegories
+# Lightning Path Allegories
 
 Allegories included here are symbolic, narrative, and poetic illustrations of the [Avatar.Global](https://spiritwiki.lightningpath.org/index.php/Avatar.GLOBAL) cosmology—stories designed to express deep metaphysical and psychological truths in accessible, emotionally resonant, and pedagogically powerful form. Drawing from the foundational [Lightning Path Human Development Framework](https://spiritwiki.lightningpath.org/index.php/Lightning_Path_Human_Development_Framework), the allegories articulate core themes such as the nature of disconnection, the consequences of [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization), and the Path of Healing and reconnection. Awakening, and Ascension.
 
