@@ -10,7 +10,7 @@ parent: Mantic Poems
 <h1>Shambhala Warriors</h1>
 
 Long ago and far away,<br>
-A prophesy told of a day<br>
+A prophesy told of a day<br> 
 When no more death on Earth we’d see<br>
 And balanced true to nature be.<br><br>
 
