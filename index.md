@@ -14,4 +14,4 @@ At its core, the Lightning Path offers a structured and accessible [Human Develo
 
 If that sounds ambitious—yes, it is. But we believe the stakes are high enough to warrant nothing less.
 
-If you have any questions or think you might like to help out in some way, contact the principle Architect and project steward, Mike Sosteric (mikes@athabascau.ca)
+If you have any questions or think you might like to help out in some way, contact the principal Architect and project steward, Mike Sosteric (mikes@athabascau.ca)
