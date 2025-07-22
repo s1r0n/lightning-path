@@ -6,7 +6,7 @@ parent: Mantic Poems
 ---
 <div align="center">
 
-<h2>All Mimsy Were the Borogroves</h2>
+<h1>All Mimsy Were the Borogroves</h1>
 
 <br/>
 
