@@ -5,9 +5,10 @@ nav_order: 1
 parent: Allegories
 author: Mike Sosteric
 ---
-# Allegory of the Room
 
 > The *Allegory of the Room* explores the process of awakening and collective transformation in a context of long-term emotional and spiritual suppression. Through the metaphor of a cold, crowded room and dormant personal heaters, the story symbolizes humanity’s latent capacity for **Connection** and **Human Potential**, as well as the fear, resistance, and trauma that delay our collective healing. In the Lightning Path corpus, the allegory models the uneven, often painful dynamics of systemic change, while affirming the inevitability—and desirability—of planetary reconnection and emergence into a higher state of being.
+
+# Allegory of the Room
 
 Imagine for a moment a large room. In the room are a few hundred people. The room has doors and windows and is like any other room except for the fact that it is cold, so cold that everyone in the room has on several layers of clothing to insulate from the bitter drafts. The people, let’s call them the cold people, are crouched on the floor. Huddled in groups, they are desperate for any warmth they can get.
 
