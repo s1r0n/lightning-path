@@ -5,10 +5,9 @@ nav_order: 30
 parent: Allegories
 author: Mike Sosteric
 ---
-# Allegory of the Dream
-
 > The *Allegory of the Dream* is a visionary narrative that allegorizes the Lightning Path’s diagnosis of global crisis and spiritual amnesia. Through the symbolic contrast between a decaying, hedonistic cruise ship and a ready but mostly ignored rescue vessel, the story dramatizes the existential precarity of contemporary civilization under conditions of [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [ideological capture](https://spiritwiki.lightningpath.org/index.php/Ideology), and systemic denial. It offers both a warning and a hope: a revelation of the structural delusion that blinds society to its own collapse, and a glimpse of emergent [Pathfinder](https://spiritwiki.lightningpath.org/index.php/Pathfinder) leadership capable of guiding humanity toward [Reconnection](https://spiritwiki.lightningpath.org/index.php/Connection), [Healing](https://spiritwiki.lightningpath.org/index.php/Healing), and planetary renewal.
->
+
+# Allegory of the Dream
 
 Imagine for a moment you are sleeping, dreaming of crystal-clear blue ocean. In this dream, you stand on a sandy shore, basking in the warm ocean breeze. Calm and serene, you watch diamonds sparkle the surface of the waves. 
 
