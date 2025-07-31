@@ -10,6 +10,8 @@ last_updated: 2025-07-30
 
 # Sociology 420: Writing New Stories
 
+_Available for registration 2026
+_
 Sociology 420: Writing New Stories is a bold and critical inquiry into the symbolic architecture of human consciousness and society. It explores how archetypes and master narratives shape personal identity, social institutions, and planetary trajectories. Drawing from critical sociology, ideology theory, media analysis, and esoteric traditions, this course empowers students to deconstruct toxic cultural templates and consciously author new, life-affirming alternatives.
 
 Students will learn how archetypes—answers to life’s “big questions”—organize thought, guide behaviour, and serve as ideological tools for social reproduction or transformation. The course introduces the concept of the [Creation Template](https://spiritwiki.lightningpaht.org/index.php/Creation_Template), a curated collection of archetypes designed to influence societal structures and individual self-conception.
