@@ -7,6 +7,9 @@ parent: Courses
 keywords: archetypes, jung, symbol factory, ideological institution, starwars, tarot, master narratives, ideology, symbolic violence
 last_updated: 2025-07-30
 ---
+
+# Sociology 420: Writing New Stories
+
 Sociology 420: Writing New Stories is a bold and critical inquiry into the symbolic architecture of human consciousness and society. It explores how archetypes and master narratives shape personal identity, social institutions, and planetary trajectories. Drawing from critical sociology, ideology theory, media analysis, and esoteric traditions, this course empowers students to deconstruct toxic cultural templates and consciously author new, life-affirming alternatives.
 
 Students will learn how archetypes—answers to life’s “big questions”—organize thought, guide behaviour, and serve as ideological tools for social reproduction or transformation. The course introduces the concept of the [Creation Template](https://spiritwiki.lightningpaht.org/index.php/Creation_Template), a curated collection of archetypes designed to influence societal structures and individual self-conception.
@@ -14,7 +17,7 @@ Students will learn how archetypes—answers to life’s “big questions”—o
 From Tarot decks to Star Wars, from religious dogma to neoliberal consumerism, students will uncover the hidden codes embedded in the stories we live by. The course culminates in a presentation of the Triumph of Spirit Archetype System, an alternative archetypal framework developed for spiritual renewal and planetary healing.
 
 **Learning Objectives
-**
+
 
 * Define and apply the concepts of archetype, narrative, creation template, and master narrative
 * Analyze how stories and symbols function within ideological state apparatuses (Althusser)
