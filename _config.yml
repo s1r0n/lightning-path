@@ -46,6 +46,12 @@ nav_enabled: true
 
 url: https://s1r0n.github.io/
 
+# Add this to your existing _config.yml
+webrick:
+  headers:
+    'Access-Control-Allow-Origin': '*'
+    'Access-Control-Allow-Methods': 'GET, OPTIONS, HEAD'
+    
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
