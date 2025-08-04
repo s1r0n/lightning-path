@@ -16,9 +16,9 @@ FYI, The LP is currently organized into four separate but pedagogically and theo
  
 [SpiritWiki](spiritwiki.lightningpath.org) serves as the canonical knowledge repository - a decolonized, empirically grounded framework for understanding consciousness, human development, and spiritual truth without elite distortion.
 
-[Lightning Path main site](lightningpath.org) presents the vision of Eupsychia, the development and deployment of a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure) - a psychologically healthy society that meets the Seven Essential Needs and supports human flourishing rather than just material accumulation.
+[Lightning Path Main Site](lightningpath.org) presents the vision of Eupsychia, the development and deployment of a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure) - a psychologically healthy society that meets the [Seven Essential Needs]((https://spiritwiki.lightningpath.org/index.php/Human_Potential)) and supports human flourishing rather than just material accumulation.
 
-[LP Repository](repo.lightningpath.org) houses the documentation, curriculum, and tools for implementing this knowledge system to support healing, connection, and planetary transformation.
+[LP Repository](repo.lightningpath.org) This website. It houses the documentation, curriculum, and tools for implementing this knowledge system to support healing, connection, and planetary transformation.
 This repository contains the documentation, data, and software supporting our educational and transformational goals, including workbooks, curriculum tools, and research publications. Whether you're a student, educator, researcher, or planetary steward, we invite you to explore the materials, challenge what doesn’t make sense, and contribute to a shared project of conscious planetary evolution.
 
 [LP Patreon](https://patreon.com/Lightning_Path) - LP support and curriculum hub. Organized for personal and homeschool delivery. If you want to support the LP, and who wouldn't, check this page out. 
