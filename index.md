@@ -13,7 +13,7 @@ At its core, the Lightning Path offers a structured and accessible [Human Develo
 If all this sounds ambitious, it is. However, we believe the stakes are high enough to warrant nothing less.
 
 FYI, The LP is currently organized into four separate but pedagogically and theoretically interrelated websites. 
-
+ 
 [SpiritWiki](spiritwiki.lightningpath.org) serves as the canonical knowledge repository - a decolonized, empirically grounded framework for understanding consciousness, human development, and spiritual truth without elite distortion.
 
 [Lightning Path main site](lightningpath.org) presents the vision of Eupsychia, the development and deployment of a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure) - a psychologically healthy society that meets the Seven Essential Needs and supports human flourishing rather than just material accumulation.
