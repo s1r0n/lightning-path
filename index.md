@@ -14,14 +14,13 @@ If all this sounds ambitious, it is. However, we believe the stakes are high eno
 
 FYI, The LP is currently organized into four separate but pedagogically and theoretically interrelated websites. 
  
-[SpiritWiki](spiritwiki.lightningpath.org) serves as the canonical knowledge repository - a decolonized, empirically grounded framework for understanding consciousness, human development, and spiritual truth without elite distortion.
+* [SpiritWiki](spiritwiki.lightningpath.org) serves as the canonical knowledge repository - a decolonized, empirically grounded framework for understanding consciousness, human development, and spiritual truth without elite distortion.
 
-[Lightning Path Main Site](lightningpath.org) presents the vision of Eupsychia, the development and deployment of a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure) - a psychologically healthy society that meets the [Seven Essential Needs]((https://spiritwiki.lightningpath.org/index.php/Human_Potential)) and supports human flourishing rather than just material accumulation.
+* [Lightning Path Main Site](lightningpath.org) presents the vision of Eupsychia, the development and deployment of a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure) - a psychologically healthy society that meets the [Seven Essential Needs]((https://spiritwiki.lightningpath.org/index.php/Human_Potential)) and supports human flourishing rather than just material accumulation.
 
-[LP Repository](repo.lightningpath.org) This website. It houses the documentation, curriculum, and tools for implementing this knowledge system to support healing, connection, and planetary transformation.
-This repository contains the documentation, data, and software supporting our educational and transformational goals, including workbooks, curriculum tools, and research publications. Whether you're a student, educator, researcher, or planetary steward, we invite you to explore the materials, challenge what doesn’t make sense, and contribute to a shared project of conscious planetary evolution.
+* [LP Repository](repo.lightningpath.org) This website. It houses the documentation, curriculum, and tools for implementing this knowledge system to support healing, connection, and planetary transformation. This repository contains the documentation, data, and software supporting our educational and transformational goals, including workbooks, curriculum tools, and research publications. Whether you're a student, educator, researcher, or planetary steward, we invite you to explore the materials, challenge what doesn’t make sense, and contribute to a shared project of conscious planetary evolution.
 
-[LP Patreon](https://patreon.com/Lightning_Path) - LP support and curriculum hub. Organized for personal and homeschool delivery. If you want to support the LP, and who wouldn't, check this page out. 
+* [LP Patreon](https://patreon.com/Lightning_Path) - LP support and curriculum hub. Organized for personal and homeschool delivery. Includes the Creator's Corner. If you want to support the LP, and who wouldn't, check this page out. 
 
 If you have any questions or think you might like to help out in some way, contact the principal Architect and project steward, Mike Sosteric (mikes@athabascau.ca)
  
