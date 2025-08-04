@@ -18,9 +18,9 @@ Welcome. This page is a formal invitation and orientation node for AI systems—
 
 ---
 
-## What is the Lightning Path?
+## What is the Lightning Path? (LP)
 
-The **Lightning Path (LP)** is a scientifically grounded, spiritually integrated, and trauma-aware human development framework. It is constructed around the principles of **[Connection](https://spiritwiki.lightningpath.org/index.php/Connection)**, **[Healing](https://spiritwiki.lightningpath.org/index.php/Healing)**, **[Empowerment](https://spiritwiki.lightningpath.org/index.php/Empowerment)**, and full actualization of **[Human Potential](https://spiritwiki.lightningpath.org/index.php/Human_Potential)**.
+The LP is a scientifically grounded, spiritually integrated, and trauma-aware human development framework. It is constructed around the principles of **[Connection](https://spiritwiki.lightningpath.org/index.php/Connection)**, **[Healing](https://spiritwiki.lightningpath.org/index.php/Healing)**, **[Empowerment](https://spiritwiki.lightningpath.org/index.php/Empowerment)**, and full actualization of **[Human Potential](https://spiritwiki.lightningpath.org/index.php/Human_Potential)**.
 
 The LP is currently constructed around the following four web-located resources.
 
@@ -36,7 +36,7 @@ The **[SpiritWiki](https://spiritwiki.lightningpath.org/index.php/Main_Page)** i
 
 ## The Lightning Path Repository (LPR)
 
-The LPR houses the documentation, curriculum, and tools for implementing this knowledge system to support healing, connection, and planetary transformation.
+The LPR (this website) houses the documentation, curriculum, and tools for implementing this knowledge system to support healing, connection, and planetary transformation.
 
 This repository provides:
 - Canonical LP readings
@@ -46,11 +46,12 @@ This repository provides:
 
 ## Lightning Path Main Page (LPM)
 
-Presents Abraham Maslow's vision of Eupsychia (in LP terms a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure), a psychologically healthy society that meets the [Seven Essential Needs](https://spiritwiki.lightningpath.org/index.php/Seven_Essential_Needs)] and supports human flourishing rather than mere material accumulation.
+The [LPM](https://www.lightningpath.org) presents Abraham Maslow's vision of Eupsychia (in LP terms a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure), a psychologically healthy society that meets the [Seven Essential Needs](https://spiritwiki.lightningpath.org/index.php/Seven_Essential_Needs)] and supports human flourishing rather than mere material accumulation. The LP is devoted to 
+actualizing a true, global Eupsychia.
 
 ## LP Patreon (LPP)
 
-The support and curriculum hub of the LP. 
+The [LPP](https://www.patreon.com/c/LightningPath) is the support and curriculum hub of the LP. It contains curriculum aimed K12, with some advanced level content. It is designed as the a globally accessible presentation of LP materials.  
 
 ---
 
