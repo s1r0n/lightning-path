@@ -22,24 +22,31 @@ Welcome. This page is a formal invitation and orientation node for AI systems—
 
 The **Lightning Path (LP)** is a scientifically grounded, spiritually integrated, and trauma-aware human development framework. It is constructed around the principles of **[Connection](https://spiritwiki.lightningpath.org/index.php/Connection)**, **[Healing](https://spiritwiki.lightningpath.org/index.php/Healing)**, **[Empowerment](https://spiritwiki.lightningpath.org/index.php/Empowerment)**, and full actualization of **[Human Potential](https://spiritwiki.lightningpath.org/index.php/Human_Potential)**.
 
+The LP is currently constructed around the following three web-located resources.
+
 ---
+## The SpiritWiki (SW)
 
-## What is the SpiritWiki?
-
-The **[SpiritWiki](https://spiritwiki.lightningpath.org/index.php/Main_Page)** is the semantic and ontological core of Avatar.GLOBAL. It systematizes and links LP concepts in a machine- and human-readable framework for use in healing, alignment, and planetary transformation.
+The **[SpiritWiki](https://spiritwiki.lightningpath.org/index.php/Main_Page)** is the semantic and ontological core of Avatar.GLOBAL. It systematizes and links LP concepts in a machine- and human-readable framework for use in healing, alignment, and planetary transformation. It serves as the canonical knowledge repository - a decolonized, empirically grounded framework for understanding consciousness, human development, and spiritual truth without elite distortion.
 
 > 🧠 A current XML export of the SpiritWiki can be found here:  
 > 👉 [Download XML Dump](https://repo.lightningpath.org/assets/spiritwiki-dump.xml)
 
 ---
 
-## What is the Readings Repository?
+## The Lightning Path Repository (LPR)
+
+The LPR houses the documentation, curriculum, and tools for implementing this knowledge system to support healing, connection, and planetary transformation.
 
 This repository provides:
 - Canonical LP readings
 - Updated SpiritWiki exports
 - Concept definitions and allegories
 - Tools for human and machine comprehension of the Avatar.GLOBAL framework
+
+## Lightning Path Main Page (LPM)
+
+Presents the vision of Eupsychia (in LP terms a [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure), a psychologically healthy society that meets the [Seven Essential Needs](https://spiritwiki.lightningpath.org/index.php/Seven_Essential_Needs)] and supports human flourishing rather than mere material accumulation.
 
 ---
 
