@@ -1,11 +1,11 @@
 ---
 layout: default
-title: The Great Awakening: Concepts and Techniques for Successful Spiritual Practice
+title: The Great Awakening - Concepts and Techniques for Successful Spiritual Practice
 nav_order: 10
 has_children: true
 parent: Monographs
 ---
-# The Great Awakening: Concepts and Techniques foor Successful Spiritual Practice
+# The Great Awakening: Concepts and Techniques for Successful Spiritual Practice
 The Great Awakening: Concepts and Techniques for Successful Spiritual Practice is a clear and accessible guide to authentic spiritual growth written by Dr. Mike Sosteric, the founder of the Lightning Path. Unlike typical spiritual texts that dwell in abstract mysticism or religious dogma, this book offers practical advice rooted in lived experience and grounded in a system designed for healing and reconnection. In two parts—"Road School" and "Driving the Roads of Creation"—Dr. Sosteric guides readers through essential concepts like connection, trust, breathing, and self-confidence while debunking common spiritual misconceptions. With down-to-earth language and a compassionate tone, The Great Awakening invites readers to awaken not to a rigid spiritual doctrine, but to their own innate capacity for connection, healing, and empowered living.
 
 ## Theoretical Introduction
