@@ -8,9 +8,9 @@ parent: Monographs
 # Healing and Activating with the Triumph of Spirit Archetypes
 
 <img src="https://spiritwiki.lightningpath.org/images/5/50/Joyful.jpg" align=right width=250px>
-*Healing and Activating with the Triumph of Spirit Archetypes* is a practical and empowering guide for anyone interested in deep spiritual healing and personal transformation. Using the symbolic language of archetypes—powerful images and figures found in art, myth, and psychology—Dr. Mike Sosteric helps readers understand how these symbols can be used not just for insight, but for active healing and spiritual growth. Based on the Lightning Path framework, this book focuses on a set of 22 Archetypes of the Spirit, reimagined from the traditional Tarot deck and freed from their historical distortions. With this clear and grounded approach, readers are invited to explore themselves, confront trauma, and activate their highest potential through safe, intentional engagement with the archetypal language of the soul.
+*Healing and Activating with the Triumph of Spirit Archetypes* is a practical and empowering guide for anyone interested in deep spiritual healing and personal transformation. Using the symbolic language of archetypes, powerful images and figures found in art, myth, and psychology, this book helps readers understand how these symbols can be used not just for insight, but for active healing and spiritual growth. Based on the Lightning Path framework, this book focuses on a set of 22 Archetypes of the Spirit, reimagined from the traditional Tarot deck and freed from their historical and ideological distortions. With this clear and grounded approach, readers are invited to explore themselves, confront trauma, and activate their highest potential through safe, intentional engagement with the archetypal language of the soul.
 
-[Download the Book](https://repo.lightningpath.org/myths-and-symbols/monographs/healing-and-activating-TOSAS/TOSAS-healing-and-activating.pdf) / Purchase the Book
+[Download the Book](https://repo.lightningpath.org/myths-and-symbols/monographs/healing-and-activating-TOSAS/TOSAS-healing-and-activating.pdf) / Support the LP and purchase the Book
 
 ## Theoretical Introduction
 
