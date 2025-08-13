@@ -6,7 +6,7 @@ nav_order: 10
 
 # Welcome to the Lightning Path GitHub Repository
 
-_Everything Here is Free._
+_Everything Here is Free and open access (see [licence](https://github.com/s1r0n/lightning-path/blob/main/license.md))._
 
 Welcome. You have arrived at the digital hub of the **Lightning Path**—a bold, integrative [Knowledge System](https://spiritwiki.lightningpath.org/index.php/Knowledge_System) designed to support human [Healing](https://spiritwiki.lightningpath.org/index.php/Healing), [Connection](https://spiritwiki.lightningpath.org/index.php/Connection), the actuation of full human potential, and planetary transformation. 
 
