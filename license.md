@@ -18,7 +18,7 @@ This License governs the use, reproduction, modification, and distribution of al
 Subject to the conditions below, the Licensor hereby grants you a **royalty-free, non-exclusive, non-transferable license** to:
 
 - Use LP Materials for personal, educational, or non-commercial research purposes;
-- Share LP Materials in unmodified form for non-commercial distribution;
+- Share LP Materials in unmodified form for non-commercial distribution so long as a link is provided to the canonical source (SpiritWiki entry, Repository web page, etc.);
 - Quote or excerpt LP Materials (with attribution) in academic, educational, or creative work, subject to Section 5.
 
 ## 3. Commercial Use – Separate Licensing Required
