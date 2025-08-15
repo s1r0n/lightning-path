@@ -7,3 +7,6 @@ parent: Myths and Symbols
 ---
 
 coming shortly
+
+a sociology of tarot
+a short sociology of archetypes
