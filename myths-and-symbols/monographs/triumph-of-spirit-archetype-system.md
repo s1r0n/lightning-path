@@ -5,7 +5,7 @@ nav_order: 40
 has_children: false
 parent: Monographs
 ---
-# The Triumph of Spirit Archetype System (TOSAS)
+# The Triumph of Spirit Archetype System (TOSAS) 
 <img src="https://spiritwiki.lightningpath.org/images/2/23/Power.png" width=250 align=right>
 _The Triumph of Spirit Archetype System_ is a book that presents a symbolic system dedicated to healing and connection. It offers a radical reframing of archetypes as spiritually empowering tools for human development, healing, and reconnection. Unlike traditional Tarot systems, which are often corrupted by fatalism, mystification, and elite-serving ideological overlays, the TOSAS presents 22 archetypes as vehicles for personal insight, trauma resolution, connection, and spiritual integration.
 
