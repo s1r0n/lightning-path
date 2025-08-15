@@ -1,11 +1,11 @@
----
+<img width="428" height="599" alt="image" src="https://github.com/user-attachments/assets/f8c8db4d-dbc3-436d-aa3e-0fd20163263b" />---
 layout: default
 title: Myths and Symbols
 nav_order: 20
 has_children: true
 ---
  
-# Myths and Symbols
+# Myths and Symbols 
 
 <img src="https://spiritwiki.lightningpath.org/images/thumb/c/ca/World.jpg/642px-World.jpg?20171022131007" width=250 align=right>Myths and Symbols is a curated collection of cultural works—parables, allegories, poems, videos, monographs, and more—that express and explore the core truths of the [Avatar.GLOBAL](https://spiritwiki.lightningpath.org/index.php/Avatar.GLOBAL) cosmology and the [Lightning Path Human Development Framework](https://spiritwiki.lightningpath.org/index.php/Lightning_Path_Human_Development_Framework). These cultural artifacts serve not just as reflections of the system’s principles, but as living symbols that will hopefully inspire healing, emancipation, and reconnection. 
 
