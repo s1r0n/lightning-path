@@ -4,7 +4,7 @@ layout: home
 nav_order: 10
 ---
 
-# Welcome to the Lightning Path GitHub Repository
+# Welcome to the Lightning Path GitHub Repository 
 
 _Everything Here is Free and open access (see [licence](https://github.com/s1r0n/lightning-path/blob/main/license.md))._
 
