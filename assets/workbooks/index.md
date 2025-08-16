@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightning Path Workbooks
+title: LP Workbooks
 nav_order: 40
 has_children: true
 ---
