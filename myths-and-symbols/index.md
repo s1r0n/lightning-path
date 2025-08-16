@@ -1,4 +1,4 @@
-<img width="428" height="599" alt="image" src="https://github.com/user-attachments/assets/f8c8db4d-dbc3-436d-aa3e-0fd20163263b" />---
+---
 layout: default
 title: Myths and Symbols
 nav_order: 20
