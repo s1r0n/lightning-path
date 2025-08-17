@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workbok Two - HEALING
+title: Workbook Two - HEALING
 nav_order: 20
 has_children: true
 parent: LP Workbooks
