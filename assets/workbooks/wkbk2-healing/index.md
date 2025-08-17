@@ -12,7 +12,12 @@ parent: LP Workbooks
 
 📥[Download Workbook Two: Healing](https://repo.lightningpath.org/assets/workbooks/wkbk2-healing/lp-book-2.pdf)
 
+## 📄 Metadata
 
+- **Title:** Lightning Path Workbook Two: HEALING Framework  
+- **Author:** Dr. Michael Sosteric  
+- **Publication Date:** Draft
+  
 ## Additional Materials
 
 -[Allegory of the Bucket](https://spiritwiki.lightningpath.org/index.php/Allegory_of_the_Bucket) ([YouTube Video](https://www.youtube.com/watch?v=y-bDJSR6Z_c)) - An allegorical explication of Toxic Socialization.
@@ -22,11 +27,7 @@ parent: LP Workbooks
   - Needs Analysis (example)
   - Environmental Assessment  (toxicity)
 
-## 📄 Metadata
 
-- **Title:** Lightning Path Workbook Two: HEALING Framework  
-- **Author:** Dr. Michael Sosteric  
-- **Publication Date:** Draft  
 
 ## 📚 Citation
 
