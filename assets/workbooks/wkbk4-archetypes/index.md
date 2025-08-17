@@ -3,7 +3,7 @@ layout: default
 title: Workbook Four - Archetypes and Flow Control
 nav_order: 40
 has_children: true
-parent: Lightning Path Workbooks
+parent: LP Workbooks
 ---
 ## Lightning Path Workbook Four: Archetypes and Flow Control
 
