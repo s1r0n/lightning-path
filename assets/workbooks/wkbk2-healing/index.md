@@ -3,7 +3,7 @@ layout: default
 title: Workbok Two - HEALING
 nav_order: 20
 has_children: true
-parent: Lightning Path Workbooks
+parent: LP Workbooks
 ---
 
 # Lightning Path Workbook Two: Healing Framework
