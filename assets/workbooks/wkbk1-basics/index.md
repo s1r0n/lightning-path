@@ -3,7 +3,7 @@ layout: default
 title: Workbook One - The Basics
 nav_order: 10
 has_children: true
-parent: Lightning Path Workbooks
+parent: LP Workbooks
 ---
 
 ## Lightning Path Workbook One: The Basics
