@@ -8,5 +8,5 @@ has_children: true
 
 <img src="https://repo.lightningpath.org/assets/rocketguides/RSGME/cover/RSGME-cover-800px.jpg" width=200px align=right>The *Rocket Scientists Guide* series is a critical, accessible, and often irreverent exploration of contemporary human knowledge through a Lightning Path lens. It interrogates mainstream narratives in religion, mysticism, science, and society, exposing ideological distortions and systemic interferences while reclaiming the authentic spiritual and developmental core of human experience. This repository hosts the book , supporting materials, and commentary for each title in the series. The goal is to facilitate collaborative refinement, support critical engagement, and advance the broader mission of Avatar.Global and the Lightning Path.
 
-If you like these books, support this project by purchasing ([RSGME](https://www.amazon.ca/Rocket-Scientists-Guide-Money-Economy/dp/1897455119/) or [RSGAS](https://www.amazon.ca/Rocket-Scientists-Guide-Authentic-Spirituality/dp/1897455127)) or by [supporting the LP] (https://spiritwiki.lightningpath.org/index.php/Support).
+If you like these books, support this project by purchasing the books or by [supporting the LP](https://spiritwiki.lightningpath.org/index.php/Support).
 
