@@ -17,10 +17,6 @@ This guide challenges readers to recognize the spiritual and emotional toll of d
 
 🛒 [Buy the Book](https://www.amazon.com/Rocket-Scientists-Guide-Money-Economy/dp/1897455119) — *Rocket Scientists’ Guide to Money and the Economy*
 
-You can also watch the accompanying video, **Money Moksha**
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=opwUrGVc8dA"
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+You can also watch the accompanying video, **Money Moksha** by clicking [this link](https://www.youtube.com/watch?v=opwUrGVc8dA)
 
  
