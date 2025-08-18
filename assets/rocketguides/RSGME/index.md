@@ -5,12 +5,22 @@ nav_order: 10
 has_children: true
 parent: Rocket Guides
 ---
-# Rocket Scientists’ Guide to Authentic Spirituality (RSGAS)
+# Rocket Scientists’ Guide to Money and the Economy (RSGME)
 
-The Rocket Scientists’ Guide to Authentic Spirituality is a foundational work in the Lightning Path series that reclaims the core of spiritual development from centuries of ideological corruption and mystification. Anchored in empirically grounded concepts like Connection, Healing, and the Seven Pillars of Authentic Spirituality, RSGAS systematically differentiates between spiritual systems that heal and empower versus those that confuse and colonize. This guide challenges prevailing spiritual narratives shaped by disconnection, elite manipulation, and mental illness masquerading as mysticism, offering instead a clear standard for evaluating spiritual practices and institutions. It is essential reading for those seeking to establish a science of human spirituality rooted in measurable outcomes, spiritual integrity, and collective liberation.
+<img src="https://repo.lightningpath.org/assets/rocketguides/RSGME/cover/RSGME-cover-800px.jpg" width=250 align=right>
+The *Rocket Scientists’ Guide to Money and the Economy* is a foundational text in the Lightning Path Rocket Guide™ series. This work demystifies the hidden architecture of our global economic system by exposing the ideological, spiritual, and material frameworks used by the Accumulating Class to dominate, exploit, and distract. Informed by a critical decolonial lens and embedded in the healing-centered framework of the Lightning Path, RSGME deconstructs the illusions of scarcity, debt, and progress while highlighting the psycho-spiritual damage inflicted by capitalism and its master narratives. 
+
+This guide challenges readers to recognize the spiritual and emotional toll of disconnection sustained by economic injustice and calls for a reconfiguration of values grounded in Connection, Equity, and Conscious Awareness. It is essential reading for those seeking to dismantle toxic regimes of accumulation and build an economy based on planetary stewardship, human dignity, and authentic spiritual awakening.
+
 
 📘 [Read the book](https://repo.lightningpath.org/assets/rocketguides/RSGME/RSGME.pdf) — *Rocket Scientists’ Guide to Money and the Economy*
 
 🛒 [Buy the Book](https://www.amazon.com/Rocket-Scientists-Guide-Money-Economy/dp/1897455119) — *Rocket Scientists’ Guide to Money and the Economy*
+
+You can also watch the accompanying video, **Money Moksha**
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=opwUrGVc8dA"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
  
