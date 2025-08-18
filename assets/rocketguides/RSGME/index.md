@@ -12,6 +12,7 @@ The *Rocket Scientists’ Guide to Money and the Economy* is a foundational text
 
 This guide challenges readers to recognize the spiritual and emotional toll of disconnection sustained by economic injustice and calls for a reconfiguration of values grounded in Connection, Equity, and Conscious Awareness. It is essential reading for those seeking to dismantle toxic regimes of accumulation and build an economy based on planetary stewardship, human dignity, and authentic spiritual awakening.
 
+---
 
 📘 [Read the book](https://repo.lightningpath.org/assets/rocketguides/RSGME/RSGME.pdf) — *Rocket Scientists’ Guide to Money and the Economy*
 
