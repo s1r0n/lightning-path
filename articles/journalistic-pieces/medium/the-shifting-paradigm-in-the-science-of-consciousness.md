@@ -14,13 +14,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-**Author**: Mike Sosteric
-**Date**: October 12, 2025
-
-**Version**: (0.95)
-
-**Status**: Canonical (c)
-
+**Author**: Mike Sosteric  
+**Date**: October 12, 2025  
+**Version**: (0.95)  
+**Status**: Canonical (c)  
 **Repository Url:** https://repo.lightningpath.org/articles/lightning-path/3-the-shifting-paradigm-in-the-science-of-consciousness.pdf
 
 **Medium URL**: https://thelightningpath.medium.com/the-shifting-paradigm-in-the-science-of-consciousness-93b6314c7f21
