@@ -15,7 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 **Author**: Mike Sosteric
-
 **Date**: October 12, 2025
 
 **Version**: (0.95)
