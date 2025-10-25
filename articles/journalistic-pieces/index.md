@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Articles
+title: Journalistic Pieces
 nav_order: 10
 parent: Articles
 has_children: true
