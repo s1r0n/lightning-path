@@ -15,7 +15,7 @@ Articles Published Elsewhere
 
 1.  Canonical Url https://repo.lightningpath.org/articles/lightning-path/3-the-shifting-paradigm-in-the-science-of-consciousness.pdf
 2. Medium URL:
-3. Academia URL: 
+3. Academia URL:  
 
 
 
