@@ -2,7 +2,7 @@
 layout: default
 title: Medium Articles
 nav_order: 20
-parent: Articles
+parent: Journalistic Pieces
 has_children: true
 ---
 
