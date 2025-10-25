@@ -3,7 +3,7 @@ layout: default
 title: Are Bullies Alpha Males or sick Puppies
 nav_order: 15
 has_children: false 
-parent: Journalistic Pieces
+parent: The Conversation
 ---
 
 # Are Bullies Alpha Males or Sick Puppies
