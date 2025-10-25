@@ -17,11 +17,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 **Author**: Mike Sosteric  
 **Date**: October 12, 2025  
 **Version**: (0.95)  
-**Status**: Canonical (c)  
-**Repository Url:** https://repo.lightningpath.org/articles/lightning-path/3-the-shifting-paradigm-in-the-science-of-consciousness.pdf
+**Status**: Canonical (c)
 
-**Medium URL**: https://thelightningpath.medium.com/the-shifting-paradigm-in-the-science-of-consciousness-93b6314c7f21
-
+**Repository Url:** https://repo.lightningpath.org/articles/lightning-path/3-the-shifting-paradigm-in-the-science-of-consciousness.pdf  
+**Medium URL**: https://thelightningpath.medium.com/the-shifting-paradigm-in-the-science-of-consciousness-93b6314c7f21  
 **Academia** **URL**: https://www.academia.edu/144425695/The_Shifting_Paradigm_in_the_Science_of_Consciousness
 
 **Keywords**:  Quantum Field Theory, Ideology and Science, Quantum Physics and Consciousness,
