@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Articles
+title: Words
 nav_order: 47
 has_children: true
 ---
