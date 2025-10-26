@@ -9,12 +9,15 @@ has_children: true
 
 **Narrative Visualizations** are short or medium-length visual stories—animated, illustrated, or live-action—that use myth, metaphor, and narrative structure to explore and embody core concepts of the Avatar.GLOBAL framework. These visual works function as cognitive-emotional tools: they help viewers internalize spiritual truth, confront ideological distortion, and viscerally experience the emotional, psychological, and existential dynamics of disconnection and reconnection. Unlike mainstream media, which often serve to normalize trauma, perpetuate false archetypes, or glorify elite violence, Narrative Visualizations presented here are healing-oriented, symbolically rich, and aligned with the **Seven Pillars of Authentic Spirituality**.
 
-Each visualization is a teaching device, a meditative aid, and a decolonial intervention.
-
 For more on Narrative Visualization, see the [SpiritWiki Entry](https://spiritwiki.lightningpath.org/index.php/Narrative_Visualization)
 
 ---
 
+## List
+
+[Kingdom](https://www.youtube.com/watch?v=MA3iscoypcY&list=RDMA3iscoypcY&start_radio=1) - YouTube Short. An absolutely brilliant visualization of not only the psychological and spiritual damaged caused by [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socializatio), but the the individual and collective transformation that comes via an authentic healing process. The Kingdom is realization of [Eupsychi](https://spiritwiki.lightningpath.org/index.php/Eusychia). This is the first entry into the LP archive. 
+
+---
 ## Curatorial Guidelines
 
 To qualify for inclusion, all Narrative Visualizations must be in full alignment with the Avatar.GLOBALframework:
@@ -25,6 +28,8 @@ To qualify for inclusion, all Narrative Visualizations must be in full alignment
 - Contain no gratuitous violence, manipulation, or glorification of hierarchy.
 - Be non exclusionary
 - Be accessible in tone, language, and symbolic grammar.
+
+To suggest an entry, email mikes@athabascauc.a
 
 ---
 
