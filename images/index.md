@@ -15,7 +15,7 @@ The archive is organized into the following categories:
 
 **Symbolic Works** — Paintings, digital art, mandalas, and visual metaphors that symbolically represent core LP principles (e.g., the Fabric of Consciousness, disconnection, ascension).
 
-**[Narrative Visualizations]([https://repo.lightningpath.org/images/narrative-visualizations.html)** — Story-driven animations and short films that explore key LP themes such as mystical connection, toxic socialization, and spiritual healing.
+**[Narrative Visualizations](https://repo.lightningpath.org/images/narrative-visualizations.html)** — Story-driven animations and short films that explore key LP themes such as mystical connection, toxic socialization, and spiritual healing.
 
 **Instructional Visuals** — Diagrams, animations, and video lectures that visually teach concepts from the SpiritWiki and the broader Lightning Path Curriculum.
 
