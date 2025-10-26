@@ -7,7 +7,7 @@ has_children: true
 
 # Narrative Visualizations
 
-**Narrative Visualizations** are short or medium-length visual stories—animated, illustrated, or live-action—that use myth, metaphor, and narrative structure to explore and embody core concepts of the Avatar.GLOBAL framework. These visual works function as cognitive-emotional tools: they help viewers internalize spiritual truth, confront ideological distortion, and viscerally experience the emotional, psychological, and existential dynamics of disconnection and reconnection. Unlike mainstream media, which often serve to normalize trauma, perpetuate false archetypes, or glorify elite violence, Narrative Visualizations presented here are healing-oriented, symbolically rich, and aligned with the **Seven Pillars of Authentic Spirituality**.
+**Narrative Visualizations** are short or medium-length visual stories—animated, illustrated, or live-action—that use myth, metaphor, and narrative structure to explore and embody core concepts of the Avatar.GLOBAL framework. These visual works function as cognitive-emotional tools: they help viewers internalize spiritual truth, confront ideological distortion, and viscerally experience the emotional, psychological, and existential dynamics of disconnection and reconnection. Unlike mainstream media, which often serve to normalize trauma, perpetuate false archetypes, or glorify elite violence. Narrative Visualizations presented here are healing-, connection-, and transformation-oriented, symbolically rich, and fully aligned with the Avatar.GLOBAL framework.
 
 For more on Narrative Visualization, see the [SpiritWiki Entry](https://spiritwiki.lightningpath.org/index.php/Narrative_Visualization)
 
