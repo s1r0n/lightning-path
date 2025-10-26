@@ -2,7 +2,7 @@
 layout: default
 title: Journalistic Pieces
 nav_order: 10
-parent: Articles
+parent: Words
 has_children: true
 ---
 
