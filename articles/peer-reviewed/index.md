@@ -2,7 +2,7 @@
 layout: default
 title: Peer Reviewed
 nav_order: 30
-parent: Articles
+parent: Words
 has_children: true
 ---
 
