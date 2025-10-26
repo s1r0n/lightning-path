@@ -5,7 +5,7 @@ nav_order: 48
 has_children: true
 ---
 
-== Images 
+# Images
 
 The Images section is a curated visual archive designed to support the conceptual, emotional, and spiritual integration work of the Avatar.GLOBAL framework. From paintings and illustrations to animation, shorts, and feature-length films, these media offerings bring to life the ontological foundations, psychological insights, and cosmological narratives of the Lightning Path. Each visual work functions as a symbolic mirror, educational tool, or healing vector, contributing to the collective project of reconnection and planetary transformation. Where traditional media often serve elite ideology and disconnection, all entries in this archive are selected or created for their resonance with authentic spirituality, emotional truth, and decolonial clarity.
 
