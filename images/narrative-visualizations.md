@@ -15,7 +15,8 @@ For more on Narrative Visualization, see the [SpiritWiki Entry](https://spiritwi
 
 ## List
 
-* [Kingdom](https://www.youtube.com/watch?v=MA3iscoypcY&list=RDMA3iscoypcY&start_radio=1) - An absolutely brilliant visualization of not only the psychological and spiritual damaged caused by [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization), but the the individual and collective transformation that comes via an authentic healing process. The Kingdom is a metaphoric realization of the healing required before the emergence of [Eupsychia](https://spiritwiki.lightningpath.org/index.php/Eusychia). This is the first entry into the LP archive. 
+* [Kingdom](https://www.youtube.com/watch?v=MA3iscoypcY&list=RDMA3iscoypcY&start_radio=1) - An absolutely brilliant visualization of not only the psychological and spiritual damaged caused by [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization), but the the individual and collective transformation that comes via an authentic healing process. The Kingdom is a metaphoric realization of the healing required before the emergence of [Eupsychia](https://spiritwiki.lightningpath.org/index.php/Eusychia). This is the first entry into the LP archive.
+* [Eden](https://www.youtube.com/watch?v=xY9Y4-yuFKY&list=RDMA3iscoypcY&index=2) - A similarily brilliant visualization of the destruction brought about by the capitalist exploitation of the planet and all its life forms. 
 
 ---
 ## Curatorial Guidelines
