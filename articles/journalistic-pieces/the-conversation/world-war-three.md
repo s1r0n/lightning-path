@@ -18,16 +18,15 @@ parent: The Conversation
 
 ### Summary
 
-This article introduces the notion that **World War III is not a military conflict, but a digital war for control of human consciousness**. Sosteric argues that modern cyberwarfare—through bots, disinformation, and mass manipulation—is a **systemic and coordinated assault on clarity, connection, and autonomy**. This is a conflict not between states, but between elite control structures and the rising human demand for truth, peace, and reconnection.
+This article introduces the notion that **World War III is not a military conflict, but a digital war for control of human consciousness**. Sosteric argues that modern cyberwarfare—through bots, disinformation, and mass manipulation—is a **systemic and coordinated assault on clarity, connection, and autonomy**. This is a conflict not between states, but between control structures created by the (Accumulating Class)[https://spiritwiki.lightninpath.org/index.php/Accumulating_Class) and the rising human demand for truth, peace, healing, and reconnection.
 
 ### Theoretical Integration
 
 Deeply aligned with LP’s macro-frameworks:
 
-- **[Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation)**: Global conflict framed as a digital assault on collective perception and integrity.
-- **[Mass Consciousness](https://spiritwiki.lightningpath.org/index.php/Mass_Consciousness)**: The strategic shaping of cultural perception through data and algorithmic weapons.
+- **Global conflict** framed as a digital assault on collective perception, manipulation of - **[Mass Consciousness](https://spiritwiki.lightningpath.org/index.php/Mass_Consciousness)**: The strategic shaping of cultural perception through data and algorithmic weapons.
 - **[Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection)**: The intended outcome of digital propaganda warfare.
-- **[Control](https://spiritwiki.lightningpath.org/index.php/Control)**: Centralization of narrative authority through platform capture and algorithmic targeting.
+- Centralization of narrative authority and control through platform capture and algorithmic targeting.
 
 ### Repository Tags
 
