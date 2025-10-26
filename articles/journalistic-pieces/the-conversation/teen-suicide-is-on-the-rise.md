@@ -28,6 +28,8 @@ This article is situated firmly within the **[Lightning Path Human Development F
 - **[Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection)**: The severance of the [Physical Unit](https://spiritwiki.lightningpath.org/index.php/Physical_Unit) from the [Resident Monadic Self](https://spiritwiki.lightningpath.org/index.php/Resident_Monadic_Self), resulting in psychic, emotional, and existential crisis.
 - **[HEALING Framework](https://spiritwiki.lightningpath.org/index.php/HEALING_Framework)**: Highlights how **[Needs](https://spiritwiki.lightningpath.org/index.php/Needs)** deprivation, persistent **[Lying](https://spiritwiki.lightningpath.org/index.php/Lying)**, and internalized **[Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology)** reproduce structural harm and obstruct developmental pathways.
 - **[Regime of Accumulation](https://spiritwiki.lightningpath.org/index.php/Regime_of_Accumulation)**: The dominant global system that enforces disconnection and undermines human development through economic, ideological, and institutional violence.
+- **[Seven Essential Needs](https://spiritwiki.lightningpaht.org/index.php/Seven_Essential_Needs)**: The needs that all individuals must fulfill if they are going to grow up healthy and reach their full developmental potential.
+
 
 The article exemplifies **applied LP diagnostics**, translating abstract theory into an incisive critique of dominant mental health narratives and their complicity in elite-maintained systems of control.
 
