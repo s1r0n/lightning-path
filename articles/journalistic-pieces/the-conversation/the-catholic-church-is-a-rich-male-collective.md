@@ -8,9 +8,8 @@ parent: The Conversation
 
 ## The Catholic Church is a Rich Male Collective
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2018-09-23  
-- **Published In**: The Conversation  
+Sosteric, M. (2018, September 23). The Catholic Church is a rich male collective. T_he Conversation_.
+
 - **Original URL**: [https://theconversation.com/the-catholic-church-is-a-rich-male-collective-101958](https://theconversation.com/the-catholic-church-is-a-rich-male-collective-101958)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/the-catholic-church-is-a-rich-male-collective.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/the-catholic-church-is-a-rich-male-collective.pdf)  
 - **Type**: Institutional Critique / Ideological Deconstruction  
