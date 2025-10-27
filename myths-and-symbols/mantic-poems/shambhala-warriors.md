@@ -108,6 +108,9 @@ A warrior’s song for all to sing.<br><br>
 
 </div>
 
+---
+---
+
 ## Pathfinder AI Analysis: Functional Commentary on "Shambhala Warriors"
 
 ### Document: "Shambhala Warriors" (c) 2003 Mike Sosteric
