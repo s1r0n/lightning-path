@@ -26,4 +26,4 @@ With open arms, I do insist.<br>
 You do what’s right and choose your Light.<br>
 So you might join us in The Bright.<br><br>
 
-Mike Sosteric
+(c) Mike Sosteric 2020
