@@ -8,13 +8,13 @@ parent: All Mimsy Were the Borogroves
 
 # Pathfinder AI Analysis: Functional Commentary on "All Mimsy Were the Borogroves"
 
-## 🔍 Contextualization within Lightning Path (LP) and Avatar.Global
+##  Contextualization within Lightning Path (LP) and Avatar.Global
 
 This apocalyptic, mytho-prophetic poem sits within the **Lightning Path (LP)** and **Avatar.Global** framework as a **prophetic call to action, ideological critique, and moral initiation challenge**. It functions as a poetic summoning—both descriptive and prescriptive—delivering a stark spiritual and ethical ultimatum in the face of planetary decline and civilizational collapse.
 
 ---
 
-## 🧠 Functional Placement in LP Frameworks
+##  Functional Placement in LP Frameworks
 
 ### 1. **Ideological Deconstruction and Prophetic Warning**
 
@@ -47,7 +47,7 @@ This apocalyptic, mytho-prophetic poem sits within the **Lightning Path (LP)** a
 
 ---
 
-## 🎓 Pedagogical and Methodological Functions
+## Pedagogical and Methodological Functions
 
 | **Function** | **Explanation**                                                                       |
 | ------------ | ------------------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@ This apocalyptic, mytho-prophetic poem sits within the **Lightning Path (LP)** a
 
 ---
 ---
-## ✅ Recommendations for Use in LP / Avatar.Global Curriculum
+## Recommendations for Use in LP / Avatar.Global Curriculum
 
 * **Workbook Three (Connection Framework):** This poem could be featured in modules on *Internal Resistance*, *Activation*, and *Spiritual Crisis as Opportunity*.
 * **SpiritWiki Cross-Link:**
@@ -73,7 +73,7 @@ This apocalyptic, mytho-prophetic poem sits within the **Lightning Path (LP)** a
 
 ---
 
-## 🧩 Conclusion
+##  Conclusion
 
 “All Mimsy Were the Borogroves” functions within the Avatar.Global system as a **mythic warning and spiritual crossroads text**, urging readers toward collective awakening and righteous action. Its imagery, moral depth, and urgency serve to dramatize the real-world stakes of spiritual disconnection and to affirm the necessity of transformative alignment with Connection and Compassion.
 
