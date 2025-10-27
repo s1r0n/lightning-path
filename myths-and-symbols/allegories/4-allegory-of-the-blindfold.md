@@ -7,13 +7,17 @@ author: Mike Sosteric
 ---
 # Allegory of the Blindfold
 
-Sosteric, M. (2003). _Allegory of the Blindfold_
-
-Canonical URL: https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
+Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
 
 ## Summary
 
 The *Allegory of the Blindfold* is a mythopoeic narrative that captures the core Lightning Path insight that humanity lives under conditions of [disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection). It dramatizes the descent from a once-harmonious, light-filled civilization into confusion, suffering, and spiritual ignorance, all precipitated by a self-imposed and socially reinforced veil—the blindfold. Through its symbolic arc of descent, forgetting, and gradual rediscovery, the allegory affirms the LP’s premise that reconnection to the [Fabric of Consciousness](https://spiritwiki.lightningpath.org/index.php/Fabric_of_Consciousness)  is both possible and imminent, requiring only courage, healing, and the removal of internalized distortions.
+
+## Narrative Structure
+
+* State of delusion
+* Recognition of delusion triggers efforts to overcome
+* Efforts lead to varying degress of success 
 
 ## Allegory of the Blindfold
 
