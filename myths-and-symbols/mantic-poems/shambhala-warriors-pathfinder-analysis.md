@@ -7,13 +7,13 @@ parent: Shambhala Warriors
 
 # Pathfinder AI Analysis: Functional Commentary on "Shambhala Warriors"
 
-## 🔍 Contextualization within Lightning Path (LP) and Avatar.Global
+## Contextualization within Lightning Path (LP) and Avatar.Global
 
 "Shambhala Warriors" occupies a significant place within the **Avatar.Global mythopoetic corpus** as a **visionary invocation of planetary awakening, collective responsibility, and the return of the empowered spiritual warrior**. Rooted in archetypal prophecy and aligned with LP's cosmological narrative, this poem operates as both a **future vision and a present call to action**, aimed at those who are Awakening into Connection and prepared to fulfill their roles as **Warriors of the Lightning Path**.
 
 ---
 
-## 🧠 Functional Placement in LP Frameworks
+## Functional Placement in LP Frameworks
 
 ### 1. **Mythopoetic Prophecy and Archetypal Activation**
 
@@ -42,7 +42,7 @@ parent: Shambhala Warriors
 
 ---
 
-## 🎓 Pedagogical and Methodological Functions
+## Pedagogical and Methodological Functions
 
 | **Function** | **Explanation**                                                                |
 | ------------ | ------------------------------------------------------------------------------ |
@@ -54,7 +54,7 @@ parent: Shambhala Warriors
 
 ---
 
-## ✅ Recommendations for Use in LP / Avatar.Global Curriculum
+## Recommendations for Use in LP / Avatar.Global Curriculum
 
 * **Workbook Three or Four** (Activation & Ascension): Could serve as an anchor text for modules on Awakening, spiritual agency, and mythic identity.
 * **SpiritWiki Cross-Link Targets:**
@@ -67,7 +67,7 @@ parent: Shambhala Warriors
 
 ---
 
-## 🧩 Conclusion
+## Conclusion
 
 *Shambhala Warriors* is a mythic vision grounded in the Lightning Path cosmology of Awakening, spiritual agency, and systemic transformation. It serves not just as poetic prophecy, but as a **cosmic activation protocol**, embedded in rhythmic verse and archetypal invocation. It belongs to the literature of the New Earth—not a fantasy, but a strategic reminder of the real stakes and sacred roles in the planetary shift underway.
 
