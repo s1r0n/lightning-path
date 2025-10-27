@@ -21,4 +21,4 @@ Unfortunately, total transformation of the room does take time, much longer than
 
 ---
 
-(c) Sosteric, M. (2003). _Allegory of the Room_. https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html
+(c) Sosteric, M. (2003). _Allegory of the Room_. [https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html](https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html)
