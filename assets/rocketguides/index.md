@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rocket Guides
-nav_order: 30
+nav_order: 35
 has_children: true
 ---
 # Rocket Scientists Book Series
