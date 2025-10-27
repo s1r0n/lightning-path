@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shambhala Warriors
-has_children: false
+has_children: true
 parent: Mantic Poems
 ---
 
