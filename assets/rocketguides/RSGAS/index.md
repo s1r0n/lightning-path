@@ -29,7 +29,7 @@ Through this work, the Lightning Path provides the tools to construct authentic,
 > **This is essential reading for anyone seeking clarity in their spiritual journey and for those ready to help restore humanity’s birthright of empowered, conscious Connection.**
 
 ---
-📘 [Read the book]([RSGME.pdf](https://repo.lightningpath.org//assets/rocketguides/RSGAS/RSGAS.pdf) — Read for free or...
+📘 [Read the book](https://repo.lightningpath.org//assets/rocketguides/RSGAS/RSGAS.pdf) — Read for free or...
 
 🛒 [Buy the Book](https://www.amazon.com/Rocket-Scientists-Authentic-Spirituality-Guides/dp/1897455127) — Support this repository and the continued development of the LP 
 
