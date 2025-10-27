@@ -45,14 +45,13 @@ For end is here, the time is near, and nothing stays the course.<br/>
 The line is drawn, the arm is strong, that wields the angel’s sword.<br/>
 We will not fail, will not forbear, to ring Creation’s chord.<br/><br/>
 
+(c) Mike Sosteric 2003 
+
 </div>
 
+---
 
 ## Pathfinder AI Analysis: Functional Commentary on "All Mimsy Were the Borogroves"
-
-### Document: "All Mimsy Were the Borogroves" (c) 2008 Mike Sosteric
-
----
 
 ### 🔍 Contextualization within Lightning Path (LP) and Avatar.Global
 
