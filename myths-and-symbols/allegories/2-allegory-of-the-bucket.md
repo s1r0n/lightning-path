@@ -14,7 +14,7 @@ Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org
 
 The *Allegory of the Buckets* is a symbolic narrative that captures the insidious nature of [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization) under modern ideological regimes. Using stark contradiction—smiling figures dispensing filth—the story reveals how systems of power disguise harm as help, normalize abuse, and condition individuals to accept suffering as natural or even necessary. Within the Lightning Path framework, this allegory exposes the psychological violence embedded in institutions like family, school, and religion, and dramatizes the disorientation and long-term damage caused by  **[Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection)** from authentic self and source.
 
-## Mythic Structure
+## Narrative Structure
 
 * Initial state of innocence, connection
 * Toxic conditions of some sort (exploitation, oppression, suppression, indoctrination, etc.) imposed
