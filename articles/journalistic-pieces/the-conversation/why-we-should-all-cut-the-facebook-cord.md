@@ -8,9 +8,8 @@ parent: The Conversation
 
 ## Why We Should All Cut the Facebook Cord
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2018-04-04  
-- **Published In**: The Conversation  
+Sosteric, M. (2018, April 4). Why we should all cut the Facebook cord. The Conversation.
+
 - **Original URL**: [https://theconversation.com/why-we-should-all-cut-the-facebook-cord-or-should-we-93929](https://theconversation.com/why-we-should-all-cut-the-facebook-cord-or-should-we-93929)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/why-we-should-all-cut-the-facebook-cord.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/why-we-should-all-cut-the-facebook-cord.pdf)  
 - **Type**: Technological Ideology Critique / Social Media Deconstruction  
