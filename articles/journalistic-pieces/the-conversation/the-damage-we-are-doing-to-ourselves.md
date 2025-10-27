@@ -8,10 +8,9 @@ parent: The Conversation
 
 ## The Damage We’re Doing to Our Children and Ourselves
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2018-06-24  
-- **Published In**: The Conversation  
-- **Original URL**: [https://theconversation.com/the-damage-were-doing-to-our-children-and-ourselves-97894](https://theconversation.com/the-damage-were-doing-to-our-children-and-ourselves-97894)  
+Sosteric, M. (2018, June 24). The damage we’re doing to our children and ourselves. The Conversation.
+
+-  **Original URL**: [https://theconversation.com/the-damage-were-doing-to-our-children-and-ourselves-97894](https://theconversation.com/the-damage-were-doing-to-our-children-and-ourselves-97894)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/the-damage-we-are-doing-to-ourselves-and-our-children.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/the-damage-we-are-doing-to-ourselves-and-our-children.pdf)  
 - **Type**: Public Sociology / LP Structural Analysis  
 - **Keywords**: [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Needs](https://spiritwiki.lightningpath.org/index.php/Needs), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Trauma](https://spiritwiki.lightningpath.org/index.php/Trauma), [Childhood Abuse](https://spiritwiki.lightningpath.org/index.php/Abuse), [Mental Health](https://spiritwiki.lightningpath.org/index.php/Mental_Health)
