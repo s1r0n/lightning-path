@@ -14,9 +14,9 @@ This guide challenges readers to recognize the spiritual and emotional toll of d
 
 ---
 
-📘 [Read the book](https://repo.lightningpath.org/assets/rocketguides/RSGME/RSGME.pdf) — *Rocket Scientists’ Guide to Money and the Economy*
+📘 [Read the book](https://repo.lightningpath.org/assets/rocketguides/RSGME/RSGME.pdf) - Read for free. Better yet
 
-🛒 [Buy the Book](https://www.amazon.com/Rocket-Scientists-Guide-Money-Economy/dp/1897455119) — *Rocket Scientists’ Guide to Money and the Economy*
+🛒 [Buy the Book](https://www.amazon.com/Rocket-Scientists-Guide-Money-Economy/dp/1897455119) — Support this repository and the continued development of the LP 
 
 You can also watch the accompanying video, **Money Moksha** by clicking [this link](https://www.youtube.com/watch?v=opwUrGVc8dA)
 
