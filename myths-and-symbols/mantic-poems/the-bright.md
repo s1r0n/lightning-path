@@ -6,7 +6,8 @@ parent: Mantic Poems
 ---
 <div align="center">
   
-<h1>The Bright</h1>
+<h1>The Bright</h1>  
+
 
 I’m not a reject from the Garden<br>
 I’m not a violent ape evolving,<br>
