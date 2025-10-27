@@ -8,9 +8,8 @@ parent: The Conversation
 
 ## How the Conservative Right Hijacks Religion
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2019-07-21  
-- **Published In**: The Conversation  
+Sosteric, M. (2019, July 21). How the conservative right hijacks religion. _The Conversation_.
+
 - **Original URL**: [https://theconversation.com/how-the-conservative-right-hijacks-religion-109218](https://theconversation.com/how-the-conservative-right-hijacks-religion-109218)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/how_the_conservative_right_hijacks_religion.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/how_the_conservative_right_hijacks_religion.pdf)  
 - **Type**: Ideological Analysis / Religious Deconstruction  
