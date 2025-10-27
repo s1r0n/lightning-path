@@ -8,9 +8,8 @@ parent: The Conversation
 
 ## How Money is Destroying the World
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2018-05-21  
-- **Published In**: The Conversation  
+Sosteric, M. (2018, May 21). How money is destroying the world. _The Conversation_.
+
 - **Original URL**: [https://theconversation.com/how-money-is-destroying-the-world-96517](https://theconversation.com/how-money-is-destroying-the-world-96517)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/how-money-is-destroying-the-world.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/how-money-is-destroying-the-world.pdf)  
 - **Type**: Economic Critique / Structural Violence Analysis  
