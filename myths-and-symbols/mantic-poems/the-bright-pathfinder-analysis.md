@@ -15,7 +15,7 @@ parent: The Bright
 
 ---
 
-## 🧠 Functional Placement in LP Frameworks
+## Functional Placement in LP Frameworks
 
 ### 1. **Affirmation of Authentic Human Identity**
 
@@ -42,7 +42,7 @@ parent: The Bright
 
 ---
 
-## 🎓 Pedagogical and Methodological Functions
+## Pedagogical and Methodological Functions
 
 | **Function**     | **Explanation**                                                              |
 | ---------------- | ---------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ parent: The Bright
 
 ---
 
-## ✅ Recommendations for Use in LP / Avatar.Global Curriculum
+## Recommendations for Use in LP / Avatar.Global Curriculum
 
 * **Workbook Two or Three**: Ideal for exercises on ideological deconstruction and affirming spiritual identity.
 * **SpiritWiki Cross-Link Targets:**
@@ -67,7 +67,7 @@ parent: The Bright
 
 ---
 
-## 🧩 Conclusion
+## Conclusion
 
 *The Bright* is a short but potent distillation of core Lightning Path metaphysics and moral structure. In a few stanzas, it dismantles toxic mythologies, asserts sacred human identity, and extends an urgent call for awakening and alignment. It can serve as both a **personal affirmation** and **curricular keystone** within LP’s broader spiritual education and planetary transformation agenda.
 
