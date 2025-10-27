@@ -18,7 +18,7 @@ The *Allegory of the Buckets* is a symbolic narrative that captures the insidiou
 * Toxic conditions of some sort (exploitation, oppression, suppression, indoctrination, etc.) imposed
 * Real life consequences of these conditions (no happy ending here)
 
-Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org/myths-and-symbols/allegories/2-allegory-of-the-bucket.html
+**Cite: **Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org/myths-and-symbols/allegories/2-allegory-of-the-bucket.html
 
 ## Allegory of the Buckets
 
