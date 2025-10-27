@@ -18,7 +18,7 @@ The *Allegory of the Room* explores the process of awakening and collective tran
 * Process of awakening, realization, healing, reconnection, rebuilding, etc.
 * Utopian Outcome 
 
-**Sosteric, M. (2003). _Allegory of the Room_. https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html
+**Cite: **Sosteric, M. (2003). _Allegory of the Room_. https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html
 
 ## Allegory of the Room
 
