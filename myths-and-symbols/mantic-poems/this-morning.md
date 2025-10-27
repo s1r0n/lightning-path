@@ -33,5 +33,6 @@ And though it turns my heart to clay.<br>
 I just won’t tell the truth I know.<br>
 For doing so would spoil the show.
 <p>
-Mike Sosteric
+
+  (c) 2020 Mike Sosteric
 </div>
