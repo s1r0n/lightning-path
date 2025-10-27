@@ -1,7 +1,8 @@
 ---
 layout: default
 title: This Morning
-has_children: false
+has_children: true
+author: Mike Sosteric
 parent: Mantic Poems
 ---
 <div align="center">
