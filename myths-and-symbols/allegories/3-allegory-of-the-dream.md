@@ -17,7 +17,7 @@ The *Allegory of the Dream* is a visionary narrative that allegorizes the Lightn
 * offer of salvation of some sort
 * refusal for some reason, consequences. The story can be changed. 
 
-Sosteric, M. (2003). _Allegory of the Blindfold_. Canonical URL: https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
+**Cite: **Sosteric, M. (2003). _Allegory of the Blindfold_. Canonical URL: https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
 
 ## Allegory of the Bucket
 
