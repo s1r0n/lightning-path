@@ -7,8 +7,6 @@ author: Mike Sosteric
 ---
 # Allegory of the Room
 
-**Cite: **Sosteric, M. (2003). _Allegory of the Room_. https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html
-
 ## Summary
     
 The *Allegory of the Room* explores the process of awakening and collective transformation in a context of long-term emotional and spiritual suppression. Through the metaphor of a cold, crowded room and dormant personal heaters, the story symbolizes humanity’s latent capacity for **Connection** and **Human Potential**, as well as the fear, resistance, and trauma that delay our collective healing. In the Lightning Path corpus, the allegory models the uneven, often painful dynamics of systemic change, while affirming the inevitability—and desirability—of planetary reconnection and emergence into a higher state of being. 
@@ -19,6 +17,8 @@ The *Allegory of the Room* explores the process of awakening and collective tran
 * Catalyzing Event
 * Process of awakening, realization, healing, reconnection, rebuilding, etc.
 * Utopian Outcome 
+
+**Sosteric, M. (2003). _Allegory of the Room_. https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html
 
 ## Allegory of the Room
 
