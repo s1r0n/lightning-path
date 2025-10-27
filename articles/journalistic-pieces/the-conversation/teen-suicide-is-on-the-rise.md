@@ -8,9 +8,8 @@ parent: The Conversation
 
 ## Teen Suicide is on the Rise and This is Why
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2017-10-04  
-- **Published In**: The Conversation  
+Sosteric, M. (2017, October 4). Teen suicide is on the rise and this is why. The Conversation.
+
 - **Original URL**: [https://theconversation.com/teen-suicide-is-on-the-rise-and-this-is-why-83563](https://theconversation.com/teen-suicide-is-on-the-rise-and-this-is-why-83563)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/teen-suicide-is-on-the-rise-and-this-is-why.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/teen-suicide-is-on-the-rise-and-this-is-why.pdf)  
 - **Type**: Public Sociology / Applied LP Analysis  
