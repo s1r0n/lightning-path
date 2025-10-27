@@ -104,7 +104,7 @@ As joyful new society brings,<br>
 A new day’s dawn for us to ring,<br>
 A warrior’s song for all to sing.<br><br>
 
-Mike Sosteric
+(c) 2003 Mike Sosteric
 
 </div>
 
