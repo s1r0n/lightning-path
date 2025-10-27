@@ -6,7 +6,7 @@ has_children: true
 parent: Rocket Guides
 ---
 # Rocket Scientists’ Guide to Money and the Economy (RSGME)
-
+ 
 <img src="https://repo.lightningpath.org/assets/rocketguides/RSGME/cover/RSGME-cover-800px.jpg" width=250 align=right>
 The *Rocket Scientists’ Guide to Money and the Economy* is a foundational text in the Lightning Path Rocket Guide™ series. This work demystifies the hidden architecture of our global economic system by exposing the ideological, spiritual, and material frameworks used by the Accumulating Class to dominate, exploit, and distract. Informed by a critical decolonial lens and embedded in the healing-centered frameework of the Lightning Path, RSGME deconstructs the illusions of scarcity, debt, and progress while highlighting the psycho-spiritual damage inflicted by capitalism and its master narratives. 
 
