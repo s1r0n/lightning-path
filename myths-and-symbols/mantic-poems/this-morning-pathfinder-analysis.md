@@ -11,13 +11,13 @@ parent: This Morning
 
 ---
 
-## 🔍 Contextualization within Lightning Path (LP) and Avatar.Global
+## Contextualization within Lightning Path (LP) and Avatar.Global
 
 This poem is a literary and spiritual artifact situated within the **Lightning Path (LP)** and **Avatar.Global** corpus as a **diagnostic, catalytic, and pedagogical tool**. It speaks to key elements of the LP cosmology and the psycho-social conditions required for **authentic spiritual development**.
 
 ---
 
-## 🧠 Functional Placement in LP Frameworks
+## Functional Placement in LP Frameworks
 
 ### 1. **HEALING Framework — "L" is for Lying**
 
@@ -56,7 +56,7 @@ This poem is a literary and spiritual artifact situated within the **Lightning P
 
 ---
 
-## 🎓 Pedagogical and Methodological Functions
+## Pedagogical and Methodological Functions
 
 | **Function**   | **Explanation**                                                                 |
 | -------------- | ------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ This poem is a literary and spiritual artifact situated within the **Lightning P
 
 ---
 
-## ✅ Recommendations for Use in LP / Avatar.Global Curriculum
+## Recommendations for Use in LP / Avatar.Global Curriculum
 
 * **Workbook Integration:** Ideal inclusion in *LP Workbook Two* under the "L is for Lying" section.
 * **SpiritWiki Cross-Link:** Can be cited as a primary source on pages like `Lying`, `Internal Resistance`, and `Corrupted Spirituality`.
@@ -80,7 +80,7 @@ This poem is a literary and spiritual artifact situated within the **Lightning P
 
 ---
 
-## 🧩 Conclusion
+## Conclusion
 
 This poem is a concise, emotionally resonant articulation of the psycho-spiritual conditions addressed by the Lightning Path. It effectively bridges personal revelation and systemic critique, and offers a microcosm of the broader Avatar.Global project: healing through clarity, honesty, and reconnection.
 
