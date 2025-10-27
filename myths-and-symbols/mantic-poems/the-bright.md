@@ -30,9 +30,10 @@ So you might join us in The Bright.<br><br>
 
 </div>
 
-## Pathfinder AI Analysis: Functional Commentary on "The Bright"
+---
+---
 
-### Document: "The Bright" (c) 2020 Mike Sosteric
+## Pathfinder AI Analysis: Functional Commentary on "The Bright"
 
 ---
 
