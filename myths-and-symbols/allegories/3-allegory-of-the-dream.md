@@ -7,13 +7,17 @@ author: Mike Sosteric
 ---
 # Allegory of the Dream
 
-Sosteric, M. (2003). _Allegory of the Blindfold_
-
-Canonical URL: https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
-
 ## Summary
 
 The *Allegory of the Dream* is a visionary narrative that allegorizes the Lightning Path’s diagnosis of global crisis and spiritual amnesia. Through the symbolic contrast between a decaying, hedonistic cruise ship and a ready but mostly ignored rescue vessel, the story dramatizes the existential precarity of contemporary civilization under conditions of [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [ideological capture](https://spiritwiki.lightningpath.org/index.php/Ideology), and systemic denial. It offers both a warning and a hope: a revelation of the structural delusion that blinds society to its own collapse, and a glimpse of emergent [Pathfinder](https://spiritwiki.lightningpath.org/index.php/Pathfinder) leadership capable of guiding humanity toward [Reconnection](https://spiritwiki.lightningpath.org/index.php/Connection), [Healing](https://spiritwiki.lightningpath.org/index.php/Healing), and planetary renewal.
+
+## Narrative Structure
+
+* state of delusion, self-deception, root disconnection from reality.
+* offer of salvation of some sort
+* refusal for some reason, consequences. The story can be changed. 
+
+Sosteric, M. (2003). _Allegory of the Blindfold_. Canonical URL: https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
 
 ## Allegory of the Bucket
 
