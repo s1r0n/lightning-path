@@ -30,5 +30,5 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 allowfullscreen></iframe>
 
 
-(c) **Sosteric, M. (2003). _Allegory of the Blindfold_. [https://repo.lightningpath.org/myths-and-symbols/allegories/2-allegory-of-the-bucket.html](https://repo.lightningpath.org/myths-and-symbols/allegories/2-allegory-of-the-bucket.html)
+(c) Sosteric, M. (2003). _Allegory of the Blindfold_. [https://repo.lightningpath.org/myths-and-symbols/allegories/2-allegory-of-the-bucket.html](https://repo.lightningpath.org/myths-and-symbols/allegories/2-allegory-of-the-bucket.html)
 
