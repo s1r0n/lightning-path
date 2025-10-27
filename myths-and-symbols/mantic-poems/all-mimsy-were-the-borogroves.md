@@ -9,7 +9,7 @@ parent: Mantic Poems
 <h1>All Mimsy Were the Borogroves</h1>
 
 <br/>
-d
+
 All mimsy were the borogroves, and sadly swam the air,<br/>
 As Vorpal blade came snacking, trailing famsy Bander’s tail.<br/>
 And in the morning yarrow was the feckless crowd warned fair.<br/>
@@ -46,7 +46,7 @@ The line is drawn, the arm is strong, that wields the angel’s sword.<br/>
 We will not fail, will not forbear, to ring Creation’s chord.<br/><br/>
 
 
-<i>© 2024 Mike Sosteric<br/>
+<i>© 2008 Mike Sosteric<br/>
 
 
 </div>
