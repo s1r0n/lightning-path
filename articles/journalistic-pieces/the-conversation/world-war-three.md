@@ -8,12 +8,10 @@ parent: The Conversation
 
 ## World War Three is Being Waged in Cyberspace
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2017-10-04  
-- **Published In**: The Conversation  
+Sosteric, Mike (2017). World War Three is Being Wages in Cybersapce. _The Conversation_, Oct 4
+
 - **Original URL**: [https://theconversation.com/world-war-three-is-being-waged-in-cyberspace-84974](https://theconversation.com/world-war-three-is-being-waged-in-cyberspace-84974)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/world-war-three-is-being-waged-in-cyberspace.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/world-war-three-is-being-waged-in-cyberspace.pdf)  
-- **Type**: Cyber-Political Analysis / Consciousness Warfare Framing  
 - **Keywords**: [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Control](https://spiritwiki.lightningpath.org/index.php/Control), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Mass Consciousness](https://spiritwiki.lightningpath.org/index.php/Mass_Consciousness)
 
 ### Summary
