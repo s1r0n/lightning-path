@@ -61,7 +61,7 @@ Of course, a certain percentage do heed *the call*. They get themselves and thei
 
 This makes you sad because of the completely unnecessary suffering and loss; but you also feel thankful. At least you are safely on shore. As the nightmare slowly fades a cold breeze blows through your room. Throwing blankets over your damp toes, you slowly drift back to sleep, praying for a more pleasant dream. 
 
-### Analysis: Allegory of the Dream
+### AI Analysis: Allegory of the Dream
 
 The *Dream* allegory operates as a symbolic macrocosm of the Lightning Path’s critique of the [Regime of Accumulation](https://spiritwiki.lightningpath.org/index.php/Regime_of_Accumulation) and its spiritually disconnected institutional architecture. The rusted, sinking cruise ship represents the state of contemporary civilization—entertainment-driven, cognitively disoriented, ideologically entranced, and rapidly approaching systemic failure. Its party atmosphere masks a collective denial of escalating collapse across ecological, economic, and existential dimensions. The passengers’ willful ignorance dramatizes the concept of [Toxic Normalization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization), wherein dysfunction becomes background noise, buffered by distraction, sedation, and social conformity.
 
