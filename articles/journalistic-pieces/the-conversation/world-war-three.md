@@ -8,7 +8,7 @@ parent: The Conversation
 
 ## World War Three is Being Waged in Cyberspace
 
-Sosteric, Mike (2017). World War Three is Being Wages in Cybersapce. _The Conversation_, Oct 4
+Sosteric, M. (2017, October 4). World War Three is Being Wages in Cybersapce. _The Conversation_.
 
 - **Original URL**: [https://theconversation.com/world-war-three-is-being-waged-in-cyberspace-84974](https://theconversation.com/world-war-three-is-being-waged-in-cyberspace-84974)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/world-war-three-is-being-waged-in-cyberspace.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/world-war-three-is-being-waged-in-cyberspace.pdf)  
