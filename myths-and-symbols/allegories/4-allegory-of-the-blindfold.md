@@ -17,7 +17,7 @@ The *Allegory of the Blindfold* is a mythopoeic narrative that captures the core
 * Recognition of delusion triggers efforts to overcome
 * Efforts lead to varying degress of success 
 
-Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
+Cite: Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
 
 ## Allegory of the Blindfold
 
