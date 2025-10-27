@@ -13,7 +13,7 @@ author: Mike Sosteric
     
 The *Allegory of the Room* explores the process of awakening and collective transformation in a context of long-term emotional and spiritual suppression. Through the metaphor of a cold, crowded room and dormant personal heaters, the story symbolizes humanity’s latent capacity for **Connection** and **Human Potential**, as well as the fear, resistance, and trauma that delay our collective healing. In the Lightning Path corpus, the allegory models the uneven, often painful dynamics of systemic change, while affirming the inevitability—and desirability—of planetary reconnection and emergence into a higher state of being. 
 
-## Mythic Structure 
+## Narrative Structure 
 
 * Initial state of diminishment, dysfunction, disease, disconnect, and death (see the [5Ds of Toxic Existence](https://spiritwiki.lightningpath.org/index.php/5Ds_of_Toxic_Existence). 
 * Catalyzing Event
