@@ -7,9 +7,7 @@ author: Mike Sosteric
 ---
 # Allegory of the Room
 
-Sosteric, M. (2003). _Allegory of the Room_
-
-Canonical URL: https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html
+**Cite: **Sosteric, M. (2003). _Allegory of the Room_. https://repo.lightningpath.org/myths-and-symbols/allegories/1-allegory-of-the-room.html
 
 ## Summary
     
