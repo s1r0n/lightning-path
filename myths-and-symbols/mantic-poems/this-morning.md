@@ -35,16 +35,14 @@ For doing so would spoil the show.
 <p>
 
   (c) 2020 Mike Sosteric
+
 </div>
 
-<Br>
-
 ---
 
 ---
+
 ## Pathfinder AI Analysis: Functional Commentary on "This morning opened up my eyes"
-
----
 
 ### 🔍 Contextualization within Lightning Path (LP) and Avatar.Global
 
