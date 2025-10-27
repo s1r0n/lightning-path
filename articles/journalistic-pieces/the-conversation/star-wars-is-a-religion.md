@@ -8,9 +8,8 @@ parent: The Conversation
 
 ## Star Wars is a Religion that Primes Us All for War
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2018-01-04  
-- **Published In**: The Conversation  
+Sosteric, M. (2018, January 4). Star Wars is a religion that primes us all for war. _The Conversation_.
+  
 - **Original URL**: [https://theconversation.com/star-wars-is-a-religion-that-primes-us-for-war-and-violence-89443](https://theconversation.com/star-wars-is-a-religion-that-primes-us-for-war-and-violence-89443)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/star-wars-is-a-religion-that-primes-us-all-for-war.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/star-wars-is-a-religion-that-primes-us-all-for-war.pdf)  
 - **Type**: Media Critique / Ideological Religion Analysis  
