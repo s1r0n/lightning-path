@@ -6,6 +6,8 @@ has_children: False
 parent: The Conversation
 ---
 
+## The Red Pill or the Blue Pill
+
 Sosteric, M. (2019, February 11). The red pill or the blue pill. The Conversation.
 
 - **Original URL**: [https://theconversation.com/the-red-pill-or-the-blue-pill-endless-consumption-or-sustainable-future-110473](https://theconversation.com/the-red-pill-or-the-blue-pill-endless-consumption-or-sustainable-future-110473)  
