@@ -10,9 +10,6 @@ parent: The Conversation
 
 Sosteric, M. (2017, December 6). Trump’s manipulation of mass consciousness. The Conversation.
 
-- **Author**: Dr. Mike Sosteric  
-- **Date**: 2017-12-06  
-- **Published In**: The Conversation  
 - **Original URL**: [https://theconversation.com/trumps-manipulation-of-mass-consciousness-88435](https://theconversation.com/trumps-manipulation-of-mass-consciousness-88435)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/trumps-manipulation-of-mass-consciousness.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/trumps-manipulation-of-mass-consciousness.pdf)  
 - **Type**: Political Ideology Critique / Mass Psychology  
