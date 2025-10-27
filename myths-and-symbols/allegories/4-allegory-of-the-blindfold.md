@@ -7,8 +7,6 @@ author: Mike Sosteric
 ---
 # Allegory of the Blindfold
 
-Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
-
 ## Summary
 
 The *Allegory of the Blindfold* is a mythopoeic narrative that captures the core Lightning Path insight that humanity lives under conditions of [disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection). It dramatizes the descent from a once-harmonious, light-filled civilization into confusion, suffering, and spiritual ignorance, all precipitated by a self-imposed and socially reinforced veil—the blindfold. Through its symbolic arc of descent, forgetting, and gradual rediscovery, the allegory affirms the LP’s premise that reconnection to the [Fabric of Consciousness](https://spiritwiki.lightningpath.org/index.php/Fabric_of_Consciousness)  is both possible and imminent, requiring only courage, healing, and the removal of internalized distortions.
@@ -18,6 +16,8 @@ The *Allegory of the Blindfold* is a mythopoeic narrative that captures the core
 * State of delusion
 * Recognition of delusion triggers efforts to overcome
 * Efforts lead to varying degress of success 
+
+Sosteric, M. (2003). _Allegory of the Blindfold_. https://repo.lightningpath.org/myths-and-symbols/allegories/4-allegory-of-the-blindfold.html
 
 ## Allegory of the Blindfold
 
@@ -69,7 +69,7 @@ Take off that thin cloth that blinds you.
 
 Join us in peace and celebration as we dance in a new world emerging.
 
-## Analysis: Allegory of the Blindfold
+## AI Analysis: Allegory of the Blindfold
 
 The *Blindfold* allegory operates as a foundational cosmological myth within the [Lightning Path](https://spiritwiki.lightningpath.org/index.php/Lightning_Path) corpus, articulating a narrative of [fall](https://spiritwiki.lightningpath.org/index.php/Disconnection), [disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), and the [possibility of return](https://spiritwiki.lightningpath.org/index.php/Reconnection). It imagines an original, high-consciousness civilization of joy and equity—an Edenic archetype aligned with [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure)—that falls into dysfunction not through punishment, sin, or original flaw, but via an unexplained yet universally accepted act of symbolic occlusion. The blindfold, as metaphor, encapsulates the ideological, psychological, and perceptual distortions introduced by [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization) and encoded into cultural, educational, and religious systems.
 
