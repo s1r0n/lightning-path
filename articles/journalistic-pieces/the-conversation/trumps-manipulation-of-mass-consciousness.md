@@ -4,9 +4,14 @@ title: Trump’s Manipulation of Mass Consciousness
 nav_order: 9
 has_children: False
 parent: The Conversation
+keywords: [Ideology, Indoctrination]
 ---
+# Trump’s Manipulation of Mass Consciousness
 
-## Trump’s Manipulation of Mass Consciousness
+Sosteric explores how Donald Trump and similar political actors employ **mass manipulation techniques** to distort reality, induce fear, and enforce obedience. Drawing on classical propaganda strategies and the LP concept of [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), the article argues that this is not new — it is a continuation of elite strategies designed to **manufacture consent** and suppress critical awareness.
+
+Trumpism is diagnosed not as personal charisma, but as a **consciousness warfare technique** operating within a globally deteriorating social and ideological structure.
+
 
 Sosteric, M. (2017, December 6). Trump’s manipulation of mass consciousness. The Conversation.
 
@@ -15,11 +20,7 @@ Sosteric, M. (2017, December 6). Trump’s manipulation of mass consciousness. T
 - **Type**: Political Ideology Critique / Mass Psychology  
 - **Keywords**: [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Propaganda](https://spiritwiki.lightningpath.org/index.php/Propaganda), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Control](https://spiritwiki.lightningpath.org/index.php/Control)
 
-### Summary
 
-Sosteric explores how Donald Trump and similar political actors employ **mass manipulation techniques** to distort reality, induce fear, and enforce obedience. Drawing on classical propaganda strategies and the LP concept of [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), the article argues that this is not new — it is a continuation of elite strategies designed to **manufacture consent** and suppress critical awareness.
-
-Trumpism is diagnosed not as personal charisma, but as a **consciousness warfare technique** operating within a globally deteriorating social and ideological structure.
 
 ### Theoretical Integration
 
