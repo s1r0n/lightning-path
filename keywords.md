@@ -1,19 +1,14 @@
 ---
-# While layouts are erroring, keep layout: null. After the theme loads, change to layout: default
-layout: null
+layout: default
 title: Keyword index
 nav_order: 999
 permalink: /keywords/
 ---
 
 <h1>Keyword index</h1>
-<p>
-  Docs grouped by <code>keywords</code> front matter. Use either
-  <code>keywords: [ai, pedagogy, brain]</code>
-  or <code>keywords: ai, pedagogy, brain</code>.
-</p>
+<p>Docs grouped by <code>keywords</code> front matter (array form only).</p>
 
-{%- comment -%} Collect all candidate docs (pages + collections) {%- endcomment -%}
+{%- comment -%} Gather all pages + collection docs {%- endcomment -%}
 {%- assign docs = site.pages -%}
 {%- for coll in site.collections -%}
   {%- if coll.docs -%}
@@ -21,90 +16,50 @@ permalink: /keywords/
   {%- endif -%}
 {%- endfor -%}
 
-{%- comment -%}
-Normalize a page's keywords to an array of lowercase, trimmed tokens.
-Handles:
-- YAML arrays:            keywords: [ai, pedagogy]
-- Comma-separated string: keywords: ai, pedagogy
-- Single word string:     keywords: ai
-{%- endcomment -%}
-{%- assign all_keys = "" | split: "" -%}
+{%- comment -%} Build the unique keyword list (arrays only) {%- endcomment -%}
+{%- assign keys = "" | split: "" -%}
 {%- for p in docs -%}
-  {%- if p.keywords -%}
-    {%- assign raw = p.keywords -%}
-    {%- assign tokens = "" | split: "" -%}
-    {%- if raw contains "," -%}
-      {%- assign tokens = raw | split: "," -%}
-    {%- elsif raw.first -%}
-      {%- comment -%} Array case {%- endcomment -%}
-      {%- assign tokens = raw -%}
-    {%- else -%}
-      {%- comment -%} Single string => one token {%- endcomment -%}
-      {%- assign tokens = raw | split: "|" -%}
-      {%- unless tokens.size > 0 -%}{% assign tokens = raw | split: " " %}{% endunless -%}
-      {%- if tokens.size == 0 -%}{% assign tokens = raw | split: ":" %}{% endif -%}
-      {%- if tokens.size == 0 -%}{% assign tokens = raw | split: ";" %}{% endif -%}
-      {%- if tokens.size == 0 -%}{% assign tokens = raw | split: "/" %}{% endif -%}
-      {%- if tokens.size == 0 -%}{% assign tokens = raw | split: "," %}{% endif -%}
-      {%- if tokens.size == 0 -%}{% assign tokens = raw | split: "" %}{% endif -%}
-      {%- assign tokens = raw | split: "," -%} {# final fallback: treat as CSV #}
-    {%- endif -%}
-
-    {%- for t in tokens -%}
-      {%- assign tclean = t | strip | downcase -%}
-      {%- if tclean != "" -%}
-        {%- assign all_keys = all_keys | push: tclean -%}
+  {%- if p.url == page.url or p.url contains "/assets/" -%}{% continue %}{%- endif -%}
+  {%- if p.keywords and p.keywords.first -%}
+    {%- for k in p.keywords -%}
+      {%- assign kclean = k | strip -%}
+      {%- if kclean != "" -%}
+        {%- assign keys = keys | push: kclean -%}
       {%- endif -%}
     {%- endfor -%}
   {%- endif -%}
 {%- endfor -%}
-{%- assign all_keys = all_keys | uniq | sort_natural -%}
+{%- assign keys = keys | uniq | sort_natural -%}
 
-{%- if all_keys.size == 0 -%}
+{%- if keys.size == 0 -%}
 <p><em>No keywords found. Add <code>keywords: [tag1, tag2]</code> to your pages’ front matter.</em></p>
 {%- endif -%}
 
-{%- comment -%} Mini TOC with counts {%- endcomment -%}
+{%- comment -%} Mini TOC with per-key counts {%- endcomment -%}
 <ul>
-{%- for k in all_keys -%}
-  {%- assign count = 0 -%}
-  {%- for p in docs -%}
-    {%- if p.url != page.url and p.keywords -%}
-      {%- assign raw = p.keywords -%}
-      {%- assign arr = "" | split: "" -%}
-      {%- if raw contains "," -%}{% assign arr = raw | split: "," %}
-      {%- elsif raw.first -%}{% assign arr = raw %}
-      {%- else -%}{% assign arr = raw | split: "," %}{% endif -%}
-      {%- assign hit = false -%}
-      {%- for kk in arr -%}
-        {%- if kk | strip | downcase == k -%}{% assign hit = true %}{% break %}{% endif -%}
-      {%- endfor -%}
-      {%- if hit -%}{% assign count = count | plus: 1 %}{% endif -%}
-    {%- endif -%}
+  {%- for k in keys -%}
+    {%- assign count = 0 -%}
+    {%- for p in docs -%}
+      {%- if p.url == page.url or p.url contains "/assets/" -%}{% continue %}{%- endif -%}
+      {%- if p.keywords and p.keywords.first -%}
+        {%- if p.keywords contains k -%}
+          {%- assign count = count | plus: 1 -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    <li><a href="#kw-{{ k | slugify }}">{{ k }}</a> ({{ count }})</li>
   {%- endfor -%}
-  <li><a href="#kw-{{ k | slugify }}">{{ k }}</a> ({{ count }})</li>
-{%- endfor -%}
 </ul>
 <hr/>
 
-{%- comment -%} Render each bucket (exact, case-insensitive match) {%- endcomment -%}
-{%- for k in all_keys -%}
+{%- comment -%} Render each bucket {%- endcomment -%}
+{%- for k in keys -%}
   <h2 id="kw-{{ k | slugify }}">{{ k }}</h2>
   {%- assign bucket = "" | split: "" -%}
   {%- for p in docs -%}
-    {%- if p.url != page.url and p.keywords -%}
-      {%- assign raw = p.keywords -%}
-      {%- assign arr = "" | split: "" -%}
-      {%- if raw contains "," -%}{% assign arr = raw | split: "," %}
-      {%- elsif raw.first -%}{% assign arr = raw %}
-      {%- else -%}{% assign arr = raw | split: "," %}{% endif -%}
-      {%- assign hit = false -%}
-      {%- for kk in arr -%}
-        {%- if kk | strip | downcase == k -%}{% assign hit = true %}{% break %}{% endif -%}
-      {%- endfor -%}
-      {%- if hit -%}
-        {%- assign bucket = bucket | push: p -%}
-      {%- endif -%}
+    {%- if p.url == page.url or p.url contains "/assets/" -%}{% continue %}{%- endif -%}
+    {%- if p.keywords and p.keywords.first and p.keywords contains k -%}
+      {%- assign bucket = bucket | push: p -%}
     {%- endif -%}
   {%- endfor -%}
   {%- assign bucket = bucket | sort: "title" -%}
