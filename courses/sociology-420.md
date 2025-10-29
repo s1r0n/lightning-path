@@ -4,7 +4,7 @@ title: Sociology 420 - Writing New Stories
 nav_order: 50
 has_children: false
 parent: Courses
-keywords: [Mode of Reproduction, Mechanisms of Compliance, Symbol Facttory, Ideological Institution, Archetypes, Master Narrative]
+keywords: [Mode of Reproduction, Mechanisms of Compliance, Symbol Factory, Ideological Institution, Archetypes, Master Narrative]
 last_updated: 2025-07-30
 ---
 
