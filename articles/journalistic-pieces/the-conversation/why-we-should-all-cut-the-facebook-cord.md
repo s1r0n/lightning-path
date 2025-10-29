@@ -27,14 +27,6 @@ Key LP frameworks employed:
 - **[Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection)**: Engineered through emotional commodification, fragmentation of identity, and dopamine hijacking.
 - **[Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology)**: The platform is both medium and message for capitalist indoctrination.
 
-## Repository Tags
-
-`Digital Disconnection`  
-`Social Media Ideology`  
-`Surveillance Capitalism`  
-`Consciousness War Platforms`  
-`Platform Critique`
-
 ## Relevance to Avatar.Global
 
 This article is vital for equipping users with **critical consciousness tools** to navigate or opt out of harmful digital spaces. It supports the Avatar.Global aim of **restoring authentic human connection** by detoxifying from ideological tech environments.
