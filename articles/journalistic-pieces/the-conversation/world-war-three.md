@@ -7,17 +7,17 @@ parent: The Conversation
 keywords: [Mode of Reproduction, Mechanisms of Compliance, Ideology]
 ---
 
+### Summary
+
+This article introduces the notion that **World War III is not a military conflict, but a digital war for control of human consciousness**. Sosteric argues that modern cyberwarfare—through bots, disinformation, and mass manipulation—is a **systemic and coordinated assault on clarity, connection, and autonomy**. This is a conflict not between states, but between control structures created by the (Accumulating Class)[https://spiritwiki.lightninpath.org/index.php/Accumulating_Class) and the rising human demand for truth, peace, healing, and reconnection.
+
 ## World War Three is Being Waged in Cyberspace
 
 Sosteric, M. (2017, October 4). World War Three is Being Wages in Cybersapce. _The Conversation_.
 
 - **Original URL**: [https://theconversation.com/world-war-three-is-being-waged-in-cyberspace-84974](https://theconversation.com/world-war-three-is-being-waged-in-cyberspace-84974)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/world-war-three-is-being-waged-in-cyberspace.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/world-war-three-is-being-waged-in-cyberspace.pdf)  
-- **Keywords**: [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Control](https://spiritwiki.lightningpath.org/index.php/Control), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Mass Consciousness](https://spiritwiki.lightningpath.org/index.php/Mass_Consciousness)
-
-### Summary
-
-This article introduces the notion that **World War III is not a military conflict, but a digital war for control of human consciousness**. Sosteric argues that modern cyberwarfare—through bots, disinformation, and mass manipulation—is a **systemic and coordinated assault on clarity, connection, and autonomy**. This is a conflict not between states, but between control structures created by the (Accumulating Class)[https://spiritwiki.lightninpath.org/index.php/Accumulating_Class) and the rising human demand for truth, peace, healing, and reconnection.
+- **Keywords**: [Mode of Reproduction](https://spiritwiki.lightningpath.org/index.php/Mode_Of_Reproduction), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Mass Consciousness](https://spiritwiki.lightningpath.org/index.php/Mass_Consciousness), [Mechanisms of Compliance](https://spiritwiki.lightningpath.org/index.php/Mechanisms_of_Compliance)
 
 ### Theoretical Integration
 
