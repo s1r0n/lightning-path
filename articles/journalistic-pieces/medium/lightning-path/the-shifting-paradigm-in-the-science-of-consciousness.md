@@ -3,7 +3,7 @@ layout: default
 title: The Shifting Paradigm in the Science of Consciousness (c)
 nav_order: 5
 has_children: true
-parent: Medium Articles
+parent: Lightning Path Medium
 ---
 
 # The Shifting Paradigm in the Science of Consciousness
