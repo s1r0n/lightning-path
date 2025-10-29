@@ -4,16 +4,17 @@ title: The Catholic Church is a Rich Male Collective
 nav_order: 7
 has_children: False
 parent: The Conversation
+keywords: [Ideology, Spiritual Abuse, Religion, Systemic Violence]
 ---
 
-## The Catholic Church is a Rich Male Collective
+# The Catholic Church is a Rich Male Collective
 
 Sosteric, M. (2018, September 23). The Catholic Church is a rich male collective. T_he Conversation_.
 
 - **Original URL**: [https://theconversation.com/the-catholic-church-is-a-rich-male-collective-101958](https://theconversation.com/the-catholic-church-is-a-rich-male-collective-101958)  
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/the-catholic-church-is-a-rich-male-collective.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/the-catholic-church-is-a-rich-male-collective.pdf)  
 - **Type**: Institutional Critique / Ideological Deconstruction  
-- **Keywords**: [Religion](https://spiritwiki.lightningpath.org/index.php/Religion), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Institutional Violence](https://spiritwiki.lightningpath.org/index.php/Structural_Violence), [Spiritual Abuse](https://spiritwiki.lightningpath.org/index.php/Spiritual_Abuse), [Control Structures](https://spiritwiki.lightningpath.org/index.php/Control), [Colonial Religion](https://spiritwiki.lightningpath.org/index.php/Colonial_Religion)
+- **Keywords**: [Religion](https://spiritwiki.lightningpath.org/index.php/Religion), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Systemic Violence](https://spiritwiki.lightningpath.org/index.php/Systemic_Violence), [Spiritual Abuse](https://spiritwiki.lightningpath.org/index.php/Spiritual_Abuse)
 
 ### Summary
 
@@ -31,15 +32,6 @@ This article aligns closely with LP theories of **ideological control and spirit
 - **[Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology)**: The framing of male domination, wealth hoarding, and abuse as divine will or sacred order.
 
 The article is a useful case study in the **desacralization and ideological reversal** of legitimate spiritual frameworks under elite rule.
-
-### Repository Tags
-
-`Colonial Religion`  
-`Institutional Control`  
-`Religious Ideology`  
-`Spiritual Abuse`  
-`Gendered Violence`  
-`Avatar Deconstruction`
 
 ### Relevance to Avatar.Global
 
