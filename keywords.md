@@ -1,4 +1,4 @@
----
+[---
 # Temporarily avoid layout errors while theme is being fixed.
 # After the theme is loading, change to: layout: default
 layout: default
@@ -59,3 +59,4 @@ Build a normalized list of all keywords (accept array OR string in front matter)
   {%- endfor -%}
 </ul>
 {%- endfor -%}
+](https://repo.lightningpath.org/keywords/)
