@@ -7,7 +7,7 @@ parent: The Conversation
 keywords: [Ideology, Disconnect, Consciousness Manipulation]
 ---
 
-## Why We Should All Cut the Facebook Cord
+# Why We Should All Cut the Facebook Cord
 
 This article presents a sharp critique of Facebook as a **systemic apparatus of surveillance, behavioral engineering, and spiritual disconnection**. Sosteric challenges the techno-utopian narratives surrounding social media, revealing instead a platform structured to **extract attention, monetize emotion, and erode authentic human connection**. The article questions whether continued participation in such environments is ethically or spiritually sustainable.
 
@@ -17,7 +17,6 @@ Sosteric, M. (2018, April 4). Why we should all cut the Facebook cord. The Conve
 - **Canonical URL**: [https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/why-we-should-all-cut-the-facebook-cord.pdf](https://repo.lightningpath.org/articles/journalistic-pieces/the-conversation/files/why-we-should-all-cut-the-facebook-cord.pdf)  
 - **Type**: Technological Ideology Critique / Social Media Deconstruction  
 - **Keywords**: [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Surveillance Capitalism](https://spiritwiki.lightningpath.org/index.php/Surveillance), [Control](https://spiritwiki.lightningpath.org/index.php/Control)
-
 
 ## Theoretical Integration
 
