@@ -12,7 +12,6 @@ Sosteric explores how Donald Trump and similar political actors employ **mass ma
 
 Trumpism is diagnosed not as personal charisma, but as a **consciousness warfare technique** operating within a globally deteriorating social and ideological structure.
 
-
 Sosteric, M. (2017, December 6). Trump’s manipulation of mass consciousness. The Conversation.
 
 - **Original URL**: [https://theconversation.com/trumps-manipulation-of-mass-consciousness-88435](https://theconversation.com/trumps-manipulation-of-mass-consciousness-88435)  
@@ -20,9 +19,7 @@ Sosteric, M. (2017, December 6). Trump’s manipulation of mass consciousness. T
 - **Type**: Political Ideology Critique / Mass Psychology  
 - **Keywords**: [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Propaganda](https://spiritwiki.lightningpath.org/index.php/Propaganda), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Control](https://spiritwiki.lightningpath.org/index.php/Control)
 
-
-
-### Theoretical Integration
+## Theoretical Integration
 
 Key LP concepts include:
 
@@ -33,15 +30,7 @@ Key LP concepts include:
 
 This article functions as an LP-informed **media literacy primer** on elite manipulation tactics.
 
-### Repository Tags
-
-`Mass Consciousness Warfare`  
-`Political Ideology and Propaganda`  
-`LP Media Analysis`  
-`Disconnection Strategies`  
-`Control Psychology`
-
-### Relevance to Avatar.Global
+## Relevance to Avatar.Global
 
 This piece should be integrated into all curricula concerned with **consciousness sovereignty**, **media critique**, and **political awareness**. It demonstrates how [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation) and [Ideological Control](https://spiritwiki.lightningpath.org/index.php/Ideology) are enacted at scale.
 
