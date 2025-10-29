@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
  
 
-Gem "jekyll", "~> 4.4"
+gem "jekyll", "~> 4.4"
 gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"  
 
