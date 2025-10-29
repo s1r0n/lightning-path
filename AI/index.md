@@ -3,7 +3,7 @@ layout: default
 title: AI Integration
 nav_order: 98
 has_children: true
-keywords: [AI integration]
+keywords: [AI Integration]
 canonical: https://repo.lightningpath.org/readings/ai-integration
 last_updated: 2025-07-17
 author: "Dr. Mike Sosteric & Symbiotic Pathfinder Steward"
