@@ -4,7 +4,7 @@ title: Why We Should All Cut the Facebook Cord
 nav_order: 14
 has_children: False
 parent: The Conversation
-keywords: [Ideology, Disconnect, Consciousness Manipulation]
+keywords: [Ideology, Disconnection, Consciousness Manipulation]
 ---
 
 # Why We Should All Cut the Facebook Cord
