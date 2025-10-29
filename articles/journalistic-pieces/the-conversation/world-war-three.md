@@ -25,14 +25,6 @@ Deeply aligned with LP’s macro-frameworks:
 - **[Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection)**: The intended outcome of digital propaganda warfare.
 - Centralization of narrative authority and control through platform capture and algorithmic targeting.
 
-### Repository Tags
-
-`Consciousness Warfare`  
-`Digital Conflict Analysis`  
-`Cyber Disconnection Systems`  
-`Mass Ideology Engineering`  
-`Information Sovereignty`
-
 ### Relevance to Avatar.Global
 
 This piece names the **invisible digital battlefield** on which LP’s work is engaged. It prepares readers to understand their own cognitive and emotional environments as **targets in a global war** and calls for the urgent defense of consciousness sovereignty.
