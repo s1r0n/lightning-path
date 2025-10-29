@@ -1,7 +1,7 @@
 ---
 # Temporarily avoid layout errors while theme is being fixed.
 # After the theme is loading, change to: layout: default
-layout: null
+layout: default
 title: Keyword index
 nav_order: 999
 permalink: /keywords/
