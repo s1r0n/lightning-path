@@ -6,7 +6,8 @@ just_the_docs:
   custom_css:
     - "assets/css/custom.css"
 # Define nav manually
-
+plugins:
+  - jekyll-remote-theme
 
 ga_tracking: G-01E78G6G28    # Your GA4 Measurement ID
 ga_tracking_anonymize_ip: true   # Optional for GDPR compliance
