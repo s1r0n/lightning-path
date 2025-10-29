@@ -7,7 +7,7 @@ parent: The Conversation
 keywords: [Mode of Reproduction, Mechanisms of Compliance, Ideology]
 ---
 
-### Summary
+## Summary
 
 This article introduces the notion that **World War III is not a military conflict, but a digital war for control of human consciousness**. Sosteric argues that modern cyberwarfare—through bots, disinformation, and mass manipulation—is a **systemic and coordinated assault on clarity, connection, and autonomy**. This is a conflict not between states, but between control structures created by the (Accumulating Class)[https://spiritwiki.lightninpath.org/index.php/Accumulating_Class) and the rising human demand for truth, peace, healing, and reconnection.
 
