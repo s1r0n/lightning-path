@@ -4,9 +4,12 @@ title: How Money is Destroying the World
 nav_order: 11
 has_children: False
 parent: The Conversation
+keywords: [Money, Regime of Accumulation, Toxic Socialization, Ideology]
 ---
 
-## How Money is Destroying the World
+# How Money is Destroying the World
+
+This article exposes the money system as a **tool of structural and psychological domination**. Rather than a neutral medium of exchange, money is analyzed as a **weapon of accumulation and disconnection**, tightly linked to ideological deception, trauma, and planetary destruction. Sosteric critiques both capitalist and debt-based economies as fundamentally anti-human systems that foster [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization) and [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection).
 
 Sosteric, M. (2018, May 21). How money is destroying the world. _The Conversation_.
 
@@ -15,11 +18,7 @@ Sosteric, M. (2018, May 21). How money is destroying the world. _The Conversatio
 - **Type**: Economic Critique / Structural Violence Analysis  
 - **Keywords**: [Regime of Accumulation](https://spiritwiki.lightningpath.org/index.php/Regime_of_Accumulation), [Money](https://spiritwiki.lightningpath.org/index.php/Money), [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology)
 
-### Summary
-
-This article exposes the money system as a **tool of structural and psychological domination**. Rather than a neutral medium of exchange, money is analyzed as a **weapon of accumulation and disconnection**, tightly linked to ideological deception, trauma, and planetary destruction. Sosteric critiques both capitalist and debt-based economies as fundamentally anti-human systems that foster [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization) and [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection).
-
-### Theoretical Integration
+## Theoretical Integration
 
 Core LP concepts include:
 
@@ -28,15 +27,7 @@ Core LP concepts include:
 - **[Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization)**: The training of children into debt, obedience, and anxiety as "natural".
 - **[Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology)**: Justification for violent economics presented as common sense or divine order.
 
-### Repository Tags
-
-`Monetary Violence`  
-`Planetary Destruction Systems`  
-`LP Economic Diagnostics`  
-`Poverty Consciousness Engineering`  
-`Debt and Disconnection`
-
-### Relevance to Avatar.Global
+## Relevance to Avatar.Global
 
 This article supports the development of **alternative economic and spiritual models** rooted in Connection and Needs Satisfaction. It is a vital entry for any scholar, activist, or policymaker working on post-capitalist, post-traumatic futures.
 
