@@ -4,9 +4,12 @@ title: Why We Should All Cut the Facebook Cord
 nav_order: 14
 has_children: False
 parent: The Conversation
+keywords: [Ideology, Disconnect, Consciousness Manipulation]
 ---
 
 ## Why We Should All Cut the Facebook Cord
+
+This article presents a sharp critique of Facebook as a **systemic apparatus of surveillance, behavioral engineering, and spiritual disconnection**. Sosteric challenges the techno-utopian narratives surrounding social media, revealing instead a platform structured to **extract attention, monetize emotion, and erode authentic human connection**. The article questions whether continued participation in such environments is ethically or spiritually sustainable.
 
 Sosteric, M. (2018, April 4). Why we should all cut the Facebook cord. The Conversation.
 
@@ -15,11 +18,8 @@ Sosteric, M. (2018, April 4). Why we should all cut the Facebook cord. The Conve
 - **Type**: Technological Ideology Critique / Social Media Deconstruction  
 - **Keywords**: [Consciousness Manipulation](https://spiritwiki.lightningpath.org/index.php/Consciousness_Manipulation), [Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection), [Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology), [Surveillance Capitalism](https://spiritwiki.lightningpath.org/index.php/Surveillance), [Control](https://spiritwiki.lightningpath.org/index.php/Control)
 
-### Summary
 
-This article presents a sharp critique of Facebook as a **systemic apparatus of surveillance, behavioral engineering, and spiritual disconnection**. Sosteric challenges the techno-utopian narratives surrounding social media, revealing instead a platform structured to **extract attention, monetize emotion, and erode authentic human connection**. The article questions whether continued participation in such environments is ethically or spiritually sustainable.
-
-### Theoretical Integration
+## Theoretical Integration
 
 Key LP frameworks employed:
 
@@ -28,7 +28,7 @@ Key LP frameworks employed:
 - **[Disconnection](https://spiritwiki.lightningpath.org/index.php/Disconnection)**: Engineered through emotional commodification, fragmentation of identity, and dopamine hijacking.
 - **[Ideology](https://spiritwiki.lightningpath.org/index.php/Ideology)**: The platform is both medium and message for capitalist indoctrination.
 
-### Repository Tags
+## Repository Tags
 
 `Digital Disconnection`  
 `Social Media Ideology`  
@@ -36,7 +36,7 @@ Key LP frameworks employed:
 `Consciousness War Platforms`  
 `Platform Critique`
 
-### Relevance to Avatar.Global
+## Relevance to Avatar.Global
 
 This article is vital for equipping users with **critical consciousness tools** to navigate or opt out of harmful digital spaces. It supports the Avatar.Global aim of **restoring authentic human connection** by detoxifying from ideological tech environments.
 
