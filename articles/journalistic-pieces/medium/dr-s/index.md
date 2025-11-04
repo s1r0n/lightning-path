@@ -14,7 +14,7 @@ Written under the semi-anonymous persona *Dr. S*, this series documents the raw 
 
 Beginning with the terrifying and disorienting experience captured in *“I Told God to F*ck Off”*, and continuing through the methodological reflections of *“Mystical Conversations with Myself”*, this series uses **autoethnography** as both method and mode: embracing the mess, honoring the emotion, and extracting conceptual clarity from the flood of insight.
 
-This is not just memoir. This is a live, longitudinal research project. It’s also a slow coming-out process—a gradual emergence from the mystic’s cave, catalyzed by twenty years of writing, reflecting, and resisting the ideological and academic suppression of authentic spiritual experience.
+This is a live, longitudinal research project. It’s also a slow coming-out process—a gradual emergence from the mystic’s cave, catalyzed by twenty years of writing, reflecting, and resisting the ideological and academic suppression of authentic spiritual experience.
 
 You will find in this series:
 - The vulnerable first-person accounts of early connection experiences
