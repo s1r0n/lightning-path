@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightning Flash (Medium)
+title: The Lightning Path (Medium)
 nav_order: 20
 parent: Medium Articles
 has_children: true
