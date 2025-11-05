@@ -3,7 +3,7 @@ layout: default
 title: A Letter to the Accumulating Class
 nav_order: 1.1
 has_children: true
-# parent: Lightning Flash (Medium)
+# parent: Lightning Path (Medium)
 ---
 
 # A Latter to the Accumulating Class - Let's Talk as Adults
