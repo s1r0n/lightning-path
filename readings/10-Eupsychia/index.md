@@ -55,7 +55,7 @@ Written shortly before his death, Sutich reflects on the formation of Transperso
 
 ### Elkins, D. N. (2009). Why Humanistic Psychology Lost Its Power and Influence in American Psychology: Implications for Advancing Humanistic Psychologyh. Journal of Humanistic Psychology, 49(1), 267-291. [https://doi.org/10.1177/0022167808323005](https://doi.org/10.1177/0022167808323575)
 
-[Read.](https://repo.lightningpath.org/readings/10-Eupsychia/elkins-humanistic-murder.pdf)
+This article documents the "murder" of Humanistic Psychology during the 1980s. The reason, Humanistic Psychology was pointing research and understanding in progressive a progressive, healing, emancipatory, and spiritual direction, something the [Accumulating Class](https://spiritwiki.lightningpath.org/index.php/Accumulating_Class) found threatening. This murder marginalized and effectively halted the understanding, development, research, and practice of Eupsychian Theory [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/elkins-humanistic-murder.pdf)
 
 
 ## References
