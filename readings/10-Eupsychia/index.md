@@ -21,7 +21,13 @@ A comprehensive list of all published works of Maslow. Note the scope of his wor
 
 ---
 
-### Maslow, A. H. (1961). Health as transcendence of environment. Brandeis University.
+### Maslow, A. H. (1968). Eupsychia: The good society. _Journal of Humanistic Psychology_, 1(2), 1-11.  [https://doi.org/10.1177/002216786100100202](https://doi.org/10.1177/002216786100100202)
+This article offers Maslow’s clearest articulation of Eupsychia: a society built to enable rather than inhibit human development. Drawing on his work with self-actualizing individuals, Maslow imagines a community that satisfies all levels of human need and fosters psychological and spiritual growth. It is one of the key theoretical documents in the construction of a Harmonic Social Order. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/eupsychia-the-good-society-maslow.pdf)
+
+---
+
+
+### Maslow, A. H. (1961). Health as transcendence of environment.  _Journal of Humanistic Psychology_, 1(1), 1-7. [https://doi.org/10.1177/002216786100100102](https://doi.org/10.1177/002216786100100102)
 
 In this seminal paper, Maslow challenges prevailing models of mental health that equate wellness with conformity or passive adaptation to society. Instead, he argues for a definition of health based on internal authenticity and transcendence—where the self governs its own values independent of societal pressures. This anticipates his later Eupsychian ideals by centering self-actualization and autonomy as key indicators of psychological health. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/maslow-1961-health-as-transcendence-of-environment.pdf). 
 
@@ -32,18 +38,12 @@ This lecture is one of Maslow’s first public declarations of what would become
 
 ---
 
-### Maslow, A. H. 1967. “A Theory of Metamotivation: The Biological Rooting of the Value-Life.” Journal of Humanistic Psychology 7: 93–127. [https://doi.org/10.1177/002216786700700201](https://doi.org/10.1177/002216786700700201). 
+### Maslow, A. H. 1967. “A Theory of Metamotivation: The Biological Rooting of the Value-Life.” _Journal of Humanistic Psychology_ 7: 93–127. [https://doi.org/10.1177/002216786700700201](https://doi.org/10.1177/002216786700700201). 
 
 According to Maslow, this paper "is really the end of the program that I set out for myself-secretly-about 25 Or so years ago when I changed every-
 thing I was doing and devoted myself grandiosely to a Psychology for the Peace Table." (Maslow quoted in Sutich, 1969).
 
 This paper formalizes Maslow’s theory of "metamotivation"—the motivational structure beyond basic and psychological needs, driving self-actualizers toward truth, beauty, unity, and justice. This deepens the foundation for Eupsychia as a society that allows for the full flowering of such high-level motivations. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/a-theory-of-metamotivation-maslow)
-
----
-
-### Maslow, A. H. (1968). Eupsychia: The good society. 
-This article offers Maslow’s clearest articulation of Eupsychia: a society built to enable rather than inhibit human development. Drawing on his work with self-actualizing individuals, Maslow imagines a community that satisfies all levels of human need and fosters psychological and spiritual growth. It is one of the key theoretical documents in the construction of a Harmonic Social Order. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/eupsychia-the-good-society-maslow.pdf)
-
 
 ---
 
@@ -53,7 +53,7 @@ Written shortly before his death, Sutich reflects on the formation of Transperso
 
 ---
 
-### Elkins, D. N. (2009). Why Humanistic Psychology Lost Its Power and Influence in American Psychology: Implications for Advancing Humanistic Psychologyh. Journal of Humanistic Psychology, 49(1), 267-291. https://doi.org/10.1177/0022167808323005
+### Elkins, D. N. (2009). Why Humanistic Psychology Lost Its Power and Influence in American Psychology: Implications for Advancing Humanistic Psychologyh. Journal of Humanistic Psychology, 49(1), 267-291. [https://doi.org/10.1177/0022167808323005](https://doi.org/10.1177/0022167808323575)
 
 [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/elkins-humanistic-murder.pdf)
 
