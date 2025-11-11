@@ -17,7 +17,7 @@ This reading list gathers essential works—by Maslow and others—that highligh
 ---
 ### Abraham Maslow Bibliography 
 
-A comprehensive list of all published works of Maslow. Note the scope of his work near the end, publishing on humanistic biology, humanistic education, etc. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/1970-abraham-h-maslow-bibliography.pdf)
+A comprehensive list of all published works of Maslow. Note the scope of his work near the end, publishing on humanistic biology, humanistic education, etc. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/1970-abraham-h-maslow-a-bibliography.pdf)
 
 ---
 
