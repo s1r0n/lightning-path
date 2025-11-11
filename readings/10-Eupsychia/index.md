@@ -7,7 +7,7 @@ parent: LP Readings
 ---
 ## Eupsychia
 
-Abraham Maslow's concept of Eupsychia—literally, “the good soul” or more broadly, “the good society”—is a foundational pillar in the theoretical architecture of the Lightning Path. Conceived as both a psychological and sociological vision, Eupsychia represents a society organized to fully satisfy human needs, enable collective healing, and encourage actuation of full human potential.
+Abraham Maslow's concept of Eupsychia—literally, “the good soul” or more broadly, “the good society”—is a foundational pillar in the theoretical architecture of the Lightning Path. Conceived as both a psychological and sociological vision, Eupsychia represents a society organized to fully satisfy human needs, enable collective healing, and encourage actuation of full human potential. 
 
 Maslow understood that the realization of human potential could only occur in supportive, truth-oriented, and nurturing environments. In this sense, Eupsychia provides the theoretical grounding for the LP's long-term aim of articulating and manifesting a [Harmonic Social Order](https://spiritwiki.lightningpath.org/index.php/Harrmonic_Social_Order). It offers a scientifically grounded, psychologically mature alternative to the violent and pathological systems of the past.
 
