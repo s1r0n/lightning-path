@@ -29,7 +29,11 @@ has_children: true
   
   The LP adopts a conception of Consciousness similar to ancient Vedic perspectives, but supported by modern scientific theory and experimentation and personal [Connection Experience](https://spiritwiki.lightningpath.org/index.php/Connection_Experience).  LP's theory is nascent but will be formalized in detail in the next few years. For a list of selected readings, [see this link](https://repo.lightningpath.org/readings/50-consciousness/)
   
-  ## 6. Critical Stance Toward Religion and Spirituality
+  Include here brief explication of LP's dual theory of bodily consciousness
+  
+  
+  
+  ## I=6. Critical Stance Toward Religion and Spirituality
   
   The LP does not reject religion. Like Comte, we see it as an important part of human experience, when properly aligned and devoted to facilitating [Human Development](https://spiritwiki.lightningpath.org/index.php/Human_Development). However, mainstream religion and popular spirituality are often **ideologically compromised**. Rather than supporting healing and connection, they frequently function to suppress critical thinking, enforce obedience, and maintain hierarchies rooted in fear, guilt, and shame. A **critical stance** is required to deconstruct these spiritual distortions and recover the original purpose of authentic spiritual practice: connection, empowerment, and alignment. The *[Rocket Scientists’ Guide to Authentic Spirituality](https://www.amazon.ca/Rocket-Scientists-Guide-Authentic-Spirituality/dp/1897455127/ref=sr_1_1?asc_campaign=fddc9229cf312a98802caca3e484a955&asc_source=01HPSC557S3N9MA2MVJTEJ7DN5&tag=snxca57-20)* provides the foundation for this discernment. 
   
