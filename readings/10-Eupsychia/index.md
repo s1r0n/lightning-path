@@ -43,13 +43,13 @@ This lecture is one of Maslow’s first public declarations of what would become
 According to Maslow, this paper "is really the end of the program that I set out for myself-secretly-about 25 Or so years ago when I changed every-
 thing I was doing and devoted myself grandiosely to a Psychology for the Peace Table." (Maslow quoted in Sutich, 1969).
 
-This paper formalizes Maslow’s theory of "metamotivation"—the motivational structure beyond basic and psychological needs, driving self-actualizers toward truth, beauty, unity, and justice. This deepens the foundation for Eupsychia as a society that allows for the full flowering of such high-level motivations. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/a-theory-of-metamotivation-maslow)
+This paper formalizes Maslow’s theory of "metamotivation"—the motivational structure beyond basic and psychological needs, driving self-actualizers toward truth, beauty, unity, and justice. This deepens the foundation for Eupsychia as a society that allows for the full flowering of such high-level motivations. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/a-theory-of-metamotivation-maslow.pdf)
 
 ---
 
 ### Sutich, A. J. (1976). The emergence of the transpersonal orientation: A personal account. Journal of Transpersonal Psychology, 8(1), 5–15. 
 
-Written shortly before his death, Sutich reflects on the formation of Transpersonal Psychology, the Fourth Force that grew out of Maslow’s later work. This piece documents the collaborative dialogues, ideological expansions, and key philosophical tensions that shaped the new field, as well as Sutich’s and Maslow’s shared concern for integrating mysticism and spirituality into psychological science. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/the-emergence-of-the-transpersonal.pdff)
+Written shortly before his death, Sutich reflects on the formation of Transpersonal Psychology, the Fourth Force that grew out of Maslow’s later work. This piece documents the collaborative dialogues, ideological expansions, and key philosophical tensions that shaped the new field, as well as Sutich’s and Maslow’s shared concern for integrating mysticism and spirituality into psychological science. [Read.](https://repo.lightningpath.org/readings/10-Eupsychia/the-emergence-of-the-transpersonal.pdf)
 
 ---
 
