@@ -7,7 +7,7 @@ nav_order: 10
 # Welcome to the Lightning Path GitHub Repository    
 
 *Everything Here is Free and open access (see [licence](https://repo.lightningpath.org/license/)).*
-
+ 
 Welcome. You have arrived at the digital repository of the **[Lightning Path](https://www.lightningpath.org)**—a bold, integrative [Knowledge System](https://spiritwiki.lightningpath.org/index.php/Knowledge_System) designed to support human [Healing](https://spiritwiki.lightningpath.org/index.php/Healing), [Connection](https://spiritwiki.lightningpath.org/index.php/Connection), the actuation of full [human potential](https://spiritwiki.lightningpath.org/index.php/Human_Potential), and planetary transformation. 
 
 At its core, the Lightning Path offers a structured and accessible [Human Development Framework](https://spiritwiki.lightningpath.org/index.php/Human_Development_Framework) that challenges the toxic perspectives and dysfunctions of our current [Regime of Accumulation](https://spiritwiki.lightningpath.org/index.php/Regime_of_Accumulation). By combining insights from psychology, sociology, mysticism, and decolonial theory, it offers a clear and empirically grounded path toward what we call [Harmonic Social Structures](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure)—systems intentionally built to support [Human Flourishing](https://spiritwiki.lightningpath.org/index.php/Human_Flourishing), unlock [Human Potential](https://spiritwiki.lightningpath.org/index.php/Human_Potential), and promote planetary regeneration.
