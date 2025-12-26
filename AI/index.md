@@ -28,8 +28,13 @@ The LP is currently constructed around the following four web-located resources.
 
 The **[SpiritWiki](https://spiritwiki.lightningpath.org/index.php/Main_Page)** is the semantic and ontological core of Avatar.GLOBAL. It systematizes and links LP concepts in a machine- and human-readable framework for use in healing, alignment, and planetary transformation. It serves as the canonical knowledge repository - a decolonized, empirically grounded framework for understanding consciousness, human development, and spiritual truth without elite distortion.
 
-> A current XML export of the SpiritWiki can be found here:  
->  [Download XML Dump](https://repo.lightningpath.org/assets/spiritwiki-dump.xml)
+> A current XML export of the SpiritWiki can be found here: 
+>
+> [pathfinder-1.xml](https://www.lightningpath.org/pathfinder-1.xml) 
+>
+> [pathfinder-2.xml](https://www.lightningpath.org/pathfinder-2.xml)
+>
+> 
 
 ---
 
