@@ -1,8 +1,9 @@
 ---
 layout: default
-title: LP Kids Books
+title: Kids Books
 nav_order: 45
 has_children: true
+parent: Myths and Symbols
 ---
 
 Coming Soon
