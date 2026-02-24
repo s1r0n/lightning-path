@@ -3,11 +3,13 @@ title: Dialogue on the Horticultural Model, Essential Needs, and the Fabric of C
 layout: home
 nav_order: 10
 parent: AI Assets List
-keywords: [AI Conversation, Human Development, ]
+keywords: [AI Conversation, Human Development, Seven Essential Needs, Toxic Socialization, Horticultural Model, Big Problems ]
 ---
 
-
 # Dialogue on the Horticultural Model, Essential Needs, and the Fabric of Consciousness
+
+This dialogue emerged after I provide an AI model (Claude) with the final draft of an Peace Table article entitled [Humanity's Big Problem](https://www.academia.edu/164837181/Humanitys_Big_Problem). It just answer the AIs question and it flowed naturally to a rather fascinating conclusion.  
+
 
 **Participants:** Mike Sosteric, Claude (Anthropic)
 
