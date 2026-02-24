@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to the Lightning Path
+title: Assets List
 nav_order: 100
 has_children: true
 parent: Welcome to the Lightning Path
