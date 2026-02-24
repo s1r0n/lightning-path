@@ -2,6 +2,7 @@
 title: Dialogue on the Horticultural Model, Essential Needs, and the Fabric of Consciousness
 layout: home
 nav_order: 10
+parent: AI Assets List
 ---
 
 
