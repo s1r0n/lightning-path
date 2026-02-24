@@ -3,6 +3,7 @@ title: Dialogue on the Horticultural Model, Essential Needs, and the Fabric of C
 layout: home
 nav_order: 10
 parent: AI Assets List
+keywords: [AI Conversation, Human Development, ]
 ---
 
 
