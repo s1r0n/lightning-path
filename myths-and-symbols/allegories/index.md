@@ -6,7 +6,7 @@ has_children: true
 parent: LP Resources
 ---
 
-# Lightning Path Allegories
+# Lightning Path Allegories and Parables
 
 Allegories included here are symbolic, narrative, and poetic illustrations of the [Avatar.Global Knowledge System](https://spiritwiki.lightningpath.org/index.php/Avatar.GLOBAL) and Lightning Path Human Development Framework, designed to express deep metaphysical and psychological truths in accessible, emotionally resonant, and pedagogically powerful form. Drawing from the foundational [Lightning Path Human Development Framework](https://spiritwiki.lightningpath.org/index.php/Lightning_Path_Human_Development_Framework), an din particular the [Lightning Path Creative Framework](https://spiritwiki.lightningpath.org/index.php/LP_Creative_Framework) the allegories articulate core themes such as the nature of disconnection, the consequences of [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization), and the Path of Healing and reconnection. 
 
