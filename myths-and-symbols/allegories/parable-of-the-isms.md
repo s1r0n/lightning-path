@@ -9,7 +9,7 @@ author: Mike Sosteric
 
 <i>Parable of the Isms is a short, accessible, parable describing the various political systems of this Earth.</i>
 
-# Parable of the Isms or, You Have Two Cows (Mike Sosteric Version)
+# Parable of the Isms or, You Have Two Cows (Mike Sosteric Version) 
 
 **Capitalism**: You have two cows. You’re not happy with just two cows so you take 
 other people’s cows. You get the people with no cows to look after “your” cows. You 
