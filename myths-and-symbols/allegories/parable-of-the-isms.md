@@ -7,7 +7,7 @@ parent: Allegories
 author: Mike Sosteric
 ---
 
-_Parable of the Isms is a short, accessible, parable describing the various political systems of this Earth.  _
+<i>Parable of the Isms is a short, accessible, parable describing the various political systems of this Earth.</i>
 
 # Parable of the Isms or, You Have Two Cows (Mike Sosteric Version)
 
