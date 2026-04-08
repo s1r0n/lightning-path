@@ -3,7 +3,7 @@ layout: default
 title: Courses
 nav_order: 70
 has_children: true
-parent: Myths and Symbols
+parent: LP Resources
 ---
 
 Sociology 420 
