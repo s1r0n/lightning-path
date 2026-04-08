@@ -7,6 +7,8 @@ parent: Allegories
 author: Mike Sosteric
 ---
 
+_Parable of the Isms is a short, accessible, parable describing the various political systems of this Earth.  _
+
 # Parable of the Isms or, You Have Two Cows (Mike Sosteric Version)
 
 **Capitalism**: You have two cows. You’re not happy with just two cows so you take 
@@ -39,7 +41,7 @@ _From each according to his ability,
 to each according to his need._
 
 
-<img src="./images/you-have-two-cows.jpg" alt="You Have Two Cows Graphic" width="500" align=center>
+<img src="./images/parable-of-the-isms.jpg" alt="You Have Two Cows Graphic" width="500" align=center>
 
 * _If you like this, check out Rocket Scientists Guide to Money and the Economy for an 
 enlightening explanation of money and a complete rundown of “The System”_
