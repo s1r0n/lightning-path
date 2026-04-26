@@ -9,13 +9,15 @@ has_children: true
 
 This section of the repository collects musical expressions that either rooted or significantly alignd with the Lightning Path and the Avatar.GLOBAL framework. 
 
+https://repo.lightningpath.org/art/music.html
+
 # Art
 
 This section of the repository collects artistic expressions rooted or significantly aligned with the Lightning Path and the Avatar.GLOBAL framework. 
 
 **Symbolic Works** — Paintings, digital art, mandalas, and visual metaphors that symbolically represent core LP principles (e.g., the Fabric of Consciousness, disconnection, ascension).
 
-**[Narrative Visualizations](https://repo.lightningpath.org/images/narrative-visualizations.html)** — Story-driven animations and short films that explore key LP themes such as mystical connection, toxic socialization, and spiritual healing.
+**[Narrative Visualizations](https://repo.lightningpath.org/art/narrative-visualizations.html)** — Story-driven animations and short films that explore key LP themes such as mystical connection, toxic socialization, and spiritual healing.
 
 **Instructional Visuals** — Diagrams, animations, and video lectures that visually teach concepts from the SpiritWiki and the broader Lightning Path Curriculum.
 
