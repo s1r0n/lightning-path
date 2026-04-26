@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Music
-parent: Images
+parent: Art
 has_children: true
 ---
