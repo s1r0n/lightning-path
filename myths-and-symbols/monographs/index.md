@@ -3,7 +3,7 @@ layout: default
 title: Monographs
 nav_order: 50
 has_children: true
-parent: LP Resources
+parent: LP Myths and Symbols
 ---
 # Monographs
 
