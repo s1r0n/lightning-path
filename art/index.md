@@ -5,13 +5,13 @@ nav_order: 52
 has_children: true
 ---
 
+# Music 
+
+This section of the repository collects musical expressions that either rooted or significantly alignd with the Lightning Path and the Avatar.GLOBAL framework. 
+
 # Art
 
-This section of the repository collects artistic expressions rooted or significantly aligned with the Lightning Path and the Avatar.GLOBAL framework. If you wish to be included in this repository, email mikes@athabascau.ca.
-
-## Categorization
-
-This needs updating. We
+This section of the repository collects artistic expressions rooted or significantly aligned with the Lightning Path and the Avatar.GLOBAL framework. 
 
 **Symbolic Works** — Paintings, digital art, mandalas, and visual metaphors that symbolically represent core LP principles (e.g., the Fabric of Consciousness, disconnection, ascension).
 
