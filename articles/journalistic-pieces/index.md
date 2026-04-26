@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Journalistic Pieces
-nav_order: 10
-parent: Words
+nav_order: 51
 has_children: true
 ---
 
