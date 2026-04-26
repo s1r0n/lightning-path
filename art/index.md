@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Images
-nav_order: 48
+title: Art
+nav_order: 52
 has_children: true
 ---
 
-# Images
+# Art
 
-The Images section is a curated visual archive designed to support the conceptual, emotional, and spiritual integration work of the Avatar.GLOBAL framework. From paintings and illustrations to animation, shorts, and feature-length films, these media offerings bring to life the ontological foundations, psychological insights, and cosmological narratives of the Lightning Path. Each visual work functions as a symbolic mirror, educational tool, or healing vector, contributing to the collective project of reconnection and planetary transformation. Where traditional media often serve elite ideology and disconnection, all entries in this archive are selected or created for their resonance with authentic spirituality, emotional truth, and decolonial clarity.
+This section of the repository collects artistic expressions rooted or significantly aligned with the Lightning Path and the Avatar.GLOBAL framework. If you wish to be included in this repository, email mikes@athabascau.ca.
 
 ## Categorization
 
-The archive is organized into the following categories:
+This needs updating. We
 
 **Symbolic Works** — Paintings, digital art, mandalas, and visual metaphors that symbolically represent core LP principles (e.g., the Fabric of Consciousness, disconnection, ascension).
 
