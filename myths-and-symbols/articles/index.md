@@ -3,7 +3,7 @@ layout: default
 title: Articles
 nav_order: 25
 has_children: true
-parent: LP Resources
+parent: LP Myths and Symbols
 ---
 
 coming shortly
