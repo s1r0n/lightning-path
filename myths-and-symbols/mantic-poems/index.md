@@ -3,7 +3,7 @@ layout: default
 title: Mantic Poems
 nav_order: 40
 has_children: true
-parent: LP Resources
+parent: LP Myths and Symbols
 ---
 
 # Mantic Poems
