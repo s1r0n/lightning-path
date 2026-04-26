@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Narrative Visualizations
-parent: Images
+parent: Art
 has_children: true
 ---
 
