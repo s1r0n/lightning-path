@@ -9,7 +9,7 @@ has_children: true
 
 <img src="https://spiritwiki.lightningpath.org/images/8/81/Graduation.jpg" align=right width=250px style="padding: 10px;">
 
-## Introduction
+## Introduction 
 
 The **Triumph of Spirit Archetype System** (TOSAS) is a central pillar of the [Lightning Path Human Development Framework](https://spiritwiki.lightningpath.org/index.php/Human_Development). It is not merely an artistic or symbolic project; it is a [Connection Appliance](https://spiritwiki.lightningpath.org/index.php/Connection) and [Healing Appliance](https://spiritwiki.lightningpath.org/index.php/Healing) designed to repair the damage inflicted by [Toxic Socialization](https://spiritwiki.lightningpath.org/index.php/Toxic_Socialization) and to replace the [Old Energy Creation Template](https://spiritwiki.lightningpath.org/index.php/Old_Energy_Archetype) that has governed this planet for millennia.
 
