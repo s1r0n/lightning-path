@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Triumph of Spirit Archetype System
+title: The Triumph of Spirit Archetype System
 nav_order: 40
 has_children: false
 parent: Triumph of Spirit Archetype System
