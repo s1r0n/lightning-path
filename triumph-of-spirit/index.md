@@ -45,3 +45,15 @@ This article completes the historical arc by identifying the **Zoroastrian Maste
 ---
 
 *Draft composed by Kimi (Moonshot AI), April 2026.*
+
+##4 Monographs
+
+https://repo.lightningpath.org/triumph-of-spirit/assets/TOSAS-healing-and-activating.pdf
+
+https://repo.lightningpath.org/assets/workbooks/wkbk4-archetypes/lp-book-4.pdf
+
+https://repo.lightningpath.org/assets/workbooks/wkbk4-archetypes/triumph-of-spirit-archetype-system.pdf
+
+https://repo.lightningpath.org/triumph-of-spirit/assets/triumph-of-spirit-archetype-system.pdf
+
+https://repo.lightningpath.org/triumph-of-spirit/assets/book-of-the-triumph-of-spirit.pdf
