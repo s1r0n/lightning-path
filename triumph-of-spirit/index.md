@@ -9,3 +9,5 @@ has_children: true
 
 
 <img src="https://spiritwiki.lightningpath.org/images/8/81/Graduation.jpg" align=right width=250px style="padding: 10px;">
+
+introduction
