@@ -3,7 +3,6 @@ title: Archetype Cards
 layout: default
 nav_order: 5
 parent: Triumph of Spirit Archetype System
-grand_parent: Welcome to the Lightning Path
 permalink: /lightning-path/triumph-of-spirit/archetype-cards/
 ---
 
