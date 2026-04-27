@@ -10,3 +10,9 @@ has_children: true
 <img src="https://spiritwiki.lightningpath.org/images/8/81/Graduation.jpg" align=right width=250px style="padding: 10px;">
 
 introduction
+
+https://repo.lightningpath.org/triumph-of-spirit/assets/a-short-sociology-of-archetypes.pdf
+
+https://repo.lightningpath.org/triumph-of-spirit/assets/a-sociology-of-tarot.pdf
+
+https://repo.lightningpath.org/triumph-of-spirit/assets/from-zoroaster-to-star-wars.pdf
