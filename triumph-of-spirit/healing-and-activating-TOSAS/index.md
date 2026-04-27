@@ -3,7 +3,7 @@ layout: default
 title: Healing and Activation with the Triumph of Spirit Archetypes
 nav_order: 20
 has_children: true
-parent: Monographs
+parent: Triumph of Spirit Archetype System
 ---
 # Healing and Activating with the Triumph of Spirit Archetypes
 
