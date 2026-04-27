@@ -10,23 +10,35 @@ permalink: /lightning-path/triumph-of-spirit/archetype-cards/
 
 Browse the archetype card images below.
 
-<div class="card-grid">
+{% assign image_files = "" | split: "" %}
+{% assign target_path = "/lightning-path/triumph-of-spirit/archetype-cards/" %}
+
 {% for file in site.static_files %}
-  {% if file.path contains '/lightning-path/triumph-of-spirit/archetype-cards/' %}
-    {% assign ext = file.extname | downcase %}
-    {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.webp' or ext == '.gif' %}
-      <div class="card-item">
-        <a href="{{ file.path | relative_url }}">
-          <img src="{{ file.path | relative_url }}" alt="{{ file.name | replace: ext, '' | replace: '-', ' ' | replace: '_', ' ' | capitalize }}" loading="lazy">
-        </a>
-        <p class="card-caption">{{ file.name | replace: ext, '' | replace: '-', ' ' | replace: '_', ' ' | capitalize }}</p>
-      </div>
+  {% assign file_path = file.path %}
+  {% assign ext = file.extname | downcase %}
+  
+  {% if file_path contains target_path %}
+    {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" or ext == ".gif" %}
+      {% assign image_files = image_files | push: file %}
     {% endif %}
   {% endif %}
 {% endfor %}
-</div>
 
-<style>
+{% if image_files.size == 0 %}
+> **No images found.** Ensure your image files are committed to `{{ target_path }}` and that Jekyll recognizes them as static files.
+{% else %}
+<div class="card-grid">
+{% for file in image_files %}
+  {% assign clean_name = file.name | replace: file.extname, "" | replace: "-", " " | replace: "_", " " | capitalize %}
+  <div class="card-item">
+    <a href="{{ file.path | relative_url }}">
+      <img src="{{ file.path | relative_url }}" alt="{{ clean_name }}" loading="lazy">
+    </a>
+    <p class="card-caption">{{ clean_name }}</p>
+  </div>
+{% endfor %}
+</div>
+{% endif %}
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
