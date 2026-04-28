@@ -30,6 +30,10 @@ In short, TOSAS is the LP's answer to the question, "What do we put in place onc
 
 The theoretical and historical grounding for TOSAS is presented in three foundational articles. Together, they trace the sociological anatomy of archetypes, expose the elite machinery that constructed the planet's dominant symbolic order, and map the ancient origins of the Old Energy template that TOSAS is designed to replace.
 
+### A Brief Introduction to Archetypes and Creation Templates
+
+https://www.academia.edu/127251126/A_brief_introduction_to_archetypes_and_creation_templates
+
 ### A Short Sociology of Archetypes
 
 This article establishes the basic conceptual vocabulary for understanding archetypes not as mystical relics of a primordial psyche, but as **ideas that provide answers to Big Questions**—and as powerful sociological instruments. It distinguishes between mundane and existential narratives, explains how archetypes are generated through human imagination and then captured via **Primary and Secondary Elaboration**, and introduces the critical concepts of [Symbol Factories](https://spiritwiki.lightningpath.org/index.php/Symbol_Factory), [System Architects](https://spiritwiki.lightningpath.org/index.php/System_Architect), and [Ideological Institutions](https://spiritwiki.lightningpath.org/index.php/Ideological_Institution). The article demonstrates that archetypes are not neutral; they are amplified through [Sacrilization](https://spiritwiki.lightningpath.org/index.php/Sacrilization) and deployed to organize meaning, regulate behavior, and naturalize systems of privilege. For the LP practitioner, this article is essential reading because it explains *why* changing our internal archetypal landscape is a prerequisite for personal and planetary healing. It shows that reclaiming symbolic sovereignty is not an esoteric luxury—it is a necessary act of resistance against the [Regime of Accumulation](https://spiritwiki.lightningpath.org/index.php/Regime_of_Accumulation).
