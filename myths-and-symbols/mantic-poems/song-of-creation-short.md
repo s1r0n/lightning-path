@@ -9,7 +9,7 @@ nav_order: 1
 # The Song of Creation
 
 ---
-
+ 
 ## 1
 
 In the beginning, Spirit was and Spirit moved. Alpha and omega, beginning without end, no thing and everything contained in one unlimited, unrealized potential. And then, Spirit thought, and from that thought sprang all of creation.
