@@ -74,6 +74,6 @@ And as has happened too many times before, the powerful refused. But as was fore
 *The End*
 
 **Mike Sosteric**  
-(4/20/25)
+(4/26/28)
 
 https://esosteric.lightningpath.org
