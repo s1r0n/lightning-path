@@ -8,11 +8,6 @@ nav_order: 1
 
 # The Song of Creation
 
-**Mike Sosteric**  
-(4/20/25)
-
-https://esosteric.lightningpath.org
-
 ---
 
 ## 1
@@ -77,3 +72,8 @@ And the people, united, turned to the powerful and said, "Awaken, this is the wa
 And as has happened too many times before, the powerful refused. But as was foretold, when the Warriors come, the darkness falls, and in love, light, and the bliss of unity the people lived happily ever after.
 
 *The End*
+
+**Mike Sosteric**  
+(4/20/25)
+
+https://esosteric.lightningpath.org
