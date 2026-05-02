@@ -1,3 +1,4 @@
+---
 layout: default
 title: The Vision of Vannevar Bush
 parent: The Peace Table
@@ -31,7 +32,7 @@ But the centerpiece, the revolutionary heart of his vision, was the memex—a me
 Most remarkably, Bush speculated about direct neural interfaces. Since all sensory information reaches the brain as electrical vibrations, he asked whether we might someday intercept these currents directly, bypassing mechanical intermediaries. While cautioning that this risked "losing touch with reality," he noted that encephalographs already recorded brain electrical phenomena. This was 1945—decades before brain-computer interfaces became a serious research field.
 Bush wrote with a sense of urgency. As he reflected:
 
-    Humanity had built a civilization so complex that mechanized records were essential to "push [the] experiment to its logical conclusion." The goal was not merely efficiency but wisdom: to "grow in the wisdom of race experience" by truly encompassing humanity’s accumulated knowledge. Science had given humanity weapons of mass destruction; it could yet provide tools for collective understanding.
+>Humanity had built a civilization so complex that mechanized records were essential to "push [the] experiment to its logical conclusion." The goal was not merely efficiency but wisdom: to "grow in the wisdom of race experience" by truly encompassing humanity’s accumulated knowledge. Science had given humanity weapons of mass destruction; it could yet provide tools for collective understanding.
 
 Amazing?
 
