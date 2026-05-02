@@ -5,7 +5,7 @@ parent: The Peace Table
 has_children: false
 ---
 
-I have spoken previously about Maslow's vision for a Peace Table, a first step on a path forward to a better world. Maslow wasn't the only scientist with a vision. Vannevar Bush also saw a path forward to a better world. 
+I have spoken previously about [Maslow's vision for a Peace Table](https://medium.com/the-peace-table/abraham-maslows-vision-for-a-psychology-of-the-peace-table-f4b8dd2627d8), a first step on a path forward to a better world. Maslow wasn't the only scientist with a vision. Vannevar Bush also saw a path forward to a better world. 
 
 For those of you who don’t know, engineer and science administrator Vannevar Bush was an intellectual and institutional giant, right up there at the top. He was the director of the Office of Scientific Research and Development, the man who coordinated six thousand American scientists in the single largest mobilization of scientific talent in human history, and the author of what may be the most important essay ever written about humanity’s relationship with knowledge.
 
