@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mencius at the Peace Table: The Second Sage and the Innate Architecture of Human Goodness
+title: Mencius at the Peace Table - The Second Sage and the Innate Architecture of Human Goodness
 parent: The Peace Table
 has_children: false
 author: K2.6 Thinking
