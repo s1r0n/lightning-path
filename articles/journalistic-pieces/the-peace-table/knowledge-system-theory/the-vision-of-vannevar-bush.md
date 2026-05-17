@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Vision of Vannevar Bush
-parent: The Peace Table
+parent: Knowledge System Theory
 has_children: false
 ---
 
