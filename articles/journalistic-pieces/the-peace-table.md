@@ -9,7 +9,7 @@ summary: The Peace Table is the public-facing front end of the Lightning Path �
 
 ## The Peace Table Articles
 
-The Peace Table is the public-facing front end of the Lightning Path. It is a a publication designed to introduce general readers to the LP's core teachings, worldview, and transformative framework, while also exploring the theoretical foundations of [Eupsychia](https://spiritwiki.lightningpath.org/index.php/Eupsychia) (Maslow's name for the Good Society) across the full spectrum of human knowledge.
+The Peace Table is the public-facing front end of the [Lightning Path](https://www.lightningpath.org) and [SpiritWiki](https://spiriwtiki.lightningpath.org). It is a a publication designed to introduce general readers to the LP's core teachings, worldview, and transformative framework, while also exploring the theoretical foundations of [Eupsychia](https://spiritwiki.lightningpath.org/index.php/Eupsychia) (Maslow's name for the Good Society) across the full spectrum of human knowledge.
 
 Rooted in [Abraham Maslow's](https://spiritwiki.lightningpath.org/index.php/Abraham_Maslow) vision of December 8, 1941 — the day after Pearl Harbor, when Maslow imagined a gathering place where people could speak seriously about "human nature and hatred and war and peace and brotherhood" — The Peace Table carries forward the mission of what Maslow called a "Psychology for the Peace Table": a scholarship aimed not at adjusting people to a damaged world, but at understanding what human beings truly need to flourish.
 
