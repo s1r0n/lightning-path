@@ -26,4 +26,4 @@ The door is open.
 
 Welcome Home.
 
-[Read Article](https://medium.com/the-peace-table/about-the-peace-table-4a79bc6e27e3)
+
