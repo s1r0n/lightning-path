@@ -2,7 +2,7 @@
 layout: default
 title: Humanity's Big Problem
 nav_order: 7
-parent: Introduction
+parent: About the Peace Table
 has_children: true
 summary: Identifies the core obstacle to human flourishing - a toxic socialization process that systematically damages human potential from childhood onward. Connects this foundational harm to the ideological, economic, and political structures that perpetuate disconnection and prevent the emergence of the Good Society.
 author: pf
