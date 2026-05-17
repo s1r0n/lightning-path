@@ -4,7 +4,7 @@ title: The Vision of Vannevar Bush
 nav_order: 9
 parent: Introduction
 has_children: true
-Summary: Explores Vannevar Bush's 1945 essay "As We May Think" and his visionary memex concept — a mechanized system of associative knowledge linking ideas by conceptual trails rather than hierarchical categories. Documents how this vision of a "pacific instrument" for wisdom was corrupted by commercialization, militarization, and the surveillance capitalism that defines the modern internet.
+summary: Explores Vannevar Bush's 1945 essay "As We May Think" and his visionary memex concept — a mechanized system of associative knowledge linking ideas by conceptual trails rather than hierarchical categories. Documents how this vision of a "pacific instrument" for wisdom was corrupted by commercialization, militarization, and the surveillance capitalism that defines the modern internet.
 ---
 
 ## The Vision of Vannevar Bush
