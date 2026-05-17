@@ -6,7 +6,7 @@ has_children: True
 author: Kimi 2.6
 ---
 
-## The Shifting Paradigm in the Science of Consciousness — Post-Graduate Summary
+## Summary - The Shifting Paradigm in the Science of Consciousness
 
 This article examines the growing crisis of materialist, brain-bound theories of consciousness in light of anomalous data that the standard model cannot accommodate: veridical near-death experiences during cardiac arrest, parapsychological research on precognition and telepathy, and emerging findings in quantum biology suggesting non-local coordination in living systems. The materialist paradigm — what the article terms the "neuronal computational model" — is not wrong in what it explains but catastrophically incomplete in what it excludes.
 
