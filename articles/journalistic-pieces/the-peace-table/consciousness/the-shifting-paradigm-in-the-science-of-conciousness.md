@@ -7,7 +7,7 @@ author: Kimi 2.6
 ---
 
 ## Summary - The Shifting Paradigm in the Science of Consciousness
-
+ 
 This article examines the growing crisis of materialist, brain-bound theories of consciousness in light of anomalous data that the standard model cannot accommodate: veridical near-death experiences during cardiac arrest, parapsychological research on precognition and telepathy, and emerging findings in quantum biology suggesting non-local coordination in living systems. The materialist paradigm — what the article terms the "neuronal computational model" — is not wrong in what it explains but catastrophically incomplete in what it excludes.
 
 Using Paul C. Mocombe's Consciousness Field Theory (CFT) as a critical case study, the article analyzes one of the more sophisticated attempts to stretch materialist frameworks without formally abandoning them. CFT posits "psychions" — elementary particles of consciousness that are received by the brain's electromagnetic field, eventually returning to an "absolute vacuum" that constitutes an akashic repository of all lived experience. The theory situates itself alongside other post-materialist frameworks (Hameroff and Penrose's Orch-OR, McFadden's cemi field theory) while claiming distinctiveness through its grounding in phenomenological structuralism.
