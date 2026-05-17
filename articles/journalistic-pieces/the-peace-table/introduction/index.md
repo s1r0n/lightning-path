@@ -2,7 +2,7 @@
 layout: default
 title: About the Peace Table
 nav_order: 1
-parent: Introduction
+parent: The Peace Table
 has_children: true
 summary: This directory houses the introduction to the mission and purpose of The Peace Table as the public-facing arm of the Lightning Path. It outlines how the publication serves as a gateway to LP teachings and invites readers to engage with the project of building Eupsychia — the Good Society capable of full human flourishing.
 author: pf
