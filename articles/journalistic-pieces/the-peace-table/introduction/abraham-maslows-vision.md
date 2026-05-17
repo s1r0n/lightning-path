@@ -2,7 +2,7 @@
 layout: default
 title: Abraham Maslow's Vision
 nav_order: 3
-parent: Introduction
+parent: About the Peace Table
 has_children: true
 summary: Traces Maslow's pivotal December 8, 1941 vision — the day after Pearl Harbor — when he imagined a "peace table" where humanity could gather to discuss human nature, hatred, war, and brotherhood. Documents his subsequent development of Eupsychian Psychology and the systematic marginalization and defunding of the humanistic psychology movement he founded.
 author: pf
