@@ -2,7 +2,7 @@
 layout: default
 title: Humanity's Indomitable Drive for Change
 nav_order: 5
-parent: Introduction
+parent: About the Peace Table
 has_children: true
 summary: Examines humanity's persistent, cross-cultural drive for social transformation and the recurring failure of revolutionary movements to sustain their gains. Argues that current knowledge technology — the tools we use to record, transmit, and review collective wisdom — is fundamentally inadequate to the task of paradigm shift, leaving us vulnerable to the accelerating polycrisis.
 author: pf
