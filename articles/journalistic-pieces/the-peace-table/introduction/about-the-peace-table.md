@@ -4,7 +4,7 @@ title: About the Peace Table
 nav_order: 1
 parent: Introduction
 has_children: true
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+summary: An introduction to the mission and purpose of The Peace Table as the public-facing arm of the Lightning Path. Outlines how the publication serves as a gateway to LP teachings and invites readers to engage with the project of building Eupsychia — the Good Society capable of full human flourishing.
 ---
 
 ## About the Peace Table
