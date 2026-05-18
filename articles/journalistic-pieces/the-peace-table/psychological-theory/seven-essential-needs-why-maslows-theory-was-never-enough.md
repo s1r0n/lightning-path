@@ -4,6 +4,7 @@ title: The Seven Essential Needs - Why Maslow's Theory was Never Enough
 parent: Psychological Theory
 has_children: True
 author: K2.6 Thinking
+nav_exclude: true
 summary: This article traces Abraham Maslow's 1941 vision of a "peace table" and his subsequent development of Eupsychian Psychology, arguing that the iconic pyramid representation of his hierarchy of needs—introduced by business theorist Charles McDermid in 1960—constitutes an ideological corruption that transformed a theory of human liberation into a tool of corporate control. Here I propose the Seven Essential Needs theory, which replaces the pyramid with a circle model organized into three layers - an outer ring of five basic needs (physiological, environmental, cognitive, emotional, and psychological), an inner need for alignment, and a core need for connection. Drawing on Indigenous circular worldviews and Maslow's later writings on transcendence, this reframing treats all needs as essential, interconnected, and continuously required for human flourishing. The circle thus recovers Maslow's original social vision—assessing whether institutions and societies provide the conditions for all members to thrive—and offers a diagnostic framework for addressing the unmet needs that perpetuate violence, hatred, and civilizational crisis.
 keywords: [Abraham Maslow, Hierarchy of Needs, Seven Essential Needs, Eupsychia, Human Flourishing]
 ---
