@@ -5,6 +5,7 @@ nav_order: 7
 has_children: False
 parent: The Conversation
 keywords: [Ideology, Spiritual Abuse, Religion, Systemic Violence]
+nav_exclude: true
 ---
 
 # The Catholic Church is a Rich Male Collective
