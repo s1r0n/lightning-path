@@ -5,6 +5,7 @@ nav_order: 14
 has_children: False
 parent: The Conversation
 keywords: [Ideology, Disconnection, Consciousness Manipulation]
+nav_exclude: true
 ---
 
 # Why We Should All Cut the Facebook Cord
