@@ -5,6 +5,7 @@ nav_order: 13
 has_children: False
 parent: The Conversation
 keywords: [Zorastrian Frame, Ideology, Spiritual Abuse, Ideology]
+nav_exclude: true
 ---
 
 # Star Wars is a Religion that Primes Us All for War
