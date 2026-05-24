@@ -5,6 +5,7 @@ nav_order: 9
 has_children: False
 parent: The Conversation
 keywords: [Ideology, Indoctrination]
+nav_exclude: true
 ---
 # Trump’s Manipulation of Mass Consciousness
 
