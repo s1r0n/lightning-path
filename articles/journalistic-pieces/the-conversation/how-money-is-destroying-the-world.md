@@ -5,6 +5,7 @@ nav_order: 11
 has_children: False
 parent: The Conversation
 keywords: [Money, Regime of Accumulation, Toxic Socialization, Ideology]
+nav_exclude: true
 ---
 
 # How Money is Destroying the World
