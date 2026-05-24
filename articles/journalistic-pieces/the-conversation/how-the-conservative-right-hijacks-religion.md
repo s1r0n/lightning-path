@@ -5,6 +5,7 @@ nav_order: 10
 has_children: False
 parent: The Conversation
 keywords: [Religion, Spiritual Abuse, Ideology]
+nav_exclude: true
 ---
 
 # How the Conservative Right Hijacks Religion
