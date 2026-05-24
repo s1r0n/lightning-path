@@ -5,6 +5,7 @@ nav_order: 12
 has_children: False
 parent: The Conversation
 keywords: [Awakening, Ideology, Disconnection, Consumerism]
+nav_exclude: true
 ---
 
 # The Red Pill or the Blue Pill
