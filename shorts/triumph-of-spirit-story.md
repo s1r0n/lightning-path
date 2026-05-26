@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Triumph of Spirit Story
-parent: 
+parent: Video Shorts
 nav_order: 42
 has_children: true
 keywords: 
