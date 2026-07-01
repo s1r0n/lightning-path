@@ -15,10 +15,8 @@ ga_tracking: G-01E78G6G28
 ga_tracking_anonymize_ip: true
 
 aux_links:
-  "Avatar.GLOBAL":
-    - "/coming-soon"
-  "The SpiritWiki":
-    - "https://spiritwiki.lightningpath.org/"
+  "Avatar.GLOBAL": "/coming-soon"
+  "The SpiritWiki": "https://spiritwiki.lightningpath.org/"
 
 aux_links_new_tab: false
 heading_anchors: true
