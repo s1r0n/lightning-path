@@ -3,7 +3,7 @@ title: Welcome to the Lightning Path
 layout: home
 nav_order: 10
 ---
- 
+  
 # Welcome to the Lightning Path GitHub Repository    
 
 *Note: Everything Here is Free and open access (see [licence](https://repo.lightningpath.org/license/)).*
