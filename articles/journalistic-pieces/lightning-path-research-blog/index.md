@@ -4,6 +4,7 @@ title: The Lightning Strike
 nav_order: 50
 parent: Journalistic Pieces
 has_children: true
+summary: The Lightning Strike is the Lightning Path's theory and research publication. In it you will find grounded and accessible treatments of LP theory, as well as accessible empirical articles that ground LP concepts and ideas in the scholarly, scientific, and spiritual literature of this planet.
 ---
 
 ## The Lightning Strike
