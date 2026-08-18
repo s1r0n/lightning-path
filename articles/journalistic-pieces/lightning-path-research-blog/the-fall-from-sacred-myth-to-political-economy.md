@@ -5,6 +5,7 @@ has_children: False
 parent: LP Research Blog
 keywords: [Eschatology, The Fall]
 nav_exclude: true
+description: "this is the description"
 ---
 
 ## Overview
