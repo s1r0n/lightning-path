@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% if page.published_url %}
+<div class="published-banner">
+  <p>
+    <span class="label label-blue">Published</span>
+    A published version of this article is available at
+    <a href="{{ page.published_url }}" target="_blank" rel="noopener">
+      {{ page.published_url }}
+    </a>
+  </p>
+</div>
+{% endif %}
+
+{{ content }}
