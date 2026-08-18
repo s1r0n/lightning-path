@@ -5,6 +5,7 @@ has_children: False
 parent: The Lightning Strike
 keywords: [Mysticism, Mysical Experience, Connection Experience]
 nav_exclude: true
+summary: An article that discusses the long history of utopian thinking in the sciences, philosophy, and literature.  
 ---
 
 # Mysticism, Connection Experience, and the Utopian Turn
