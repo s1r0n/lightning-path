@@ -5,7 +5,7 @@ has_children: False
 parent: The Lightning Strike
 keywords: [Alignment, Seven Essential Needs, Self-Actualization, Species-Being, Human Flourishing, Human Potential, Spiritual Ego]
 nav_exclude: true
-description: This is the description
+summary: This is the description
 url: https://www.lightningpath.org/lightning-strike/the-concept-of-alignment-in-utopian-writing/
 ---
 
