@@ -1,0 +1,11 @@
+<!-- Custom Publisher Link at the top of the article -->
+<div class="published-link-banner" style="margin-bottom: 1rem; font-size: 0.85em;">
+  <a href="{{ page.url | absolute_url }}" target="_blank" rel="noopener">
+    🌐 View Published Version
+  </a>
+</div>
+
+<!-- Retain the original theme breadcrumbs logic below your link -->
+{% if page.parent %}
+  {% include components/breadcrumbs_core.html %}
+{% endif %}
