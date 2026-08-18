@@ -47,3 +47,10 @@ gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/s1r0n/lightning-path"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
