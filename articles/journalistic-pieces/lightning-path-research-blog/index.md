@@ -14,3 +14,4 @@ The goal here is simple: to show that the Lightning Path's concepts — things l
 
 Expect clear language, real citations, and no gatekeeping. Whether you are a scholar checking the foundations, a practitioner looking for depth, or simply someone wondering whether any of this holds up, this is where the receipts live.
 
+Note, articles here are a combination of published articles and draft treatements. If you want to look at just the final articles, visit [The Lightning Strike](https://www.lightningpath.org/lightning-strike/)
