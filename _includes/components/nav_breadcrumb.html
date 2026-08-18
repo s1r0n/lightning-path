@@ -1,11 +1,11 @@
-{% if site.url and site.url != "" and site.url != "http://localhost:4000" %}
-  <!-- Safe Production Link Block -->
+{% if page.published_url and page.published_url != "" %}
+  <!-- Production Link Block pulled directly from front matter -->
   <div class="production-link-banner" style="margin-bottom: 1.5rem; text-align: right;">
-    <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+    <a href="{{ page.published_url }}" 
        target="_blank" 
        rel="noopener" 
        class="btn btn-outline" 
-       style="font-size: 0.85em; padding: 0.3rem 0.6rem; text-decoration: none;">
+       style="font-size: 0.85em; padding: 0.3rem 0.6rem; text-decoration: none; display: inline-block;">
       🌐 View Live Production Version
     </a>
   </div>
