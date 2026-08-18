@@ -2,7 +2,7 @@
 layout: default
 title: The Origin of the Credit Card 
 has_children: False
-parent: LP Research Blog
+parent: The Lightning Strike
 keywords: [Money, The Economy, The Regime of Accumulation]
 nav_exclude: true
 ---

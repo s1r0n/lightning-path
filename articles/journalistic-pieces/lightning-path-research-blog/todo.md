@@ -3,7 +3,7 @@ layout: default
 title: TODO List of Articles 
 nav_order: 199
 has_children: False
-parent: LP Theory and Research Blog
+parent: The Lightning Strike
 keywords: [TODO List]
 nav_exclude: true
 --

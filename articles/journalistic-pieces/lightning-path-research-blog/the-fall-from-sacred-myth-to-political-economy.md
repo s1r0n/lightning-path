@@ -2,7 +2,7 @@
 layout: default
 title: The Fall — From Sacred Myth to Political Economy
 has_children: False
-parent: LP Research Blog
+parent: The Lightning Strike
 keywords: [Eschatology, The Fall]
 nav_exclude: true
 description: "this is the description"

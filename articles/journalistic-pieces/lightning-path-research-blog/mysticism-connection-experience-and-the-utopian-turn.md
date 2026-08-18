@@ -2,7 +2,7 @@
 layout: default
 title: Mysticism, Connection Experience, and the Utopian Turn
 has_children: False
-parent: LP Research Blog
+parent: The Lightning Strike
 keywords: [Mysticism, Mysical Experience, Connection Experience]
 nav_exclude: true
 ---

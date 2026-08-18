@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LP Research Blog
+title: The Lightning Strike
 nav_order: 50
 parent: Journalistic Pieces
 has_children: true
@@ -10,13 +10,3 @@ has_children: true
 
 [insert description]
 
-## TODO List
-
-Articles that could be written, with reference to RSGME as the placed initially discussed
-
-+ an article on the Hidden Immam (the Mahdi) from the Islamic tradition, with specific focus on the Shi'i side
-
-  * https://sunnah.com/abudawud/38
-  * https://shiism.hds.harvard.edu/sites/g/files/omnuum3186/files/shiism-global-affairs/files/the_hidden_imam_and_the_end_of_time_-_a_primer_on_the_mahdi_islamic_theology_and_global_politics_01.pdf
-
-+ another article
