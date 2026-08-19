@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Abraham Maslow
+title: The Psychologist Abraham Maslow
 parent: Abraham Maslow
 has_children: True
 summary: 
 author: Mike Sosteric
 published_url: 
 ---
+
+# The Psychologist Abraham Maslow
 
 [Abraham Maslow](https://spiritwiki.lightningpath.org/index.php/Abraham_Maslow) is usually introduced as the man who developed the "[hierarchy of needs](https://spiritwiki.lightningpath.org/index.php/Hierarchy_of_Basic_Needs)," but that little text-book introduction, his "footnote" in history, completely ignores his massive theoretical contribution to psychology specifically, and the social sciences in general. To put it bluntly, he was a humanistic psychologist trying to build a usable utopia: not a fantasy of perfection, but an empirical account of the conditions under which human beings become less fearful, less cruel, more creative, and more fully themselves. His word for this was “eupsychia” — the good society. This motivation ran through his work on motivation, self-actualization, peak experiences, synergy, Eupsychian management, education, and even religion. 
 
