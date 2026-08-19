@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Theory
+Title: Theory Articles
 parent: Article Summaries
 nav_order: 10
 has_children: true

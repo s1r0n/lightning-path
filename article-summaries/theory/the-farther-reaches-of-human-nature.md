@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Farther Reaches of Human Nature
-parent: Article Summaries
+parent: Theoretical Articles
 has_children: True
 summary: A summary of Abraham Maslow's 1967 lecture "The Farther Reaches of Human Nature." In it, Maslow announces that a Humanistic Revolution, a great turning back to real human needs and real human experience, is underway and penetrating every field of science and human endeavor. This revolution gives us a new image of human nature, a scientific way to judge societies, and real grounds for hope that we can transform the world.
 published_url:
