@@ -5,7 +5,8 @@ parent: Abraham Maslow
 has_children: True
 summary: 
 author: Mike Sosteric
-published_url: 
+published_url: https://peace-table.lightningpath.org/the-psychologist-abraham-maslow-41a6a3b4b471
+keywords: [Abraham Maslow, Eupsychia, Humanistic Psychology, Transpersonl Psychology]
 ---
 
 # The Psychologist Abraham Maslow
