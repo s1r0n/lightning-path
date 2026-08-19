@@ -1,0 +1,12 @@
+---
+layout: default
+title: 
+parent: Abraham Maslow
+has_children: True
+summary: 
+published_url: 
+author: Mike Sosteric
+---
+
+[insert article content]
+
