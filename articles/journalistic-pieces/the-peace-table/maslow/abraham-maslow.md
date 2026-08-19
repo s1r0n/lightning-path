@@ -18,8 +18,10 @@ The motivation for that Utopian theory came, by Maslow’s own account, [from a 
 
 Interestingly, Maslow believed he had done it. He answered the question and had even proposed a basic foundation for moving forward. In a 1969, in an article for the journal [Transpersonal Psychology](https://atpweb.org/journal.aspx) <sup>1</sup> entitled "The Farthest Reaches of Human Nature," Maslow wrote
 
-<blockquote>There is now available a new conception, of a  higher possibility, of the healthy society. There are tools now available to judge and
-compare societies. One society can be judged to be better than another society, or healthier or possessing more ‘growth-fostering-potential.’ We can talk about the value of the society, or the function of the society-that is, the greatest coming to fulfillment of the people in the society.”
+<blockquote>It is increasingly clear that a philosophical revolution is underway. A comprehensivee system is swiftly developoing like a fruit tree beginning to bear fruit on every branch at the same time. Every field of sience and human endeavor is being affected.<br>
+...<br>
+There is now available a new conception, of a  higher possibility, of the healthy society. There are tools now available to judge and
+compare societies. One society can be judged to be better than another society, or healthier or possessing more ‘growth-fostering-potential.’ We can talk about the value of the society, or the function of the society-that is, the greatest coming to fulfillment of the people in the society.
 
 This [Lightning Path](https://www.lightningpath.org) web space collects popular, grounded, accessible articles on Maslow's utopian vision, theory, and any research that supports it. Select articles are published in the webmagazine, The Peace Table (find its currently URL [here](https://spiritwiki.lightningpath.org/index.php/Peace_Table)). 
 
@@ -27,7 +29,7 @@ If you'd like to write a grounded, accessible, 800 to 1200 word  article on any 
 
 ## Endnotes
 
-1. The Journal of *Transpersonal Psychology*, despite its devotion to things of a "transpersonal" nature, remains stubbornly locked behind a paywall. The owners of this journal should be ashamed of themselves. If they need money, having a rolling window. Lock the last two years of the publication behind a paywall, but open the archive to the public.
+1. The Journal of *Transpersonal Psychology*, despite its devotion to things of a "transpersonal" nature, remains stubbornly locked behind a paywall. The owners of this journal should be ashamed of themselves, especially considering the sorry state of the world today. If they need money to operate the journal, having a rolling window. Lock the last two years of the publication behind a paywall, but open the archive to the public.
 
 ## References
 
