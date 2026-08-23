@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Larger Sutra on the Land of Bliss
-parent: Article Summaries
+parent: Sacred Texts
 nav_order: x
 has_children: false
 author: Mike Sosteric

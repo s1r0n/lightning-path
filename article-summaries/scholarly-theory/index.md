@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Scholarly 
+Title: Theoretical Foundations
 parent: Summaries
 nav_order: 10
 has_children: true
