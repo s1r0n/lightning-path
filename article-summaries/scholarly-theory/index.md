@@ -1,11 +1,11 @@
 ---
 layout: default
-Title: Theory Articles
-parent: Article Summaries
+Title: Scholarly 
+parent: Summaries
 nav_order: 10
 has_children: true
 author: Mike Sosteric
-summary: Theoretical Foundations
+summary: Summary of key theoretical articles
 ---
 
 # Theoretical Foundations

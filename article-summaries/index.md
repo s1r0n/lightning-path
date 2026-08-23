@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Article Summaries
+title: Summaries
 nav_order: 53
 has_children: true
 author: Mike Sosteric

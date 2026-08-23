@@ -1,11 +1,11 @@
 ---
 layout: default
-Title: Research
-parent: Article Summaries
+Title: Empirical Research
+parent: Summaries
 nav_order: 10
 has_children: true
 author: Mike Sosteric
-summary: Empirical Research
+summary: Summaries of key scientific research studies
 ---
 
 # Empirical Research
