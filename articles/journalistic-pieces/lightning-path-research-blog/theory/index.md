@@ -7,6 +7,6 @@ has_children: true
 summary: LP and LP adjacent theory.
 ---
 
-## LP Adjacent Theory
+## LP and LP Adjacent Theory
 
 
