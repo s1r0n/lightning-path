@@ -2,7 +2,7 @@
 layout: default
 title: Fromm's Proto-Eupsychian Vision - How the Regime of Accumulation Breaks the Human Spirit
 parent: LP and LP Adjacent Theory
-has_children: False
+has_children: True
 author: Mike Sosteric
 keywords: [Toxic Socialization]
 published_url: 
