@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fromm's Proto-Eupsychian Vision - How the Regime of Accumulation Breaks the Human Spirit
+title: Fromm's Proto-Eupsychian Vision
 parent: LP and LP Adjacent Theory
 has_children: True
 author: Mike Sosteric
