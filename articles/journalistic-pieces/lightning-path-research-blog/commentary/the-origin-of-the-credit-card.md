@@ -2,7 +2,7 @@
 layout: default
 title: The Origin of the Credit Card 
 has_children: False
-parent: The Lightning Strike
+parent: LP and LP Adjacent Commentary
 keywords: [Money, The Economy, The Regime of Accumulation]
 nav_exclude: true
 ---

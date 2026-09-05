@@ -2,7 +2,7 @@
 layout: default
 title: The Concept of Alignment in Religious Thought
 has_children: False
-parent: The Lightning Strike
+parent: LP and LP Adjacent Commentary
 keywords: [Alignment, Spirituality, Religion, Dharma, Asha, Tao, Righteousness, Spiritual Ego, Bodily Ego, Connection]
 nav_exclude: true
 ---

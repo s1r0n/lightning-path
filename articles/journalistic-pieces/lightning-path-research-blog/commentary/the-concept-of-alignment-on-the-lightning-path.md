@@ -2,7 +2,7 @@
 layout: default
 title: The Concept of Alignment on the Lightning Path
 has_children: False
-parent: The Lightning Strike
+parent: LP and LP Adjacent Commentary
 keywords: [Alignment, Bodily Ego, Spiritual Ego, Connection, Disjuncture, Three Rs of Alignment, Seven Essential Needs, Toxic Socialization, SpiritWiki]
 nav_exclude: true
 ---

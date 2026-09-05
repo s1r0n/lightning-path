@@ -2,7 +2,7 @@
 layout: default
 title: "The Concept of Alignment in Utopian Writing"
 has_children: False
-parent: The Lightning Strike
+parent: LP and LP Adjacent Commentary
 keywords: [Alignment, Seven Essential Needs, Self-Actualization, Species-Being, Human Flourishing, Human Potential, Spiritual Ego]
 nav_exclude: true
 summary: This is the description

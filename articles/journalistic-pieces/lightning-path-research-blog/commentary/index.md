@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Commentary
+title: LP and LP Adjacent Commentary
 nav_order: 50
 parent: The Lightning Strike
 has_children: true
