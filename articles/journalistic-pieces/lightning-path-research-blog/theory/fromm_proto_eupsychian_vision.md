@@ -2,10 +2,10 @@
 layout: default
 title: Fromm's Proto-Eupsychian Vision
 parent: LP and LP Adjacent Theory
-has_children: True
+has_children: false
 author: Mike Sosteric
-keywords: [Toxic Socialization]
-published_url: 
+keywords: [Toxic Socialization, Eupsychian Theory]
+published_url: https://www.lightningpath.org/lightning-strike/fromms-proto-eupsychian-vision-how-the-regime-of-accumulation-breaks-the-human-spirit/
 summary: this is the summary
 description" this is the description
 ---
