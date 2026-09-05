@@ -7,7 +7,8 @@ has_children: false
 author: Mike Sosteric
 summary: A plain-english rendering of the Sukhavativhuha Sutra 
 keywords: [Harmonic Social Order]
-status: draft
+status: published
+published_url: https://www.lightningpath.org/lightning-strike/the-larger-sutra-on-the-land-of-bliss/
 version: .99
 ai: true
 ---
