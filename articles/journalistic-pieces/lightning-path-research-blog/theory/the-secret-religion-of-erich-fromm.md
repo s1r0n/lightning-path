@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Secret Religion of Erich Fromm
-parent: LP and LP Adjacent Theory
+parent: The Lightning Strike
 has_children: False
 author: Mike Sosteric
 keywords: [Erich Fromm, Industrial Religion, Secret Religion]
