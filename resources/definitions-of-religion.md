@@ -1,9 +1,11 @@
 ---
-title: Connection Outcomes
+title: Definitions of Religion
 nav_order: 30
 parent: Resources
 description: description
 summary: summary
+creator: Mike Sosteric
+author: Kimi.AI
 ---
 ## Definitions of Relgion
 
