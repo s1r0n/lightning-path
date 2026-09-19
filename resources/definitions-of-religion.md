@@ -7,8 +7,9 @@ summary: A long list of sociological definitions of religion
 creator: Mike Sosteric
 author: Kimi.AI
 date: 2026-9-19
+download: https://repo.lightningpath.org/resources/definitions-of-religion.html
 ---
-## Definitions of Relgion
+## Definitions of Religion
 
 A collection of various sociological and sociology adjacent definitions of religion. Includes a RIS block for importation. 
 
