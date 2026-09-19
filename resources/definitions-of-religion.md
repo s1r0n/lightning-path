@@ -3,7 +3,7 @@ title: Connection Outcomes
 nav_order: 30
 parent: Resources
 description: description
-summary:summary
+summary: summary
 ---
 ## Definitions of Relgion
 
