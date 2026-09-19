@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: LP Research
 nav_order: 50
 parent: The Lightning Strike
 has_children: true
