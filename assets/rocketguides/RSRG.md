@@ -2,7 +2,7 @@
 title: Rocket Scientists' Guide to Religion (draft)
 nav_order: 30
 parent: Rocket Guides
-summary: An attempt to understand the nature and purpose of religion
+summary: An attempt to understand the nature and purpose of religion. [Overview](./RSGR.md) / [Draft](/RSGR.pdf)
 author: Mike Sosteric
 date: 2026-9-19
 download: https://repo.lightningpath.org/assets/rocketguides/RSGR.pdf
