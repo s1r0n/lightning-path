@@ -13,4 +13,6 @@ download: https://repo.lightningpath.org/resources/definitions-of-religion.html
 
 A collection of various sociological and sociology adjacent definitions of religion. Includes a RIS block for importation. 
 
-[Download](./definitions-of-religion.odt)
+The most up to date version is available as a [Google Doc](https://docs.google.com/document/d/1AoStMs7HumevcDxoCONEvOimmJzBtnRmSSnRSLIqE9w/edit?usp=sharing)
+
+Also [Download](./definitions-of-religion.odt)
