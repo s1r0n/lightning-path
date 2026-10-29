@@ -5,127 +5,95 @@ nav_order: 20
 ---
 # Lightning Path School of Human Development (LP) — Ethical Principles
 
+# LP Ethics Statement: Do No Harm / Do Good
 
-The Lightning Path School of Human Development (LP) is steadfastly committed to fostering a community where human health, growth, and connection thrive. We operate on a set of deeply held ethical principles that guide all interactions with students, staff, and the broader community.
+Source: [The Lightning Path](https://www.lightningpath.org/ethics-statement/)
 
-## 1. Commitment to Non-Violence
+This is the Lightning Path ethics statement. It can be summarized simply as **do no harm; do good**. The statement is derived directly from the Vedic principle of [ahimsa](https://spiritwiki.lightningpath.org/ahimsa), a word often translated as “non-violence,” but one that is far richer and more demanding than that translation suggests. Mahatma Gandhi described ahimsa as a “creative energy force,” and for Mahavira it was “soul-force.” Ahimsa is not about being meek or passive. It is about actively holding your ground in truth—*Satyagraha*—without resorting to harm. It requires immense strength and bravery to face aggression without returning it.
 
-LP unequivocally upholds non-violence in all teachings, practices, and community interactions. Violence—physical, emotional, psychological, or structural—damages individuals, communities, and the planet.
+The *Mahabharata* does not treat ahimsa as merely a good idea. It calls it “the highest virtue, the highest self-control, the greatest gift, the best suffering, the highest sacrifice, the finest strength, the greatest friend, the greatest happiness, the highest truth, and the greatest teaching.” It is the bedrock of Dharma and a principle expression across all major world religions.[^1]
 
-* **Non-Violent Communication**  
-  We cultivate empathy-based, respectful dialogue that balances authenticity with awareness of impact.
+Ahimsa itself has both a negative and a positive meaning.
 
-* **Safe & Supportive Environments**  
-  All spaces—online and in-person—must remain free from aggression, intimidation, or harm.
+**Negative Ahimsa:** The negative meaning is **do no harm**. Refrain from harm in thought, word, and deed toward all human beings and all sentient life. However, harm is not limited to its various forms of violence; it includes neglect, deception, exploitation, and the quiet indifference that allows suffering to continue.
 
-* **Rejection of Coercion**  
-  Growth occurs only in environments of trust, safety, and personal autonomy.
+**Positive Ahimsa:** The positive meaning of ahimsa is **do good**. Do not merely refrain—*act*. Actively protect, nourish, and promote the well-being of all living beings, specifically by helping them meet their [Essential Needs](https://spiritwiki.lightningpath.org/Essential_Needs). Where harm has already been done, work to repair it.
 
-* **Modeling Peaceful Practices**  
-  We teach and demonstrate peaceful, cooperative, and compassionate conflict-resolution skills.
+This ethical standard is **strict and non-optional**. It is not an aspiration reserved for the spiritually advanced or a guideline to be followed only when convenient. It applies to everyone, in every domain of life, at all times.
 
-* **Structural Non-Violence**  
-  We oppose systemic violence such as poverty, inequality, and environmental destruction, advocating for just, equitable, and sustainable systems.
+The principle of ahimsa may be said to operate in five spheres.
 
-Nobody is perfect. Our commitment to non-violence demands ongoing self-reflection and active engagement in peace, justice, and mutual respect.
+## 1. Your Body
 
-## 2. Individual Autonomy
+Your body is the vessel for your [Spiritual Ego](https://spiritwiki.lightningpath.org/Spiritual_Ego), your true identity and the powerful part of you submerged by modern [Toxic Socialization](https://spiritwiki.lightningpath.org/Toxic_Socialization) systems. It is not a machine to be driven until it breaks, an ornament to be judged by others, or an object whose value depends on productivity and appearance. It is the living ground of your experience, agency, and capacity for [connection](https://spiritwiki.lightningpath.org/connection). As such, you are responsible for protecting it from harm, meeting its needs, and nurturing its development.
 
-We honour each person’s right to self-determination. Members make their own decisions regarding personal growth, learning, and spiritual paths—free from undue pressure or coercion.
+The purpose of bodily care is to become physically, emotionally, and psychologically capable of handling [Connection](https://spiritwiki.lightningpath.org/Connection).
 
+- **Do not harm your body:** Do not injure your body through violence, neglect, or abuse. This includes obvious harms such as substance abuse, reckless risk, self-harm, and violence against yourself, but also quieter ones: chronic sleep deprivation, sedentary decay, disordered eating, ignoring pain, and accepting poisoned food, air, or water without resistance. It also includes the internal violence of self-hatred—the repeated conviction that your body is disgusting, defective, or worthy of punishment. Do not measure your worth by weight, appearance, output, or the approval of others. Your body is entrusted to your care; it is not something you may use up in the service of profit, status, or perfection.
+- **Do your body good:** Actively provide the conditions your body needs to flourish: nourishing food, clean water, sufficient sleep, regular movement, rest, medical and mental-health care, meaningful touch where welcome, and protection from violence. Make room for pleasure, play, creativity, time outdoors, and practices that help you notice rather than override bodily signals. Meeting [Essential Needs](https://spiritwiki.lightningpath.org/Essential_Needs) applies to you as well as to others. Self-care is not indulgence, and caring for yourself does not require you to become more productive or prove that you deserve rest.
+- **Listen, respond, and repair:** Learn to recognize hunger, exhaustion, tension, pain, and emotional overwhelm before they become crises. Where illness, injury, addiction, or trauma has occurred, seek appropriate support and allow recovery to take time. Repair may require medical treatment, changed habits, safer relationships, distance from harmful environments, or help from others. Asking for that help is not weakness. Nor should individuals be blamed for conditions produced by poverty, discrimination, unsafe work, or lack of accessible care; personal responsibility must be accompanied by collective action to remove these harms.
 
-## 3. Confidentiality & Privacy
+A healthy body is not a perfect body, and health is not the absence of every limitation. It is a body whose needs are respected, whose signals can be heard, and whose capacities are supported. It is sufficiently safe, nourished, rested, and emotionally regulated to engage with the world without being overwhelmed by chronic neglect.
 
-Information shared with LP is treated with the highest respect and discretion, ensuring safety and comfort for all participants.
+## 2. Your Family
 
+Your family is of critical importance. Whether formed through birth, adoption, partnership, caregiving, or conscious choice, family provides one of the primary nurturing grounds from which people grow. It is where people first learn whether needs will be heard, whether conflict can occur without abandonment, and whether love is conditional or secure. A safe and healthy family environment is therefore a critically important requirement of both individuals *and* society.
 
-## 4. Non-Discrimination, Inclusion & Equity
+- **Do not harm your family members:** No violence, no verbal cruelty, no manipulation, no withholding of affection as punishment. Children are owed physical and emotional safety as an absolute right, not a reward for obedience or achievement. Do not humiliate, intimidate, parentify, or force children to manage adult conflicts. Do not control another person’s identity, friendships, beliefs, body, or future in the name of care. Harm also includes favouritism, chronic dismissal, invasion of privacy, economic coercion, and forcing family members to carry responsibilities that exceed their capacity. Family loyalty must never be used to conceal abuse or pressure someone into silence.
+- **Do your family good:** Actively work to meet one another’s essential needs: food, shelter, clothing, health care, emotional security, dignity, education, rest, and opportunities for development. Care should be given freely, not traded for obedience, gratitude, or future repayment. Listen attentively, keep reasonable promises, share domestic and emotional labour fairly, and support each person’s growing autonomy. In practice, this may mean preparing meals, attending appointments, reading with a child, caring for an aging relative, making space for solitude, defending a family member from mistreatment, or ensuring that caregiving does not fall entirely on one person.
+- **Build relationships capable of truth and repair:** Harm done within the family—harsh words, broken trust, neglect, old wounds—must be acknowledged rather than buried. Listen to the person affected without immediately defending your intentions. Apologize clearly, make practical amends, and change the conditions that allowed the harm to recur. At the same time, reconciliation cannot be forced, and forgiveness does not imply renewed exposure to abuse. Boundaries, distance, or outside intervention may be necessary to stop harm and protect vulnerable family members. A family is not made healthy by preserving its appearance at any cost.
 
-LP welcomes all people—regardless of race, gender, religion, class, or any other factor. We commit to:
+Families also need support beyond their own walls. Access to housing, income security, health care, childcare, education, and protection from violence (i.e., the establishment of [Right Environment](https://spiritwiki.lightningpath.org/Right_Environment) shapes what happens inside them. These conditions should not be treated as private troubles for which struggling families alone are to blame.
 
-* Equal learning opportunities  
-* Fair distribution of resources  
-* Actively cultivating a diverse and inclusive environment  
+A healthy family is one where no member has to earn the right not to be harmed, everyone works toward the collective satisfaction of individual and family needs, and each person can develop without being possessed, erased, or required to sacrifice themselves for the group.
 
+## 3. Your Social Relations
 
-## 5. Safety & Well-Being
+Social relations help you build out a better community and a better world. This sphere includes not only friends and neighbours, but also colleagues, strangers, online relationships, community organizations, and the institutions through which people make collective decisions. Community is not created by proximity alone. It is built through trust, reciprocity, shared responsibility, and the consistent practice of treating others as beings whose needs matter.
 
-We prioritize physical, emotional, financial, and spiritual safety in every setting we create.
+- **Do not harm others:** No lying, no gossip, no scapegoating. In practice, this means refusing humiliation, harassment, manipulation, and social exclusion, including when they occur online or are normalized within a group. Do not use private information as leverage, make others the target of collective resentment, or remain comfortably silent when discrimination is occurring around you. Refuse to participate in, or quietly profit from, exploitation and structural violence, even when they are legal and socially accepted.
+- **Do good for the people in your purview:** Extend the circle. Protect the vulnerable, the stranger, the poor, and the marginalized with the same energy you protect your own. Concrete action can be ordinary: check on someone who has become isolated, share food or transportation, provide childcare, contribute skills without expecting status in return, make gatherings accessible, or help someone navigate an institution that has failed them. It can also be collective: support tenant organizations, worker associations, community kitchens, public spaces, and other structures through which people meet needs together rather than struggling alone.
+- **Build relations capable of repair:** Healthy community does not require constant agreement. It requires ways of addressing conflict without humiliation, coercion, or disposal. Listen before defending yourself. Acknowledge the effects of your actions. Apologize without demanding immediate forgiveness. Where trust has been broken, change the behaviour and accept that repair may take time. Where harm is systemic, interpersonal apology is not enough; the conditions that produced the harm must also be changed.
 
+Healthy social relations are non-violent, non-exploitative, reciprocal relations of mutual need satisfaction. A healthy community is one in which no one is treated as disposable, people affected by decisions have a meaningful voice in making them, and care is organized as a shared responsibility rather than left to private generosity or luck.
 
-## 6. Emotional & Psychological Support
+## 4. Your Productive and Economic Activities
 
-Recognizing trauma’s impact, LP:
+Work is what you do to manifest the [Good Person](https://spiritwiki.lightningpath.org/Good_Person) and the [Good Society](https://spiritwiki.lightningpath.org/Good_Society). Work includes paid employment, but also caregiving, parenting, food preparation, maintenance, volunteering, learning, artistic creation, and community organizing. The central ethical question is not simply whether an activity is legal, prestigious, or profitable. It is what the work makes possible, whose needs it serves, and who carries its costs.
 
-* Provides trauma-informed support  
-* Promotes mental-health awareness  
-* Aligns practices with compassionate care  
+- **Do no harm at work:** No livelihood should be built on harm. Do not produce, sell, or invest in things that injure people, animals, or ecosystems. Do not profit from unsafe labour, wage theft, discrimination, deceptive marketing, planned obsolescence, or environmental destruction externalized onto others. Within an organization, do not shift unreasonable risk onto workers, conceal dangers from consumers, or punish people for raising legitimate concerns. When you encounter harmful practices, refuse participation, document and report abuse, support those organizing for change, and work to alter the institution rather than treating obedience as innocence.
+- **Do good work:** Work should actively contribute to meeting one or more of our [Seven Essential Needs](https://spiritwiki.lightningpath.org/Seven_Essential_Needs). Care work, teaching, maintenance, sanitation, repair, and the cultivation of trust are not lesser forms of contribution simply because they are underpaid or unpaid. They are in fact greater contributions to [Human Development](https://spiritwiki.lightningpath.org/Human_Development) than the vast majority of activities under our current economic [Regime of Accumulation](https://spiritwiki.lightningpath.org/Regime_of_Accumulation). They should be highly paid.
+- Whatever your role, perform it with honesty and competence. Make products durable and repairable, services accessible, information truthful, and workplaces safe. Share knowledge rather than hoarding it for advantage. Where your work has caused damage, reparation is owed: cleanup, restoration, compensation, and changes that prevent recurrence.
+- **Use economic power responsibly:** Ethics applies not only to what you produce, but also to how you hire, purchase, invest, and allocate resources. Pay fairly where you have the power to do so. Give workers meaningful agency over conditions that affect them. Consider the full consequences of a purchasing or investment decision, including consequences borne by people and ecosystems distant from the transaction. Efficiency does not justify exploitation, and financial return does not launder harm.
 
-## 7. Mutual Benefit
+Healthy work provides dignity, security, and meaningful participation. Healthy jobs are jobs that do not harm, that heal, and that help with the global satisfaction of [Essential Needs](https://spiritwiki.lightningpath.org/Essential_Needs). A healthy economy is not one that merely generates activity or profit; it is one that enables people to sustain themselves and contribute without being forced to harm others in order to survive.
 
-Growth and progress arise through reciprocity—never exploitation.
+## 5. Your Relationship with the Natural World
 
-* Support is given and received freely so the whole community thrives.  
-* Each contribution (time, effort, knowledge, resources) is valued.  
-* Relationships are reciprocal, rooted in equality and shared growth.
+Separation is an illusion. You are intimately connected to all things, including the natural world. This sphere includes animals, plants, soil, water, air, ecosystems, and the generations that will inherit the consequences of present action. The natural world is not a resource stockpile. It is an expression of the powerful forces of life: a community of living beings and interdependent processes, not a backdrop existing solely for human use.
 
-We discourage behaviors where one person’s gain diminishes another.
+- **Do not harm the environment:** Minimize destruction. Recognize that **some harm is unavoidable**—we must eat plants to live and take materials from the earth to build shelter—but unavoidability is a reason for *restraint*, not license. Take only what is needed, take it with gratitude, and never take more simply because it is easy or profitable. In practice, this means reducing waste, avoiding toxic products where alternatives exist, conserving water and energy, protecting habitat, and refusing to treat animals as disposable instruments. All animals, not only the charismatic or commercially valuable ones, fall within this protection.
+- **Nurture, protect, and heal:** Actively restore what has been damaged. Replant what is cut with species appropriate to the ecosystem, protect waterways and remaining habitat, regenerate depleted soil, and support the recovery of displaced species. Give back more than is taken where possible. Since animal agriculture harms animals by the billions and devastates ecosystems, this presupposes a **vegan lifestyle wherever feasible**. Restoration also requires restraint: there are places that should not be developed, extracted from, or “improved” for human convenience at all.
+- **Accept collective responsibility:** Individual consumption choices matter, but personal purity is not the goal. Many ecological harms are built into energy systems, transportation, housing, agriculture, and industrial production. Do good by supporting changes to those systems: cleaner infrastructure, durable and repairable goods, habitat protection, regenerative land practices, and accountability for organizations that pollute or destroy. Do not allow the scale of the problem to become an excuse for inaction, and do not allow small personal gestures to substitute for structural change.
 
-## 8. Truth & Honesty
+A healthy relationship with the natural world is reciprocal rather than extractive. It is measured not only by reduced consumption, but by whether living systems are recovering, animals are protected from avoidable suffering, and future generations inherit conditions capable of sustaining life.
 
-Integrity and transparency underpin all LP activities and communications.
+## Inescapable Harm
 
----
+Honesty requires acknowledging that **complete harmlessness is impossible for a living being**. Eating plants ends life; building shelter takes materials from the earth; movement through the world affects other beings. Even necessary actions can carry unintended consequences. This is not, however, an excuse to do whatever you want. The impossibility of perfect harmlessness does not make avoidable harm acceptable, and it does not relieve you of responsibility for the choices within your power.
 
-## 9. Collaboration vs. Autocracy
+Do no harm/do good therefore requires three continuing practices:
 
-Our leadership model is open, collaborative, and responsive, valuing the wisdom of every community member.
+1. **Minimization:** Relentlessly reduce the harm you cause. Before acting, consider who or what may be affected, including people, animals, ecosystems, and future generations. Where alternatives exist, choose the least harmful adequate option. Refuse unnecessary harm committed for convenience, status, habit, or excess. Look beyond immediate and visible consequences to harms hidden inside supply chains, institutions, and normalized practices. When you discover a harm you previously did not recognize, change your behaviour rather than defending your innocence.
+2. **Reparation:** Where harm occurs, repair what can be repaired. Replant, restore, repay, apologize, rebuild, compensate, and provide care. Reparation must be directed toward the needs of those harmed, not toward making the person responsible feel absolved. An apology without changed behaviour is incomplete, and compensation without prevention leaves the conditions of harm intact. Where damage cannot be fully reversed, acknowledge that limit honestly and act to prevent its recurrence.
+3. **Strictness:** This is a binding ethical standard, not a preference, an identity, or a personal virtue project. Falling short is expected; lowering the standard to accommodate failure is not. Do not rationalize harm because everyone else participates, because the harm is legal, because you acted with good intentions, or because repair would be difficult. Good intentions matter, but they do not erase consequences. When you fall short, acknowledge it, repair what you can, and return to the practice with greater clarity.
 
-## 10. Environmental Responsibility
+Responsibility also increases with power. Those who control workplaces, institutions, resources, and public policy have a greater capacity to cause or prevent harm and therefore carry a greater obligation to act. Individual restraint cannot substitute for collective responsibility. Where harm is produced by systems, the systems themselves must be changed.
 
-Recognizing the intelligence and consciousness in all living beings, LP:
+The aim is the performance of goodness. It is a sustained practice of attention, restraint, care, and repair.
 
-* Does not privilege humans over other life  
-* Promotes environmental stewardship  
-* Encourages vegetarian and vegan lifestyles  
-* Conducts all activities with respect for the surrounding love and intelligence  
+**Harm nothing you can avoid harming.**
+**Heal what you cannot avoid harming.**
+**Meet the essential needs of all.**
 
-## 11. Social Responsibility
-
-LP acknowledges the link between individuals and their social environments. We therefore:
-
-1. **Promote Cultural Sensitivity & Global Awareness**  
-   Respect diverse traditions and integrate global perspectives into teaching.
-
-2. **Encourage Advocacy**  
-   Raise awareness of economic, political, social, environmental, and individual challenges.
-
-3. **Guard Against Cultural Appropriation**  
-   Honor and accurately represent the origins of all spiritual and cultural practices.
-
-## 12. Ethical Business Practices
-
-We maintain high ethical standards in:
-
-* Transparent financial management  
-* Responsible, non-manipulative marketing  
-* Fair treatment of employees and partners  
-
-## 13. Accountability & Feedback
-
-LP embraces continuous improvement. We provide accessible channels for feedback and act promptly to address concerns or grievances.
-
-## 14. Special Considerations
-
-We remain vigilant against:
-
-* **Ego-Driven Leadership & [Ego Inflation](https://spiritwiki.lightningpath.org/index.php/Ego_Inflation)** — fostering humility and compassion rather than narcissism and power  
-* **Hypocrisy** — ensuring consistency between word and action  
-
-## 15. Conclusion
-
-These ethical principles are the foundation of LP’s work and the compass that guides our journey toward human development and spiritual enlightenment. By adhering to them, we strive to create a world that reflects our highest ideals and contributes to the well-being of all.
-
-
-
-
+[^1]: See the [Tanenbaum Reflection on Nonviolence](https://tanenbaum.org/wp-content/uploads/2018/05/Tanenbaum-Reflections-on-Nonviolence.pdf).
